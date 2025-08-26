@@ -4,12 +4,12 @@ import React, {useState, useEffect} from "react"
 
 function App() {
 
-  const [sidebarOpen, setSidebarOpen] = useState(true);
+  const [sidebarOpen, setSidebarOpen] = useState(window.innerWidth > 500);
 
     function toggleSidebar(){
         if(window.innerWidth <= 500){
             setSidebarOpen(!sidebarOpen);
-            console.log("toogle: " + sidebarOpen);
+            console.log("toggle: " + sidebarOpen);
         } 
     }
 
