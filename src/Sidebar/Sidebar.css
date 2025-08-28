@@ -1,8 +1,9 @@
 .sidebar{
+    --sidebar-width: 196px;
     height: var(--sidebar-height);
+    flex: 0 0 var(--sidebar-width);
     display: flex;
     flex-direction: column;
-    width: var(--sidebar-width);
     border-right: 1px solid var(--color-text);
     align-items: center;
     margin-right: 20px;
@@ -11,6 +12,7 @@
 }
 
 .sidebar-closed{
+    --sidebar-width: 0px;
     display: none;
 }
 
