@@ -1,0 +1,127 @@
+[
+    {
+        "codes": ["CSC106"],
+        "min_level": null,
+        "notes": null
+    },
+    {
+        "codes": ["CSC110"],
+        "min_level": null,
+        "notes": null
+    },
+    {
+        "codes": ["CSC211"],
+        "min_level": null,
+        "notes": null
+    },
+    {
+        "codes": ["CSC212"],
+        "min_level": null,
+        "notes": null
+    },
+    {
+        "codes": ["CSC301"],
+        "min_level": null,
+        "notes": null
+    },
+    {
+        "codes": ["CSC305"],
+        "min_level": null,
+        "notes": null
+    },
+    {
+        "codes": ["CSC340"],
+        "min_level": null,
+        "notes": null
+    },
+    {
+        "codes": ["CSC411"],
+        "min_level": null,
+        "notes": null
+    },
+    {
+        "codes": ["CSC412"],
+        "min_level": null,
+        "notes": null
+    },
+    {
+        "codes": ["CSC440"],
+        "min_level": null,
+        "notes": null
+    },
+    {
+        "codes": ["CSC477", "CSC499"],
+        "min_level": null,
+        "notes": null
+    },
+    {
+        "codes": ["CSC310", "CSC372", "CSC402", "CSC406", "CSC415", "CSC436", "CSC450", "CSC461", "CSC462", "CSC481", "CSC493"],
+        "min_level": null,
+        "notes": "One course from this list is required."
+    },
+    {
+        "codes": ["CSC", "CSF"],
+        "min_level": 300,
+        "notes": "Two courses required. CSC 392, 491, and 492 may only be used with departmental permission. CSC 477, 494, and 499 may not be used. Only one course may be CSF."
+    },
+    {
+        "codes": ["MTH180"],
+        "min_level": null,
+        "notes": null
+    },
+    {
+        "codes": ["MTH141"],
+        "min_level": null,
+        "notes": null
+    },
+    {
+        "codes": ["MTH142"],
+        "min_level": null,
+        "notes": null
+    },
+    {
+        "codes": [
+            "MTH215",
+            "MTH243",
+            "MTH244",
+            "MTH322",
+            "MTH362",
+            "MTH382",
+            "ISE332",
+            "STA307",
+            "STA308",
+            "STA409",
+            "STA411",
+            "STA412"
+        ],
+        "min_level": null,
+        "notes": "One course from this list is required."
+    },
+    {
+        "codes": [
+            "PHY111/PHY185",
+            "PHY112/PHY186",
+            "PHY203/PHY273",
+            "PHY204/PHY274",
+            "CHM101/CHM102",
+            "CHM112/CHM114",
+            "BIO101/BIO103",
+            "BIO110/BIO103",
+            "BIO102/BIO104",
+            "GEO103",
+            "OCG123G"
+        ],
+        "min_level": null,
+        "notes": "Two courses from this list are required."
+    },
+    {
+        "codes": ["WRT104", "WRT106"],
+        "min_level": null,
+        "notes": "One course from this list is required."
+    },
+    {
+        "codes": ["WRT227", "WRT235", "WRT302", "WRT303", "WRT332", "WRT334", "HPR142"],
+        "min_level": null,
+        "notes": "One course from this list is required."
+    }
+]
