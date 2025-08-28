@@ -6,7 +6,7 @@
     align-items: center;
     height: var(--header-height);
     padding: 0.75rem 2rem; 
-    
+    z-index: 3;
 }
 
 .mobile-sidebar-toggle .light-icon{

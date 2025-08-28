@@ -3,7 +3,7 @@ import './Sidebar.css'
 function Sidebar({ isOpen }){
 
     return(
-        <div className={isOpen ? "sidebar" : "sidebar-closed"}>
+        <div className={`sidebar ${isOpen ? "" : "closed"}`}>
             <ul className='view-list'>
                 <li><a>Major View</a></li>
                 <li><a>Semester View</a></li>

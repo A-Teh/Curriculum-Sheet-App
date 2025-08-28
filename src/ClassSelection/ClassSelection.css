@@ -30,21 +30,9 @@
   border: none;
   background: var(--color-accent);
   color: var(--color-text);
-  font-weight: bold;
   text-align: center;
-  cursor: pointer;
-  transition: background 0.2s ease, transform 0.1s ease;
   box-shadow: 0 2px 5px rgba(0,0,0,0.15);
 }
-
-.exit-button:hover {
-  transform: scale(1.05);
-}
-
-.exit-button:active {
-  transform: scale(0.95);
-}
-
 
 .class-selection{
     display: flex;

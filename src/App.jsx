@@ -8,7 +8,7 @@ import './App.css';
 function App() {
 
   const [sidebarOpen, setSidebarOpen] = useState(window.innerWidth > 500);
-  const [classSelectionOpen, setClassSelectionOpen] = useState(true);
+  const [classSelectionOpen, setClassSelectionOpen] = useState(false);
 
     function toggleSidebar(){
         if(window.innerWidth <= 500){
@@ -41,7 +41,7 @@ function App() {
       <Header toggleSidebar={toggleSidebar}/>
       <div className={`app-body ${classSelectionOpen ? "blurred" : ""}`}>
         <Sidebar isOpen={sidebarOpen}/>
-        <div className="class-sheet-container">
+        <div className={`class-sheet-container ${sidebarOpen && window.innerWidth <= 500? "blurred" : ""}`}>
           <ClassSheet major="CS-BS" toggleClassSelection={toggleClassSelection}/>
           <ClassSheet major="Gen-Ed" toggleClassSelection={toggleClassSelection}/>
         </div>
