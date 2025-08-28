@@ -2,7 +2,6 @@ import './Sidebar.css'
 
 function Sidebar({ isOpen }){
 
-    console.log("plz", isOpen);
     return(
         <div className={isOpen ? "sidebar" : "sidebar-closed"}>
             <ul className='view-list'>

@@ -1,6 +1,8 @@
 import Header from "./Header/Header.jsx"
 import Sidebar from "./Sidebar/Sidebar.jsx"
+import ClassSheet from "./ClassSheet/ClassSheet.jsx";
 import React, {useState, useEffect} from "react"
+import './App.css';
 
 function App() {
 
@@ -9,15 +11,14 @@ function App() {
     function toggleSidebar(){
         if(window.innerWidth <= 500){
             setSidebarOpen(!sidebarOpen);
-            console.log("toggle: " + sidebarOpen);
         } 
     }
 
-    // Watch for window resize
+    // Adjust window size
     useEffect(() => {
       function handleResize() {
         if (window.innerWidth > 500) {
-          setSidebarOpen(true);   // force open if wider than 500px
+          setSidebarOpen(true);   
         } else {
           setSidebarOpen(false);
         }
@@ -25,14 +26,21 @@ function App() {
 
       window.addEventListener("resize", handleResize);
 
-      // cleanup when component unmounts
+      // cleanup 
       return () => window.removeEventListener("resize", handleResize);
     }, []);
   
   return (
     <>
       <Header toggleSidebar={toggleSidebar}/>
-      <Sidebar isOpen={sidebarOpen}/>
+      <div className="app-body">
+        <Sidebar isOpen={sidebarOpen}/>
+        <div className="class-sheet-container">
+          <ClassSheet major="CS-BS"/>
+          <ClassSheet major="Gen-Ed"/>
+        </div>
+      </div>
+      
     </>
   )
 }

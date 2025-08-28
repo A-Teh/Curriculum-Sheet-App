@@ -1,0 +1,46 @@
+.class-sheet {
+    table-layout: auto;
+    height: fit-content;
+    border-collapse: collapse;
+    margin: 20px 20px;
+    font-size: 16px;
+    background-color: var(--color-table);
+    align-items: center;
+}
+
+.class-sheet .major-title {
+    font-size: 2rem;
+}
+
+.class-sheet thead tr th{
+    font-weight: bold;
+}
+
+.class-sheet th, .class-sheet td {
+    padding: 10px 15px;
+    text-align: left;
+    position: relative;
+}
+
+.selection-button {
+    position: absolute;
+    top: 2px;
+    right: 2px;
+    width: 8%;
+    height: 30%;
+    background-color: var(--color-accent);
+    border: 0;
+    font-size: .7em;
+    color: var(--color-text);
+}
+
+@media (prefers-color-scheme: dark){
+    .class-sheet {
+    background-color: var(--color-table-dark);
+    }
+
+    .selection-button {
+    background-color: var(--color-accent-dark);
+    color: var(--color-text-dark);
+}
+}

@@ -1,0 +1,14 @@
+.app-body{
+    display: flex;
+    flex-direction: row;
+    max-height: var(--sidebar-height)
+}
+
+.class-sheet-container {
+    display: flex;
+    flex-direction: row;
+    width: calc(100% - var(--sidebar-width));
+    justify-content: left;
+    border: 1px solid var(--text-color);
+    overflow-y: auto;
+}
