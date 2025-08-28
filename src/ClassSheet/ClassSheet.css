@@ -52,5 +52,26 @@
     }
 }
 
-@media (max-width: 500px){
+@media (max-width: 500px) {
+  .class-sheet {
+    margin: 20px 20px;
+    font-size: 12px;
+  }
+
+  .class-sheet .major-title {
+    font-size: 1.4rem;
+  }
+
+  .class-sheet th, .class-sheet td {
+    padding: 5px 8px;
+    font-size: 1em;
+  }
+
+  .selection-button {
+    width: 12%;
+    height: 25%;
+    font-size: 0.6em;
+    top: 1px;
+    right: 1px;
+  }
 }
