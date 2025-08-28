@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import "./ClassSheet.css"
 
-function ClassSheet({ major }){
+function ClassSheet({ major, toggleClassSelection}){
 
     const [courses, setCourses] = useState([]);
 
@@ -10,10 +10,6 @@ function ClassSheet({ major }){
         .then(res => res.json())
         .then(data => setCourses(data));
   }, []);
-
-    function toggleCourseSelect(){
-        return(null);
-    }
 
     return(
         <table className="class-sheet">
@@ -32,7 +28,7 @@ function ClassSheet({ major }){
                 {courses.map(course => (
                     <tr key={course.codes[0]}>
                         <td>{course.codes[0]}
-                            {(course.codes.length !== 1)&&(<button className="selection-button" onClick={toggleCourseSelect}>&gt;</button>)}
+                            {(course.codes.length !== 1)&&(<button className="selection-button" onClick={toggleClassSelection}>&gt;</button>)}
                         </td>
                         <td></td>
                         <td>{course.credits}</td>

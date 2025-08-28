@@ -78,6 +78,21 @@ a:hover {
   text-decoration: underline;
 }
 
+button {
+  cursor: pointer;
+  
+  transition: background 0.2s ease, transform 0.1s ease;
+  font-weight: bold;
+}
+
+button:hover {
+  transform: scale(1.05);
+}
+
+button:active {
+  transform: scale(0.95);
+}
+
 @media (max-width: 500px) {
     
 }
