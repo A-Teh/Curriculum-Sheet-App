@@ -12,3 +12,11 @@
     border: 1px solid var(--text-color);
     overflow-y: auto;
 }
+
+@media (max-width: 500px){
+
+    .class-sheet-container {
+        flex-direction: column;
+        width: 100%;
+    }
+}
