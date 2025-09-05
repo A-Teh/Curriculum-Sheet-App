@@ -22,5 +22,11 @@
         "grade": "B",
         "semester": "S24",
         "credits": 4
+    },
+    {
+        "code": "CSC411",
+        "grade": "A",
+        "semester": "S25",
+        "credits": 4
     }
 ]

@@ -4,12 +4,26 @@ import "./ClassSheet.css"
 function ClassSheet({ major, toggleClassSelection}){
 
     const [courses, setCourses] = useState([]);
+    const [studentData, setStudentData] = useState([]);
 
     useEffect(() => {
         fetch(`/Curriculum-Sheet-App/majors/${major}.json`)
         .then(res => res.json())
         .then(data => setCourses(data));
+
+        fetch(`/Curriculum-Sheet-App/student-data.json`)
+        .then(res => res.json())
+        .then(data => setStudentData(data));
   }, []);
+
+    function checkCourseTaken(code){
+        return studentData.some(c => c.code === code);
+    }
+
+    function getSemesterTaken(code){
+        const course = studentData.find(c => c.code === code);
+        return course ? course.semester : null;
+    }
 
     return(
         <table className="class-sheet">
@@ -30,7 +44,7 @@ function ClassSheet({ major, toggleClassSelection}){
                         <td>{course.codes[0]}
                             {(course.codes.length !== 1)&&(<button className="selection-button" onClick={toggleClassSelection}>&gt;</button>)}
                         </td>
-                        <td></td>
+                        <td>{getSemesterTaken(course.codes[0])}</td>
                         <td>{course.credits}</td>
                         <td></td>
                     </tr>
