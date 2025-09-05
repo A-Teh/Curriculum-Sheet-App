@@ -16,13 +16,19 @@ function ClassSheet({ major, toggleClassSelection}){
         .then(data => setStudentData(data));
   }, []);
 
-    function checkCourseTaken(code){
-        return studentData.some(c => c.code === code);
-    }
-
     function getSemesterTaken(code){
         const course = studentData.find(c => c.code === code);
         return course ? course.semester : null;
+    }
+
+    function getCreditsTaken(code){
+        const course = studentData.find(c => c.code === code);
+        return course ? course.credits : null;
+    }
+
+    function getGrade(code){
+        const course = studentData.find(c => c.code === code);
+        return course ? course.grade : null;
     }
 
     return(
@@ -45,8 +51,8 @@ function ClassSheet({ major, toggleClassSelection}){
                             {(course.codes.length !== 1)&&(<button className="selection-button" onClick={toggleClassSelection}>&gt;</button>)}
                         </td>
                         <td>{getSemesterTaken(course.codes[0])}</td>
-                        <td>{course.credits}</td>
-                        <td></td>
+                        <td>{getCreditsTaken(course.codes[0])}</td>
+                        <td>{getGrade(course.codes[0])}</td>
                     </tr>
                 ))}
             </tbody>

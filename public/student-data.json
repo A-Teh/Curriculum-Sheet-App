@@ -1,32 +1,37 @@
 [
-    {
-        "code": "CSC106",
-        "grade": "A",
-        "semester": "Other",
-        "credits": 4
-    },
-    {
-        "code": "CSC110",
-        "grade": "A",
-        "semester": "F23",
-        "credits": 4
-    },
-    {
-        "code": "CSC211",
-        "grade": "A",
-        "semester": "Other",
-        "credits": 4
-    },
-    {
-        "code": "CSC212",
-        "grade": "B",
-        "semester": "S24",
-        "credits": 4
-    },
-    {
-        "code": "CSC411",
-        "grade": "A",
-        "semester": "S25",
-        "credits": 4
-    }
+  {
+    "id": 1,
+    "code": "CSC106",
+    "grade": "A",
+    "semester": "Other",
+    "credits": 4
+  },
+  {
+    "id": 2,
+    "code": "CSC110",
+    "grade": "A",
+    "semester": "F23",
+    "credits": 4
+  },
+  {
+    "id": 3,
+    "code": "CSC211",
+    "grade": "A",
+    "semester": "Other",
+    "credits": 4
+  },
+  {
+    "id": 4,
+    "code": "CSC212",
+    "grade": "B",
+    "semester": "S24",
+    "credits": 4
+  },
+  {
+    "id": 5,
+    "code": "CSC411",
+    "grade": "A",
+    "semester": "S25",
+    "credits": 4
+  }
 ]
