@@ -1,0 +1,116 @@
+[
+    {
+        "code": "BME181",
+        "title": "Biomedical Engineering Seminar I",
+        "credits": "1",
+        "description": "(1 cr.) Seminar series given by instructor, invited experts, and students with focus on biomedical electronics, medical devices, rehabilitation engineering, medical instrumentation, and biomedical ethics. (Seminar) Pre: credit or concurrent enrollment in MTH 141 or permission of instructor."
+    },
+    {
+        "code": "BME207",
+        "title": "Introduction to Biomechanics",
+        "credits": "3",
+        "description": "(3 crs.) Engineering analysis of the human body in equilibrium, biological tissue mechanics (stress and strain), elementary beam theory (bending and torsion) applied to bones. (Lec. 3) Pre: (MTH 142 and PHY 204 and (credit or concurrent enrollment in BIO 220)) or permission of instructor."
+    },
+    {
+        "code": "BME281",
+        "title": "Biomedical Engineering Seminar II",
+        "credits": "1",
+        "description": "(1 cr.) Seminar series given by instructor, invited experts, and students with focus on physiological system modeling, biomechanics, biomaterials, tissue engineering, artificial organs, and biosensors; assignments involving design and 3D printing. (Seminar) Pre: BME 181 or permission of instructor."
+    },
+    {
+        "code": "BME307",
+        "title": "Bioelectricity",
+        "credits": "3",
+        "description": "(3 crs.) Quantitative analysis of electrical phenomena in biological cells, tissues, and organs. Action potentials and propagation in neurons, cardiac and skeletal muscle.  (Lec. 3) Pre: ((ELE 212 or 220) and (MTH 243 or 362)) or permission of instructor."
+    },
+    {
+        "code": "BME360",
+        "title": "Biomeasurement",
+        "credits": "3",
+        "description": "(3 crs.) Principles of biomeasurement, basic electronics, sensors, patient safety, embedded system design with microcontrollers, programming with assembly and C languages, introduction to physiological signals,  introduction to filters. (Lec. 3) Pre: ELE 212. Concurrent enrollment or credit in BME 361 required or permission of instructor."
+    },
+    {
+        "code": "BME361",
+        "title": "Biomeasurement Laboratory",
+        "credits": "1",
+        "description": "(1 cr.) Constructing and experimenting with electronics and embedded systems using microcontrollers, assembly, and C languages, constructing an electrocardiogram (ECG) amplifier, timers, and interrupts embedded signal processing, and implementing QRS detection and heart rate meter. (Lab. 1) Pre: Concurrent enrollment or credit in BME 360 is required."
+    },
+    {
+        "code": "BME362",
+        "title": "Biomedical Instrumentation Design",
+        "credits": "3",
+        "description": "(3 crs.) Overview of bio-measurements, Fundamentals of diagnostic and therapeutic devices, engineering standards, and regulations for medical devices; safety, noise rejection,  biomedical signal processing using computer programming, design of embedded and handheld systems. (Lec. 3) Pre: (BME 360 and BME 361) or permission of instructor."
+    },
+    {
+        "code": "BME363",
+        "title": "Biomedical Instrumentation Design Laboratory",
+        "credits": "1",
+        "description": "(1 cr.) Hands-on applications of electronics, embedded and handheld devices to biomedical instrumentation systems. Computer software application design for collecting, processing, and displaying signals recorded using the handheld device.  (Lab. 3) Pre: Concurrent enrollment or credit in BME 362 or permission of the instructor."
+    },
+    {
+        "code": "BME391",
+        "title": "Special Problems",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "description": "(1-4 crs.) Independent study of special engineering problems. Topic and number of credits determined in consultation with the instructor.  (Independent Study)"
+    },
+    {
+        "code": "BME461",
+        "title": "Physiological Modeling and Control",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (BME), ELE461. Principles of physiological modeling and control of linear and nonlinear systems, stability analysis, root locus, Bode plots, linearization. (Lec. 3) Pre: ELE 314, or permission of instructor. Not for graduate credit."
+    },
+    {
+        "code": "BME464",
+        "title": "Medical Imaging",
+        "credits": "3",
+        "description": "(3 crs.) Engineering and clinical applications of medical imaging systems including X-ray, computed tomography, radioisotope imaging, ultrasound, magnetic resonance imaging; picture archiving and communication system and medical image processing. (Lec. 3) Pre: (BME207 and BME360 and ELE313) or permission of instructor. Not open to students who have credit in ELE564."
+    },
+    {
+        "code": "BME465",
+        "title": "Medical Image Processing Laboratory",
+        "credits": "1",
+        "description": "(1 cr.) Development of medical imaging processing algorithms with graphical user interface in C++ under the Windows operating system; smoothing and sharpening filters, morphological filters, area measurement and edge tracer. (Lab. 1) Pre: credit or concurrent enrollment in BME464. Not open to students who have credit in ELE565."
+    },
+    {
+        "code": "BME466",
+        "title": "Biomaterials Engineering",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (BME), CHE 466. A biomaterial is any material designed to interact with a biological system. This course will examine the structure, properties, and processing of biomaterials in a wide variety of biomedical applications. (Lec. 3) Pre: (CHM 124 or CHM 227 and MTH 244 or 362) or permission of instructor."
+    },
+    {
+        "code": "BME468",
+        "title": "Neural Engineering",
+        "credits": "3",
+        "description": "(3 crs.) Principles and technologies of neuroengineering and clinical applications; brain stimulator, spinal cord stimulation, functional electrical stimulation (FES), neural-machine interface for motor prosthesis control, artificial visual/auditory devices for augmented sensory perception.  (Lec. 3) Pre: BME360 or permission of instructor.  Not open to students who have credit in ELE568."
+    },
+    {
+        "code": "BME473",
+        "title": "Brain Signal Processing and Applications",
+        "credits": "4",
+        "description": "(4 crs.) Presents advanced techniques in brain signal processing including time-frequency analysis (e.g., wavelet), spatial filters (e.g., Laplacian filters), data reduction techniques (e.g., PCA), and machine learning algorithms (e.g., LDA). (Lec. 3, Rec. 1) Pre: {(MTH 243 or equivalent), and (MTH 451 or STA 409 or ISE 311 or equivalent), and (ELE 314 or equivalent), and Matlab programming} or permission of instructor. Familiarity with topics in ELE 501, 506, and 509 is highly recommended."
+    },
+    {
+        "code": "BME484",
+        "title": "Biomedical Engineering Capstone Design I",
+        "credits": "3",
+        "description": "(3 crs.) Applications of engineering skills; team projects in biomedical areas such as neuroengineering, assistive technology, cardiopulmonary measurements, medical imaging, and modeling of physiological systems. First of a two-course sequence. (Lec. 2, Lab. 3) Pre: (BME 207 and 362) or permission of instructor. Not for graduate credit. (D1)"
+    },
+    {
+        "code": "BME485",
+        "title": "Biomedical Engineering Capstone Design II",
+        "credits": "2",
+        "description": "(2 crs.) Applications of engineering skills; team projects in biomedical areas such as neuroengineering, assistive technology, cardiopulmonary measurements, medical imaging, and modeling of physiological systems. (Lec. 1, Lab. 3) Second of a two-course sequence.  Pre: BME 484 or permission of instructor. Not for graduate credit. (D1)"
+    },
+    {
+        "code": "BME491",
+        "title": "Special Problems",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "description": "(1-4 crs.) Independent study of special engineering problems. Topic and number of credits determined in consultation with the instructor.  (Independent Study) Not for graduate credit."
+    }
+]

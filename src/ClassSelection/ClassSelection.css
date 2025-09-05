@@ -90,3 +90,27 @@
         background-color: var(--color-accent-dark);
     }
 }
+
+@media (max-width: 500px) {
+
+    .class-selection-container{
+        width: 80%;
+        max-width: 500px;
+    }
+
+    .exit-button {
+        width: 12px;
+        height: 12px;
+        font-size: .5em;
+    }
+
+    .description h1{
+        font-size: 1.2em;   
+    }
+
+    .class-table th, .class-table td {
+        font-size: .5em;
+        padding: 5px 8px;
+    }
+    
+}

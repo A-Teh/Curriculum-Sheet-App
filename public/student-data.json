@@ -1,0 +1,26 @@
+[
+    {
+        "code": "CSC106",
+        "grade": "A",
+        "semester": "Other",
+        "credits": 4
+    },
+    {
+        "code": "CSC110",
+        "grade": "A",
+        "semester": "F23",
+        "credits": 4
+    },
+    {
+        "code": "CSC211",
+        "grade": "A",
+        "semester": "Other",
+        "credits": 4
+    },
+    {
+        "code": "CSC212",
+        "grade": "B",
+        "semester": "S24",
+        "credits": 4
+    }
+]

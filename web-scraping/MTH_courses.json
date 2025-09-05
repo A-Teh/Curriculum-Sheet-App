@@ -1,0 +1,518 @@
+[
+    {
+        "code": "MTH99",
+        "title": "Basic Algebra",
+        "credits": "1",
+        "description": "(3 crs.) Review of basic algebra: operations of real numbers and algebraic expressions, linear equations and systems of linear equations, linear inequalities and systems of linear inequalities, introduction to polynomials and polynomials operations. (Lec. 3) Credits may not be used toward the minimum credits required for graduation or for General Education. S/U only."
+    },
+    {
+        "code": "MTH101",
+        "title": "Intermediate Algebra",
+        "credits": "3",
+        "description": "(3 crs.) Introduction to algebraic manipulation, solving equations and Inequalities in one variable. Plotting points and graphing elementary functions. Interpreting and expressing mathematics. Intended for STEM majors who are not prepared to take MTH 111. (Lec. 3/Online) Pre: Credit for MTH099. Not for credit for mathematics majors, not for general education credit, and not open to students with a C- or better in MTH131 or MTH141."
+    },
+    {
+        "code": "MTH103",
+        "title": "Applied Precalculus",
+        "credits": "3",
+        "description": "(3 crs.) Linear, quadratic, power, exponential, logarithmic and periodic functions - their graphs and properties. Emphasis on interpretation and real-life applications, examples and modeling. Not for major credit in mathematics. Not intended for students planning to take MTH 111 or MTH 141. (Lec. 3/Online) (A1) (B3)"
+    },
+    {
+        "code": "MTH104",
+        "title": "Puzzles + Games = Analytical Thinking",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (CSC), MTH 104. Introduces mathematical problem solving and computational thinking through puzzles and games. Students work in small groups on activities to enhance their analytic abilities. Topics include numbers, probability, logic, algorithms, and graphs. (Lec. 4) Pre: High school mathematics. No programming required. (B3)"
+    },
+    {
+        "code": "MTH105",
+        "title": "Elementary Mathematical Codebreaking",
+        "credits": "3",
+        "description": "(3 crs.) Use of technology to break codes, including those enciphered by substitution, polyalphabetic, polygraphic, and transposition ciphers. Mathematical topics include modular arithmetic, linear systems, probability. (Lec. 3/Online) Only high school mathematics required. (A1) (B3)"
+    },
+    {
+        "code": "MTH106",
+        "title": "Mathematics of Social Choice and Finance",
+        "credits": "3",
+        "description": "(3 crs.) Voting methods, apportionment problems, and mathematics of everyday finance. Emphasis on development of reasoning ability as well as manipulative techniques. (Lec.3/Online) Not open to students with credit in MTH 108 or MTH 109 and not for major credit in mathematics. (A1) (B3)"
+    },
+    {
+        "code": "MTH107",
+        "title": "Introduction to Finite Mathematics",
+        "credits": "3",
+        "description": "(3 crs.) Concepts and processes of modern mathematics concerned with sets, the theory of probability, and statistics. Role of these concepts in today's social and physical sciences. (Lec. 3/Online) Pre: passing a placement test. Not open to mathematics majors. (A1) (B3)"
+    },
+    {
+        "code": "MTH108",
+        "title": "Topics in Mathematics",
+        "credits": "3",
+        "description": "(3 crs.) Introduces students to the spirit of mathematics and its applications. Emphasis is on development of reasoning ability as well as manipulative techniques. (Lec. 3/Online) Pre: Not open to students with credit in MTH 106 or MTH 109 and not for major credit in mathematics. (A1) (B3)"
+    },
+    {
+        "code": "MTH108H",
+        "title": "Honors Section of MTH 108:  Topics in Mathematics",
+        "credits": "3",
+        "description": "(3 crs.) Honors Section of MTH 108: Topics in Mathematics. (Lec. 3/Online) (MQ) Pre:  Must have a 3.40 overall GPA. Not open to students with credit in MTH 106 or MTH 109 and not for major credit in mathematics. (A1) (B3)"
+    },
+    {
+        "code": "MTH109",
+        "title": "Politics and Mathematics",
+        "credits": "3",
+        "description": "(3 crs.) Elementary mathematical treatments of voting systems and voting paradoxes; models of escalation, conflict, and deterrence, measures of political power, etc. (Lec. 3/Online) Not open for students with credit in MTH 105, MTH 106, MTH 108, or MTH 108H and not for major credit in mathematics. (B3) (A2)"
+    },
+    {
+        "code": "MTH110",
+        "title": "Mathematical Foundations for Business Analysis",
+        "credits": "3",
+        "description": "(3 crs.) Equations of first and second degree. Inequalities. Exponential and logarithmic functions. Emphasis on business applications. Introduction to linear algebra and matrices. Introduction to spreadsheets. Designed for students who want to strengthen their background in math before BAI (BUS) 111. (Lec. 3). Not for credit for mathematics majors and not for general education credit"
+    },
+    {
+        "code": "MTH111",
+        "title": "Precalculus",
+        "credits": "3",
+        "description": "(3 crs.) Equations of first and second degree, systems of equations. Inequalities. Functions and graphs. Exponential, logarithmic, and trigonometric functions. Applications. Introduction to analytic geometry. Complex numbers. Designed for students who need to strengthen their background in mathematics below calculus. (Lec. 3/Online) Pre: passing a placement test or C- or better in MTH 101. Not for credit for mathematics majors. (A1) (B3)"
+    },
+    {
+        "code": "MTH131",
+        "title": "Applied Calculus I",
+        "credits": "3",
+        "description": "(3 crs.) Basic topics in calculus for students who do not need all the topics in 141. Limits, derivatives, and integrals of algebraic, logarithmic, exponential, and trigonometric functions. Applications including graphing, maxima and minima problems, etc. (Lec. 3/Online) Pre: passing a placement test or C- or better in MTH 103 or 111. Not for major credit in mathematics. Not open to students with credit or concurrent enrollment in 141. (A1) (B3)"
+    },
+    {
+        "code": "MTH132",
+        "title": "Applied Calculus II",
+        "credits": "3",
+        "description": "(3 crs.) Continuation of MTH 131. Topics related to trigonometric functions, integration by parts and partial fractions, partial derivatives, infinite series. Applications to problems such as optimization, probability theory, simple differential equations. (Lec. 3) Pre: MTH 131 or 141 or permission of chairperson. Not for major credit in mathematics. Not open to students with credit or concurrent enrollment in 142."
+    },
+    {
+        "code": "MTH141",
+        "title": "Calculus I",
+        "credits": "4",
+        "description": "(4 crs.) Topics in functions and their graphs, limits, the derivative, applications to finding rates of change and extrema and to graphing, the integral, and applications. (Lec. 4/Online) Pre: passing a placement test or C- or better in MTH 111. Not open to students with credit in MTH 131 or concurrent enrollment in MTH 131. (A1) (B3)"
+    },
+    {
+        "code": "MTH141H",
+        "title": "Honors Section of MTH 141: Calc 1",
+        "credits": "4",
+        "description": "(4 crs.) Topics in functions and their graphs, limits, the derivative, applications to finding rates of change and extrema and to graphing, the integral, and applications. (Lec. 4/Online) Pre: passing a placement test or C- or better in MTH111. Not open to students with credit in MTH131 or concurrent enrollment in MTH131. Overall GPA of 3.4 or higher, Honors eligible (incoming freshmen or transfer students), permission of the Honors Director (A1) (B3)\n"
+    },
+    {
+        "code": "MTH142",
+        "title": "Calculus II",
+        "credits": "4",
+        "description": "(4 crs.) Continues the study of calculus for the elementary algebraic and transcendental functions of one variable. Topics include the techniques of integration, improper integrals, application in physics, and calculus using polar coordinates. (Lec. 4/Online) Pre: C- or better in MTH 141 or permission of chairperson. Not open to students with credit or concurrent enrollment in 132. (B3) (A1)"
+    },
+    {
+        "code": "MTH142H",
+        "title": "Honors Section: MTH 142: Intermediate Calculus with Analytic Geometry",
+        "credits": "4",
+        "description": "(4 crs.) Honors Section: MTH 142: Intermediate Calculus with Analytic Geometry. (Lec. 3, Rec. 1/Onine) Pre: Overall GPA 3.40 and MTH 141, or permission of instructor.  Not open to students with credit or concurrent enrollment in MTH 132. (B3) (A1)"
+    },
+    {
+        "code": "MTH180",
+        "title": "Mathematical Tools for Computing",
+        "credits": "3",
+        "description": "(3 crs.) Introduction to mathematical tools and to formal methods of reasoning for computing. Topics include propositional logic, proofs, elementary number theory, counting, graphs, and linear algebra. Emphasis on applications to computing. (Lec. 3/Online) (A1) (B3)"
+    },
+    {
+        "code": "MTH208",
+        "title": "Numeracy for Teachers",
+        "credits": "4",
+        "description": "(4 crs.) Conceptual understanding supporting mathematical ideas presented in current, standards-based elementary mathematics education. An in-depth look at problem solving, number systems, functions, relations, and geometry. This course is appropriate for elementary teachers and teachers in non-STEM fields. (Lec. 3, Rec. 1) (A1) (B3)"
+    },
+    {
+        "code": "MTH209",
+        "title": "Numeracy for Teachers II",
+        "credits": "4",
+        "description": "(4 crs.) This course is a continuation of MTH 208, including conceptual understanding supporting mathematical ideas presented in current, standards-based elementary mathematics education. An in-depth look at functions, relations, fractions, decimals, percentages, probability and statistics, sets, logic, and additional work in geometry. (Lec. 3, Rec. 2) Pre: C- or better in MTH 208."
+    },
+    {
+        "code": "MTH215",
+        "title": "Introduction to Linear Algebra",
+        "credits": "3",
+        "description": "(3 crs.) Detailed study of finite dimensional vector spaces, linear transformations, matrices, determinants and systems of linear equations. (Lec. 3/Online) Pre: C- or better in MTH 131, 141, 180, or equivalent."
+    },
+    {
+        "code": "MTH243",
+        "title": "Calculus for Functions of Several Variables",
+        "credits": "3",
+        "description": "(3 crs.) Topics include coordinates for space, vector geometry, partial derivatives, directional derivatives, extrema, Lagrange multipliers, and multiple integrals. (Lec. 3/Online) Pre: C- or better in MTH 142. (A1) (B3)"
+    },
+    {
+        "code": "MTH244",
+        "title": "Differential Equations",
+        "credits": "3",
+        "description": "(3 crs.) Classification and solution of differential equations involving one independent variable. Applications to the physical sciences. Basics for further study in applied mathematics and for advanced work in physics and engineering. (Lec. 3/Online) Pre: MTH 142."
+    },
+    {
+        "code": "MTH307",
+        "title": "Introduction to Mathematical Rigor",
+        "credits": "3",
+        "description": "(3 crs.) Introduction to the language of rigorous mathematics: logic, set theory, functions and relations, cardinality, induction, methods of proof. Emphasis on precise written and oral presentation of mathematical arguments. (Lec. 3) Pre: MTH 142."
+    },
+    {
+        "code": "MTH316",
+        "title": "Algebra",
+        "credits": "3",
+        "description": "(3 crs.) Theory and structure of groups. Topics from ring theory, principal ideal domains, unique factorization domains, polynomial rings, field extensions, and Galois theory. (Lec. 3) Pre: MTH 215 and 307."
+    },
+    {
+        "code": "MTH322",
+        "title": "Concepts of Geometry",
+        "credits": "3",
+        "description": "(3 crs.) Survey of geometrical systems including non-Euclidean, affine, and projective spaces and finite geometries. A modern view of Euclidean geometry using both synthetic and analytic methods. (Lec. 3) Pre: MTH 215 or permission of instructor."
+    },
+    {
+        "code": "MTH362",
+        "title": "Advanced Engineering Mathematics",
+        "credits": "3",
+        "description": "(3 crs.) Algebra of complex numbers, matrices, determinants, quadratic forms. Linear differential equations with constant coefficients. (Lec. 3/Online) Pre: MTH 142. "
+    },
+    {
+        "code": "MTH381",
+        "title": "History of Mathematics",
+        "credits": "3",
+        "description": "(3 crs.) General survey course in development and philosophy of mathematics. Provides a cultural background and foundation for advanced study in various branches of the subject. (Lec. 3) Pre: MTH 142 or equivalent."
+    },
+    {
+        "code": "MTH382",
+        "title": "Number Theory",
+        "credits": "3",
+        "description": "(3 crs.) Some of the arithmetic properties of the integers including number theoretic functions, congruences, diophantine equations, quadratic residues, and classically important problems. (Lec. 3) Pre: MTH 141 or permission of instructor."
+    },
+    {
+        "code": "MTH391",
+        "title": "Special Problems",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs. ) Advanced work under the supervision of a faculty member and arranged to suit the individual requirements of the student. (Independent Study) Pre: permission of chairperson."
+    },
+    {
+        "code": "MTH393",
+        "title": "Undergraduate Seminar",
+        "credits": "1",
+        "description": "(1 cr.) Preparation and presentation of selected topics in oral and written form. (Seminar) Pre: permission of chairperson."
+    },
+    {
+        "code": "MTH418",
+        "title": "Matrix Analysis",
+        "credits": "3",
+        "description": "(3 crs.) Introduction to topics in matrix analysis with applications to problems in data science, physics, engineering - similarity and eigenvalues; hermitian, normal, and definite matrices; norms; least square; singular value decomposition. (Lec. 3) Pre: MTH 215. (D1)"
+    },
+    {
+        "code": "MTH420",
+        "title": "Re-examining Mathematical Foundations for Teachers",
+        "credits": "3",
+        "description": "(3 crs.) Connects ideas covered in upper level math courses to topics taught in secondary school.  Designed for teachers.  (Lec. 3) Pre: MTH 316 or permission."
+    },
+    {
+        "code": "MTH435",
+        "title": "Mathematical Analysis and Topology I",
+        "credits": "4",
+        "description": "(4 crs.) The first of two courses providing rigorous introduction to mathematical analysis (theory of calculus) and metric space topology as a basis for advanced work in mathematics. (Lec. 4) Pre: MTH 215 and 243 and 307 or permission of instructor."
+    },
+    {
+        "code": "MTH436",
+        "title": "Mathematical Analysis and Topology II",
+        "credits": "4",
+        "description": "(4 crs.) The second of two courses providing rigorous introduction to mathematical analysis (theory of calculus) and metric space topology as a basis for advanced work in mathematics. (Lec. 4) Pre: MTH 435 or permission of instructor."
+    },
+    {
+        "code": "MTH437",
+        "title": "Advanced Calculus and Application I",
+        "credits": "3",
+        "description": "(3 crs.) Sequences, limits, continuity, differentiability, Riemann integrals, functions of several variables, multiple integrals, space curves, line integrals, surface integrals, Green's theorem, Stokes' theorem, series, improper integrals, uniform convergence, Fourier series, Laplace transforms. Applications to physics and engineering emphasized. (Lec. 3) Pre: MTH 243, credit or concurrent enrollment in MTH 215 or 362."
+    },
+    {
+        "code": "MTH438",
+        "title": "Advanced Calculus and Application II",
+        "credits": "3",
+        "description": "(3 crs.) Sequences, limits, continuity, differentiability, Riemann integrals, functions of several variables, multiple integrals, space curves, line integrals, surface integrals, Green's theorem, Stokes' theorem, series, improper integrals, uniform convergence, Fourier series, Laplace transforms. Applications to physics and engineering emphasized. (Lec. 3) Pre: MTH 437."
+    },
+    {
+        "code": "MTH441",
+        "title": "Introduction to Partial Differential Equations",
+        "credits": "3",
+        "description": "(3 crs.) One-dimensional wave equation. Linear second order partial differential equations in two variables. Separation of variables and Fourier series. Nonhomogeneous boundary value problems. Green's functions. (Lec. 3) Pre: MTH243 and (MTH244 or MTH362)"
+    },
+    {
+        "code": "MTH442",
+        "title": "Introduction to Difference Equations",
+        "credits": "3",
+        "description": "(3 crs.) Introduction to linear and nonlinear difference equations; basic theory, z-transforms, stability analysis, and applications. (Lec. 3) Pre: MTH 243. Offered spring semesters."
+    },
+    {
+        "code": "MTH447",
+        "title": "Discrete Mathematical Structures",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (MTH), CSC 447. Concepts and techniques in discrete mathematics. Finite and infinite sets, graphs, techniques of counting, Boolean algebra and applied logic, recursion equations. (Lec. 3) Pre: junior standing or better in physical or mathematical sciences, or in engineering, or permission of instructor."
+    },
+    {
+        "code": "MTH451",
+        "title": "Introduction to Probability and Statistics",
+        "credits": "3",
+        "description": "(3 crs.) Theoretical basis and fundamental tools of probability and statistics. Probability spaces, properties of probability, distributions, expectations, some common distributions and elementary limit theorems. (Lec. 3/Online) Pre: MTH 243 or equivalent."
+    },
+    {
+        "code": "MTH452",
+        "title": "Mathematical Statistics",
+        "credits": "3",
+        "description": "(3 crs.) Continuation of MTH 451 in the direction of statistics. Basic principles of statistical testing and estimation, linear regression and correlation. (Lec. 3) Pre: MTH 451. Offered spring semesters."
+    },
+    {
+        "code": "MTH453",
+        "title": "Basic Random Processes",
+        "credits": "3",
+        "description": "(3 crs.) Conditional probability and expectation. Martingales. Topics include Markov chains, Poisson processes, and Brownian motion. Stochastic modeling and applications. If time permits: stochastic calculus, Markov chain Monte Carlo. (Lec. 3) Pre: MTH 451 or equivalent."
+    },
+    {
+        "code": "MTH455",
+        "title": "Introduction to Chaotic Dynamical Systems",
+        "credits": "3",
+        "description": "(3 crs.) Introduction to nonlinear dynamical systems on the real line and/or the plane. (Lec. 3) Pre: MTH 243 or permission of instructor."
+    },
+    {
+        "code": "MTH462",
+        "title": "Functions of a Complex Variable",
+        "credits": "3",
+        "description": "(3 crs.) First course in the theory of functions of a single complex variable, including analytic functions, power series, residues and poles, complex integration, conformal mapping and applications. (Lec. 3) Pre: MTH 243 or equivalent. Offered alternate fall semesters."
+    },
+    {
+        "code": "MTH471",
+        "title": "Introduction to Numerical Analysis",
+        "credits": "3",
+        "description": "(3 crs.) Computer arithmetic, interpolation, numerical approximation of derivatives, integral numerical ODE, and other topics. (Lec. 3) Pre: MTH 243 or permission of instructor."
+    },
+    {
+        "code": "MTH472",
+        "title": "Numerical Linear Algebra",
+        "credits": "3",
+        "description": "(3 crs.) Systems of linear equations, least squares, approximation, eigenvalue problems.  (Lec. 3) Pre: MTH 243 and 215, or permission of instructor.  Offered in fall semesters of even-numbered years."
+    },
+    {
+        "code": "MTH481",
+        "title": "Introduction to Optimization",
+        "credits": "3",
+        "description": "(3 crs.) Introductory concepts for optimization problems. Basic search methods for unconstrained optimization, Newton's method and conjugate gradient methods. Linear programming, Simplex method. Nonlinear optimization with equality constraints and inequality constraints. (Lec. 3) Pre: MTH 215 and MTH 243."
+    },
+    {
+        "code": "MTH490",
+        "title": "Intermediate Topics in Mathematics",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "description": "(1-4 crs.) Topics in advanced mathematics to introduce the student to concepts beyond the standard undergradaute syllabus. (Lec. 1-4) Pre: permission of chairperson. Not for graduate credit."
+    },
+    {
+        "code": "MTH492",
+        "title": "Special Problems",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Advanced work under the supervision of a faculty member arranged to suit the individual requirements of the student. (Independent Study) Pre: permission of chairperson."
+    },
+    {
+        "code": "MTH513",
+        "title": "Linear Algebra",
+        "credits": "4",
+        "description": "(4 crs.) Linear spaces and transformations, eigenvalues and eigenvectors, invariant subspaces, inner products, orthogonal projections, norms, minimizations, spectral theorem, the Cayley-Hamilton, Jordan canonical form, and singular value decomposition. (Lec. 4)"
+    },
+    {
+        "code": "MTH515",
+        "title": "Algebra I",
+        "credits": "3",
+        "description": "(3 crs.) Groups, rings, modules, commutative algebra. (Lec. 3) Pre: MTH 316. In alternate years."
+    },
+    {
+        "code": "MTH516",
+        "title": "Algebra II",
+        "credits": "3",
+        "description": "(3 crs.) Groups, rings, modules, commutative algebra. (Lec. 3) Pre: MTH 515. In alternate years."
+    },
+    {
+        "code": "MTH518",
+        "title": "Matrix Analysis and Applications",
+        "credits": "3",
+        "description": "(3 crs.) Topics in matrix analysis with applications - similarity and eigenvalues; Hermitian and normal matrices; canonical forms; norms; least square, eigenvalue localizations; singular value decomposition; definite matrices. (Lec. 3) Pre: MTH 142 and MTH 215 or permission of instructor."
+    },
+    {
+        "code": "MTH525",
+        "title": "Topology",
+        "credits": "3",
+        "description": "(3 crs.) Topological spaces, separation properties, connectedness, compactness, uniformities. Function spaces, spaces of continuous functions, and complete spaces. (Lec. 3) Pre: MTH 435 or equivalent. In alternate years."
+    },
+    {
+        "code": "MTH535",
+        "title": "Measure Theory and Integration",
+        "credits": "3",
+        "description": "(3 crs.) Elements of topology and linear analysis. Lebesgue measure and integration in R, in Rn, and in abstract spaces. Convergence theorems. Bounded variation, absolute continuity, and differentiation. Lebesgue-Stieltjes integral. Fubini and Tonelli theorems. The classical Banach spaces. (Lec. 3) Pre: MTH 435."
+    },
+    {
+        "code": "MTH536",
+        "title": "Measure Theory and Integration",
+        "credits": "3",
+        "description": "(3 crs.) Elements of topology and linear analysis. Lebesgue measure and integration in R, in Rn, and in abstract spaces. Convergence theorems. Bounded variation, absolute continuity, and differentiation. Lebesgue-Stieltjes integral. Fubini and Tonelli theorems. The classical Banach spaces. (Lec. 3) Pre: MTH 535."
+    },
+    {
+        "code": "MTH542",
+        "title": "Global Character of Difference Equations I",
+        "credits": "3",
+        "description": "(3 crs.) Global character, periodic behavior, and asymptotic nature of solutions of difference equations and systems of difference equations with applications.  Recent topics on rational equations and rational systems in higher dimensions. (Lec. 3)  Pre: MTH 243 and 244, or permission of instructor."
+    },
+    {
+        "code": "MTH543",
+        "title": "Global Character of Difference Equations II",
+        "credits": "3",
+        "description": "(3 crs.) Global character, periodic behavior, and asymptotic nature of solutions of difference equations and systems of difference equations with applications.  Recent topics on rational equations and rational systems in higher dimensions. (Lec. 3)  Pre: MTH 243 and 244, or permission of instructor."
+    },
+    {
+        "code": "MTH545",
+        "title": "Ordinary Differential Equations I",
+        "credits": "3",
+        "description": "(3 crs.) Existence and uniqueness theorems. Continuous dependence on parameters and initial conditions. Singularities of the first and second kinds, self-adjoint eigenvalue problems on a finite interval. Oscillation and comparison theorems. Introduction to delay and difference equations. Elements of stability theory of Lyapunov's second method. (Lec. 3) Pre: MTH 243 and 244, or permission of instructor."
+    },
+    {
+        "code": "MTH546",
+        "title": "Ordinary Differential Equations II",
+        "credits": "3",
+        "description": "(3 crs.) Existence and uniqueness theorems. Continuous dependence on parameters and initial conditions. Singularities of the first and second kinds, self-adjoint eigenvalue problems on a finite interval. Oscillation and comparison theorems. Introduction to delay and difference equations. Elements of stability theory of Lyapunov's second method. (Lec. 3) Pre: MTH 545. In alternate years."
+    },
+    {
+        "code": "MTH547",
+        "title": "Combinatorics",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (MTH), CSC 547. Enumeration: generation functions, recurrence relations, classical counting numbers, inclusion-exclusion, finite set systems and designs. Polya theory, coding theory, and Ramsey theory. Finite fields and algebraic methods. (Lec. 3) Pre: MTH 316.  Offered alternate fall semesters."
+    },
+    {
+        "code": "MTH548",
+        "title": "Graph Theory",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (MTH), CSC 548. Basic concepts and techniques of graph theory as well as some of their applications. Topics include: connectivity, matchings, colorings, extremal problems, Ramsey theory, planar graphs, algebraic techniques. (Lec. 3) Pre: MTH 316."
+    },
+    {
+        "code": "MTH550",
+        "title": "Probability and Stochastic Processes",
+        "credits": "3",
+        "description": "(3 crs.) Review of probability theory. Generating functions, renewal theory, Markov chains and processes, Brownian motions, stationary processes. (Lec. 3) Pre: MTH 435 or 437; and MTH 451. In alternate years."
+    },
+    {
+        "code": "MTH552",
+        "title": "Mathematical Statistics",
+        "credits": "3",
+        "description": "(3 crs.) Theory of estimation and hypothesis testing. Large sample methods. Regression and analysis of variance. (Lec. 3) Pre: MTH 550."
+    },
+    {
+        "code": "MTH555",
+        "title": "Dynamical Systems",
+        "credits": "3",
+        "description": "(3 crs.) The objective of this course is to develop the theory of Topological Dynamical Systems, that is the study of iterated continuous mappings from a topological space to itself. (Lec. 3) Pre: MTH 435 or permission of instructor."
+    },
+    {
+        "code": "MTH562",
+        "title": "Complex Function Theory",
+        "credits": "3",
+        "description": "(3 crs.) Rigorous development of theory of functions. Topology of plane, complex integration, singularities, conformal mapping. (Lec. 3) Pre: (MTH 435 and 436); or (MTH 437 and 438). In alternate years."
+    },
+    {
+        "code": "MTH571",
+        "title": "Numerical Analysis",
+        "credits": "3",
+        "description": "(3 crs.) Computer arithmetic, interpolation, numerical approximation of derivatives and integrals, numerical ODE, and other topics. (Lec. 3) Pre: MTH 243."
+    },
+    {
+        "code": "MTH572",
+        "title": "Numerical Partial Differential Equations",
+        "credits": "3",
+        "description": "(3 crs.) Further numerical methods of solution of simultaneous equations, partial differential equations, integral equations. Error analysis. (Lec. 3)"
+    },
+    {
+        "code": "MTH581",
+        "title": "Optimization Methods",
+        "credits": "3",
+        "description": "(3 crs.) Linear and nonlinear optimization emphasizing problem formulation, methodologies, and underlying mathematical structures. Topics covered: linear programming, simplex method, duality, sensitivity; constrained and unconstrained optimization; line search and Newton methods. (Lec. 3) Pre: MTH 215 and MTH 243 or permission of instructor."
+    },
+    {
+        "code": "MTH590",
+        "title": "Advanced Topics in Mathematics",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "description": "(1-4 crs.) Topics in advanced mathematics to introduce the student to concepts beyond the standard curriculum. (Lec.) Pre: Permission of Chairperson."
+    },
+    {
+        "code": "MTH591",
+        "title": "Special Problems",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Advanced work under the supervision of a member of the department arranged to suit the individual requirements of the student. (Independent Study) Pre: permission of chairperson."
+    },
+    {
+        "code": "MTH592",
+        "title": "Special Problems",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Advanced work under the supervision of a member of the department arranged to suit the individual requirements of the student. (Independent Study) Pre: permission of chairperson."
+    },
+    {
+        "code": "MTH599",
+        "title": "Master's Thesis Research",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "(1-6 crs.) Number of credits is determined each semester in consultation with the major professor or program committee. (Independent Study) S/U credit."
+    },
+    {
+        "code": "MTH629",
+        "title": "Functional Analysis I",
+        "credits": "3",
+        "description": "(3 crs.) Banach and Hilbert spaces, basic theory. Bounded linear operators, spectral theory. Applications to analysis. Application to a special topic such as differential operators, semigroups and abstract differential equations, theory of distributions, or ergodic theory. (Lec. 3) Pre: MTH 436 or permission of instructor."
+    },
+    {
+        "code": "MTH630",
+        "title": "Functional Analysis II",
+        "credits": "3",
+        "description": "(3 crs.) Banach and Hilbert spaces, basic theory. Bounded linear operators, spectral theory. Applications to analysis. Application to a special topic such as differential operators, semigroups and abstract differential equations, theory of distributions, or ergodic theory. (Lec. 3) Pre: MTH 629 or permission of instructor."
+    },
+    {
+        "code": "MTH656",
+        "title": "Probability on Discrete Structures",
+        "credits": "3",
+        "description": "(3 crs.) Rigorous development of the fundamental concepts and techniques for analyzing random discrete structures. Topics to include: random graphs and networks, measure concentration, phase transitions, random walks, and pseudorandomness. (Lec. 3) Pre: MTH 550 or permission of the instructor."
+    },
+    {
+        "code": "MTH691",
+        "title": "Special Topics I",
+        "credits": "3",
+        "description": "(3 crs.) Advanced topics of current research in mathematics will be presented with a view to expose the students to the frontiers of the subject. (Independent Study) Pre: permission of chairperson."
+    },
+    {
+        "code": "MTH692",
+        "title": "Special Topics II",
+        "credits": "3",
+        "description": "(3 crs.) Advanced topics of current research in mathematics will be presented with a view to expose the students to the frontiers of the subject. (Independent Study) Pre: permission of chairperson."
+    },
+    {
+        "code": "MTH699",
+        "title": "Doctoral Dissertation Research",
+        "credits": {
+            "min": "1",
+            "max": "12"
+        },
+        "description": "(1-12 crs.) Number of credits is determined each semester in consultation with the major professor or program committee. (Independent Study) S/U credit."
+    },
+    {
+        "code": "MTH910",
+        "title": "Seminar for Graduate Teaching Assistants in Mathematics",
+        "credits": "1",
+        "description": "(1 cr.) Preparing students for their role as teaching assistants, including classroom management skills, understanding cultural differences. (Seminar) Must be taken for a total of 2 credits. Pre: Mathematics graduate teaching assistant. S/U only.\n"
+    }
+]
