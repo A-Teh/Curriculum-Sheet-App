@@ -33,5 +33,26 @@
     "grade": "A",
     "semester": "S25",
     "credits": 4
+  },
+  {
+    "id": 6,
+    "code": "CSC406",
+    "grade": "A",
+    "semester": "F24",
+    "credits": 4
+  },
+  {
+    "id": 7,
+    "code": "MTH141",
+    "grade": "A",
+    "semester": "Other",
+    "credits": 4
+  },
+  {
+    "id": 8,
+    "code": "BIO101",
+    "grade": "C-",
+    "semester": "Other",
+    "credits": 3
   }
 ]

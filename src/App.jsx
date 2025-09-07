@@ -9,6 +9,7 @@ function App() {
 
   const [sidebarOpen, setSidebarOpen] = useState(window.innerWidth > 500);
   const [classSelectionOpen, setClassSelectionOpen] = useState(false);
+  const [selectedRequirement, setSelectedRequirement] = useState("bruh");
 
     function toggleSidebar(){
         if(window.innerWidth <= 500){
@@ -16,8 +17,9 @@ function App() {
         } 
     }
 
-    function toggleClassSelection(){
+    function toggleClassSelection(course){
         setClassSelectionOpen(!classSelectionOpen);
+        setSelectedRequirement(course);
     }
 
     // Adjust window size
@@ -46,7 +48,7 @@ function App() {
           <ClassSheet major="Gen-Ed" toggleClassSelection={toggleClassSelection}/>
         </div>
       </div>
-      {classSelectionOpen && <ClassSelection toggleClassSelection={toggleClassSelection} />} 
+      {classSelectionOpen && <ClassSelection toggleClassSelection={toggleClassSelection} selectedRequirement={selectedRequirement}/>} 
     </>
     
 

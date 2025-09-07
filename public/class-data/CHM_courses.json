@@ -1,0 +1,416 @@
+[
+    {
+        "code": "CHM101",
+        "title": "General Chemistry Lecture I",
+        "credits": "3",
+        "description": "(3 crs.) Fundamental chemical concepts and principles. Topics include states of matter, stoichiometry, reactivity, atomic structure, thermochemistry, bonding, molecular structure and solutions. (Lec. 3) Pre: concurrent enrollment in CHM101R, or credit or concurrent enrollment in MTH131 or MTH141. Not open to students with credit in CHM103 or CHM191. (A1)"
+    },
+    {
+        "code": "CHM101H",
+        "title": "Honors Section of CHM 101: General Chemistry Lecture I",
+        "credits": "3",
+        "description": "(3 crs.) Fundamental chemical concepts and principles. Topics include states of matter, stoichiometry, reactivity, atomic structure, thermochemistry, bonding, molecular structure and solutions. (Lec. 3) Pre: Honors Program New Admit or Honors Transfer Admit or CGPA 3.4 or above with a C- or better in CHM101. Not open to students with credit in CHM103 or CHM191. (A1)"
+    },
+    {
+        "code": "CHM101R",
+        "title": "Recitation for General Chemistry 1",
+        "credits": "1",
+        "description": "(1 cr.) Students in CHM101R will meet once a week in smaller recitation sections (20-30 students per section) with a graduate teaching assistant and will perform in-depth problem-solving tasks related to the major topics covered in CHM101. Students may not drop this course if they want to remain in CHM101. (Rec. 1) Pre: Concurrent enrollment in CHM101."
+    },
+    {
+        "code": "CHM102",
+        "title": "Laboratory for Chemistry 101",
+        "credits": "1",
+        "description": "(1 cr.) Experimental applications of chemical concepts and reactivity emphasizing safety and technique. Experiments follow the content of CHM 101. Pre: credit or concurrent enrollment in CHM 101."
+    },
+    {
+        "code": "CHM103",
+        "title": "Introductory Chemistry Lecture",
+        "credits": "3",
+        "description": "(3 crs.) One-semester general chemistry course designed for students whose curriculums require the one-semester organic chemistry course, CHM 124. (Lec. 3/Online) Pre: Not open to students with credit in CHM101, CHM101H, or CHM191. (A1)"
+    },
+    {
+        "code": "CHM103H",
+        "title": "Honors Section of CHM 103: Introductory Chemistry Lecture",
+        "credits": "3",
+        "description": "(3 crs.) One-semester general chemistry course designed for students whose curriculums require the one-semester organic chemistry course, CHM 124. (Lec. 3) Pre: Honors Program New Admit or Honors Transfer Admit or CGPA 3.4 or above. Not open to students with credit in CHM101, CHM101H, CHM103 or CHM191. (A1)\n"
+    },
+    {
+        "code": "CHM105",
+        "title": "Laboratory for Chemistry 103",
+        "credits": "1",
+        "description": "(1 cr.) Fits course content of CHM103. (Lab. 3) Pre: credit or concurrent enrollment in CHM103 or CHM103H."
+    },
+    {
+        "code": "CHM112",
+        "title": "General Chemistry Lecture II",
+        "credits": "3",
+        "description": "(3 crs.) Chemical kinetics, equilibrium, elementary thermodynamics and electrochemistry integrated with descriptive chemistry and practical applications. (Lec. 3/Online) Pre: CHM101 (grade of C- or better) or CHM101H (grade of C- or better)."
+    },
+    {
+        "code": "CHM112H",
+        "title": "Honors Section of CHM112: General Chemistry Lecture II",
+        "credits": "3",
+        "description": "(3 crs.) Chemical kinetics, equilibrium, elementary thermodynamics and electrochemistry integrated with descriptive chemistry and practical applications. (Lec 3) Pre: CHM101 (grade of C- or better) or CHM101H (grade of C- or better), and a 3.4 GPA or higher\n"
+    },
+    {
+        "code": "CHM114",
+        "title": "Laboratory for Chemistry 112",
+        "credits": "1",
+        "description": "(1 cr.) Experiments follow the content of CHM112. (Lab. 2) Pre: CHM102 and credit or concurrent enrollment in CHM112 or CHM112H."
+    },
+    {
+        "code": "CHM124",
+        "title": "Introduction To Organic Chemistry",
+        "credits": "3",
+        "description": "(3 crs.) Elementary principles of organic chemistry with emphasis on aliphatic compounds, especially those of physiological significance such as amino acids and proteins, carbohydrates, fats, and waxes. (Lec. 3/Online) Pre: CHM101 or CHM101H or CHM103 with a grade of C- or better. Not open to chemistry or chemical engineering majors."
+    },
+    {
+        "code": "CHM124H",
+        "title": "Honors Section of CHM 124",
+        "credits": "3",
+        "description": "(3 crs.) Elementary principles of organic chemistry with emphasis on aliphatic compounds, especially those of physiological significance such as amino acids and proteins, carbohydrates, fats, and waxes. (Lec. 3) Pre: CHM 101 with a grade of C- or better or CHM 103 with a grade of C- or better. Must have 3.4 GPA or higher. Not open to chemistry or chemical engineering majors.\n"
+    },
+    {
+        "code": "CHM126",
+        "title": "Laboratory for Chemistry 124",
+        "credits": "1",
+        "description": "(1 cr.) Introduction to chemistry procedures, with emphasis on properties of substances of physiological significance. (Lab. 3) Pre: CHM102 or CHM105, and credit or concurrent enrollment in CHM124 or CHM124H. Not for chemistry or chemical engineering majors."
+    },
+    {
+        "code": "CHM191",
+        "title": "General Chemistry",
+        "credits": "5",
+        "description": "(5 crs.) Atomic theory and structure, stoichiometry, chemical reactions, thermo-chemistry, bonding and states of matter. Laboratory experiments illustrate basic procedures, concepts, and principles. (Lec. 4, Lab. 3) Pre: Chemistry major. Not open to students with credit in CHM101 or CHM101H."
+    },
+    {
+        "code": "CHM192",
+        "title": "General Chemistry",
+        "credits": "5",
+        "description": "(5 crs.) Continuation of 191. Principles of kinetics, equilibrium, and thermodynamic integrated with descriptive chemistry and qualitative analysis. Laboratory experiments parallel lecture topics. (Lec. 4, Lab. 3) Pre: Chemistry major, and prior or concurrent enrollment in MTH141, and CHM101 or CHM101H, and CHM102 (grade of C- or better) or CHM191 (grade of C- or better). Not open to students with credits in CHM112."
+    },
+    {
+        "code": "CHM212",
+        "title": "Quantitative Analysis",
+        "credits": "4",
+        "description": "(4 crs.) Principles of gravimetric and volumetric analysis with detailed attention to solution of stoichiometric problems. Laboratory analysis of representative substances by gravimetric or volumetric procedures. (Lec. 3, Lab. 3) Pre: CHM112 or CHM112H, and CHM114 with grade of C- or better or CHM192 with grade of C- or better."
+    },
+    {
+        "code": "CHM226",
+        "title": "Organic Chemistry Laboratory",
+        "credits": "2",
+        "description": "(2 crs.) Common techniques and typical preparative methods in both aliphatic and aromatic series. (Lab. 6) Pre: CHM114 or CHM112H, and credit or concurrent enrollment in CHM228. Not open to students with credit in CHM229 or CHM230."
+    },
+    {
+        "code": "CHM227",
+        "title": "Organic Chemistry Lecture I",
+        "credits": "3",
+        "description": "(3 crs.) General principles and theories with emphasis on classification, nomenclature, methods of preparation, and characteristic reactions of organic compounds in aliphatic series. (Lec. 3/Online) Pre: CHM112 or CHM112H with grade of C- or better, or CHM192 with grade of C- or better."
+    },
+    {
+        "code": "CHM227H",
+        "title": "Honors Section of CHM 227: Organic Chemistry Lecture I",
+        "credits": "3",
+        "description": "(3 crs.) Honors Section of CHM 227: Organic Chemistry Lecture I. General principles and theories with emphasis on classification, nomenclature, methods of preparation, and characteristic reactions of organic compounds in aliphatic series. (Lec. 3) Pre: CHM112 or CHM112H with a grade of C- or better; or CHM192 with a grade of C- or better, and 3.40 overall GPA."
+    },
+    {
+        "code": "CHM228",
+        "title": "Organic Chemistry Lecture II",
+        "credits": "3",
+        "description": "(3 crs.) Continuation of CHM227 with emphasis on the aromatic series. (Lec. 3/Online) Pre: CHM227 or CHM227H with a grade of C- or better."
+    },
+    {
+        "code": "CHM228H",
+        "title": "Honors Section of CHM 228: Organic CHM Lecture II",
+        "credits": "3",
+        "description": "(3 crs.) Honors Section of CHM 228: Organic Chemistry Lecture II. Continuation of 227 with emphasis on the aromatic series. (Lec. 3) Pre: overall 3.40 gpa or higher, and CHM227 or CHM227H with a grade of C- or better."
+    },
+    {
+        "code": "CHM291",
+        "title": "Organic Chemistry",
+        "credits": "3",
+        "description": "(3 crs.) Development of principles and theory through an examination of structure, nomenclature, and reactions of organic compounds. (Lec. 3) Pre: CHM 192 with grade of C- or better, and chemistry major. Not open to students with credit in CHM 227."
+    },
+    {
+        "code": "CHM292",
+        "title": "Organic Chemistry",
+        "credits": "5",
+        "description": "(5 crs.) Continuation of CHM 291 with extension to several additional families of compounds. (Lec. 3, Lab. 6) Pre: CHM 291 with grade of C- or better, and chemistry major. Not open to students with credit in CHM 228."
+    },
+    {
+        "code": "CHM335",
+        "title": "Physical Chemistry Laboratory",
+        "credits": "2",
+        "description": "(2 crs.) Physical chemical properties of gases, liquids, and solutions; electrochemical cells; phase diagrams of binary and ternary systems; and chemical kinetics. Designed for chemistry majors. (Lab. 4) Pre: 431. May be taken concurrently with CHM 431."
+    },
+    {
+        "code": "CHM353",
+        "title": "Undergraduate Research",
+        "credits": {
+            "min": "1",
+            "max": "12"
+        },
+        "description": "(1-12 crs.) Methods of approach to a research problem. Literature, laboratory work, and a report of an original problem or problems. (Independent Study) Pre: permission of instructor. May be repeated for a maximum of 12 credits. Must earn a total of 3 or more credits to fulfill the general education outcome. (D1)"
+    },
+    {
+        "code": "CHM354",
+        "title": "Undergraduate Research in Forensic Chemistry",
+        "credits": {
+            "min": "1",
+            "max": "12"
+        },
+        "description": "(1-12 crs.) Methods of approach to a research problem in forensic chemistry. Literature, laboratory work, and a report of an original problem or problems. (Independent Study) Pre: permission of instructor. May be repeated for a maximum of 12 credits. Must earn a total of 3 or more credits to fulfill the general education outcome. (D1)"
+    },
+    {
+        "code": "CHM371",
+        "title": "Undergraduate Learning Assistants in Chemistry",
+        "credits": "1",
+        "description": "(1 cr.) Introduces students to various aspects of college level teaching while working under the supervision of course instructors or faculty members in Chemistry. Students will help students during problem-solving sessions. (Practicum) Pre: Permission of instructor only. May be repeated for a maximum of 3 credits. S/U only."
+    },
+    {
+        "code": "CHM391",
+        "title": "Forensic Science Overview",
+        "credits": "1",
+        "description": "(1 cr.) A seminar/discussion group designed to introduce students to the areas and issues in Forensic Science. Students seeking a forensic science minor should attend this weekly seminar two semesters. (Lec. 1) May be repeated for a total of 3 credits."
+    },
+    {
+        "code": "CHM392",
+        "title": "Introduction to Criminalistics",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (CHM), FOS 392. A class designed to introduce students to the basic areas and issues in forensic science in criminalistics. It is required for students seeking a forensic science minor. May not be repeated for credit. May not be taken in the same semester as CHM 391. (Lec. 3)"
+    },
+    {
+        "code": "CHM401",
+        "title": "Intermediate Inorganic Chemistry",
+        "credits": "3",
+        "description": "(3 crs.) Principles of inorganic chemistry broadly related to structure and reactivity. Many-electron atoms bonding theories, acid-base concepts, coordination chemistry, reaction mechanisms. (Lec. 3) Pre: CHM 432."
+    },
+    {
+        "code": "CHM402",
+        "title": "Physical Inorganic Laboratory",
+        "credits": "2",
+        "description": "(2 crs.) Synthesis of inorganic compounds emphasizing inert atmosphere and vacuum line techniques; characterization by spectroscopic and electrochemical techniques. (Lab. 6) Pre: CHM 401."
+    },
+    {
+        "code": "CHM412",
+        "title": "Instrumental Methods of Analysis",
+        "credits": "3",
+        "description": "(3 crs.) Theory and application of optical and electrical instruments to solution of chemical problems: flame photometry, emission spectroscopy, ultraviolet, visible, and infrared spectrophotometry, colorimetry, turbidimetry, nephelometry, fluorometry, potentiometry, voltametric titration methods. (Lec. 3) Pre: CHM 212; and 228 or 292; and completion or concurrent enrollment in 432."
+    },
+    {
+        "code": "CHM414",
+        "title": "Instrumental Methods of Analysis Laboratory",
+        "credits": "2",
+        "description": "(2 crs.) Applications of instrumental methods to the solution of problems in analytical chemistry. (Lab. 6) Pre: credit or concurrent enrollment in 412."
+    },
+    {
+        "code": "CHM425",
+        "title": "Qualitative Organic Analysis",
+        "credits": "2",
+        "description": "(2 crs.) Techniques in organic chemical research, including handling air sensitive chemicals, flash chromatography, and instrumental methods of structure determination. Separation of mixtures and identification of components by infrared and nuclear magnetic resonance spectroscopies. (Lab. 6) Pre: CHM 292 or 226 and 228 and credit or concurrent enrollment in CHM 427."
+    },
+    {
+        "code": "CHM427",
+        "title": "Intermediate Organic Chemistry",
+        "credits": "3",
+        "description": "(3 crs.) Intermediate organic chemistry with emphasis on organic reaction mechanism, stereochemistry, spectroscopic characterization, and newer synthetic methods. (Lec. 3) Pre: CHM 226 and 228 with a grade of C- or better, or CHM 292 with a grade of C- or better."
+    },
+    {
+        "code": "CHM431",
+        "title": "Physical Chemistry I",
+        "credits": "3",
+        "description": "(3 crs.)  Gas laws, laws of thermodynamics, chemical equilibrium, phase equilibria, and electrochemistry. (Lec. 3) Pre: CHM 112 and 114 with a grade of C- or better, or CHM 192 with a grade of C- or better, and MTH 142 with a grade of C- or better, and PHY 112 or PHY 204.  May be taken for graduate credit by graduate students whose undergraduate programs do not require physical chemistry."
+    },
+    {
+        "code": "CHM432",
+        "title": "Physical Chemistry II",
+        "credits": "3",
+        "description": "(3 crs.) Atomic theory, quantum chemistry, bonding, molecular interactions, chemical kinetics, kinetic theory, and spectroscopy. (Lec. 3) Pre: CHM 431with a grade of C- or better.  May be taken for graduate credit by graduate students whose undergraduate programs do not require physical chemistry."
+    },
+    {
+        "code": "CHM441",
+        "title": "The Chemistry of Biological Systems",
+        "credits": "3",
+        "description": "(3 crs.) Chemical biology, molecular aspects of biological structures, equilibria, energetics, reactions, and metabolism. (Lec. 3) Pre: CHM 228 or 292, 432."
+    },
+    {
+        "code": "CHM461",
+        "title": "Understanding Complexities of Chemistry and STEM Learning",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (CHM) 561. Introduction to discipline-based education research focusing on learning theories that inform chemistry & STEM education. Emphasis is on how people learn which informs research designs, pedagogical decisions, and student experiences. (Lec. 3) Pre: CHM 228, 228H, or 292; or permission of instructor. Not for graduate credit."
+    },
+    {
+        "code": "CHM477",
+        "title": "Internship in Chemistry and Forensic Chemistry",
+        "credits": "3",
+        "description": "(3 crs.) Supervised professional experience with a relevant company or organization. Activities and expectations to be determined between site supervisor and intern and approved by a faculty advisor, prior to registration.  Course may be repeated once with permission of the course instructor and department chair, but not for department major/minor credit. A maximum 3 credits can be applied to a major/minor in Chemistry. Not for graduate credit. (Practicum) Pre: Instructor consent. S/U credit only."
+    },
+    {
+        "code": "CHM492",
+        "title": "Seminar In Chemistry",
+        "credits": "1",
+        "description": "(1 cr.) Preparation and presentation of papers on selected topics in chemistry. Required of seniors in chemistry. (Seminar) Pre: credit or concurrent enrollment in CHM 432. Not for graduate credit."
+    },
+    {
+        "code": "CHM500",
+        "title": "Chemical Safety and Research Ethics",
+        "credits": "1",
+        "description": "(1 cr.) This course will equip first-year graduate students with the necessary hygiene and safety skills, and ethical standards for performing chemical research. Essential skills for success as a professional scientist. (Lec. 1) Pre: Graduate standing or permission of instructor."
+    },
+    {
+        "code": "CHM501",
+        "title": "Advanced Inorganic Chemistry I",
+        "credits": "3",
+        "description": "(3 crs.) Systematic analysis of bonding schemes and structural aspects of molecular systems encountered in inorganic chemistry. Special emphasis on electron density distributions, physical methods of analysis, and practical applications of quantum mechanics. (Lec. 3) Pre: CHM 401."
+    },
+    {
+        "code": "CHM502",
+        "title": "Advanced Inorganic Chemistry II",
+        "credits": "3",
+        "description": "(3 crs.) Modern inorganic chemistry approached from experimental, theoretical, and descriptive points of view. Includes electronic structure and bonding in coordination chemistry, topology, thermodynamics of complex formation, mechanisms, lanthanides, and actinides. (Lec. 3) Pre: CHM401 or equivalent."
+    },
+    {
+        "code": "CHM505",
+        "title": "Chemical Synthesis and Mechanism",
+        "credits": "3",
+        "description": "(3 crs.) The theory and design of modern synthetic schemes. Emphasis will be placed on broadly used reactions that can be applied to interdisciplinary bioorganic, organometallic and materials chemistry research. (Lec. 3) Pre: CHM 427 or permission of the instructor."
+    },
+    {
+        "code": "CHM506",
+        "title": "Chemical Analysis",
+        "credits": "3",
+        "description": "(3 crs.) Fundamental principles governing methods and instrumentation used for chemical analysis. (Lec. 3) Pre: CHM 412 or permission of the instructor."
+    },
+    {
+        "code": "CHM507",
+        "title": "Chemical Structure and Material Property",
+        "credits": "3",
+        "description": "(3 crs.) Fundamentals and applications of chemical thermodynamics, molecular structures, chemical transformations, principles and practice of computational chemistry. (Lec. 3) Pre: CHM 432 or permission of the instructor."
+    },
+    {
+        "code": "CHM511",
+        "title": "Advanced Analytical Chemistry I",
+        "credits": "3",
+        "description": "(3 crs.) Complex Equilibria and Electrochemistry: Topics include solution theory; acid-base, precipitation and complexation reactions; redox chemistry, amperometry, voltammetry, specialized electrodes and electrochemical sensors.  Statistical treatment of data. (Lec. 3) Pre: CHM 412 or permission of instructor."
+    },
+    {
+        "code": "CHM512",
+        "title": "Advanced Analytical Chemistry II",
+        "credits": "3",
+        "description": "(3 crs.) Fundamentals of chromatographic and electrophoretic separations and major spectroscopic techniques. Basic theory, instrumentation, advantages, limitations, and applications of these techniques as well as new instrumental developments are discussed. (Lec. 3) Pre: CHM 412 and MTH 243."
+    },
+    {
+        "code": "CHM514",
+        "title": "Fundamentals of Mass Spectrometry",
+        "credits": "3",
+        "description": "(3 crs.) Principles of mass spectrometry (MS).  The fundamentals of mass spectrometer will be discussed in detail as well as historic developments and MS types. Typical analytical problems will be reviewed and examined in a laboratory setting. (Lec. 2/Lab. 1) Pre: Completion or concurrent enrollment in CHM 500, or by permission of instructor."
+    },
+    {
+        "code": "CHM519",
+        "title": "Theoretical Concepts in NMR",
+        "credits": "3",
+        "description": "(3 crs.) The physical concepts of NMR phenomena are presented, beginning with signals generated in the probe, carried through the spectrometer console, into the computer, and finally represented as a spectrum. (Lec. 3) Pre: CHM 292, PHY 112, and MTH 141, or equivalents, or permission of instructor."
+    },
+    {
+        "code": "CHM521",
+        "title": "Advanced Organic Chemistry I",
+        "credits": "3",
+        "description": "(3 crs.) Emphasis on the structures, reactivities, and syntheses of organic molecules. (Lec. 3) Pre: CHM 226 and 228 or equivalent."
+    },
+    {
+        "code": "CHM522",
+        "title": "Advanced Organic Chemistry II",
+        "credits": "3",
+        "description": "(3 crs.)  Advanced fundamental organic chemistry including mechanism, synthesis, organometallics, bio-organic, organic materials, and/or molecular recognition.  (Lec. 3) Pre: CHM 427 or 521 or equivalent."
+    },
+    {
+        "code": "CHM532",
+        "title": "Advanced Physical Chemistry II",
+        "credits": "3",
+        "description": "(3 crs.) Principles and applications of quantum chemistry. Includes the formal development of quantum theory and applications to electronic structure as well as other problems of chemical interest. (Lec. 3) Pre: CHM 432 or permission of instructor."
+    },
+    {
+        "code": "CHM540",
+        "title": "Energetic Materials",
+        "credits": "3",
+        "description": "(3 crs.) Defines, describes, and covers the basic behavior of energetic materials. Topics discussed include characterization, analysis, safety-testing, and performance of energetic materials. (Lec. 3) Pre: BS in chemistry or permission from instructor."
+    },
+    {
+        "code": "CHM551",
+        "title": "Nonthesis Master's Research",
+        "credits": "3",
+        "description": "(3 crs.) Research on original problem for fulfillment of research requirement of nonthesis master's degree. Literature survey, laboratory work, and detailed report required. (Independent Study) Pre: permission of chairperson."
+    },
+    {
+        "code": "CHM552",
+        "title": "Nonthesis Master's Research",
+        "credits": {
+            "min": "2",
+            "max": "3"
+        },
+        "description": "(2-3 crs.) Research on original problem for fulfillment of research requirement of nonthesis master's degree. Literature survey, laboratory work, and detailed report required. (Independent Study) Pre: permission of chairperson."
+    },
+    {
+        "code": "CHM561",
+        "title": "Understanding Complexities of Chemistry and STEM Learning",
+        "credits": "3",
+        "description": "(3 crs.) Advanced discussion of discipline-based education research and learning theories that inform chemistry & STEM education. Emphasis is on how people learn which informs research designs, pedagogical decisions, and student experiences. (Lec. 3) Pre: Graduate student in the Department of Chemistry or permission from instructor."
+    },
+    {
+        "code": "CHM599",
+        "title": "Master's Thesis Research",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "description": "(1-9 crs.) Number of credits is determined each semester in consultation with the major professor or program committee. A minimum of 6 credits is required of students who have chosen the thesis option for the master's degree. (Independent Study) S/U credit."
+    },
+    {
+        "code": "CHM618",
+        "title": "Surface Analysis",
+        "credits": "3",
+        "description": "(3 crs.) In-depth presentation of theory of surface analysis methods.  Emphasis on methods development, advanced topics, and current advances using electron spectroscopy, surface mass spectroscopy, and surface vibrational spectroscopy. (Lec. 3) Pre: CHM 505, 506, and 507 or permission of instructor"
+    },
+    {
+        "code": "CHM621",
+        "title": "Advanced Topics in Physical Organic Chemistry",
+        "credits": "3",
+        "description": "(3 crs.) Mechanistic aspects of organic chemistry: molecular orbital theory, thermal and photochemical cycloadditions and rearrangements. Consideration of carbenes, nitrenes, and free radicals. Evaluation of steric, stereoelectronic, and secondary orbital effects. (Lec. 3) Pre: CHM 521 and 522 or permission of instructor."
+    },
+    {
+        "code": "CHM642",
+        "title": "Graduate Seminar",
+        "credits": "1",
+        "description": "(1 cr.) Results of detailed literature surveys are presented orally and in writing. Required for candidates for advanced degrees in chemistry. (Seminar) S/U credit."
+    },
+    {
+        "code": "CHM643",
+        "title": "Graduate Seminar",
+        "credits": "1",
+        "description": "(1 cr.) Results of detailed literature surveys are presented orally and in writing. Required for candidates for advanced degrees in chemistry. (Seminar) S/U credit."
+    },
+    {
+        "code": "CHM644",
+        "title": "Graduate Seminar",
+        "credits": "1",
+        "description": "(1 cr.) Results of detailed literature surveys are presented orally and in writing. Required for candidates for advanced degrees in chemistry. (Seminar) S/U credit."
+    },
+    {
+        "code": "CHM691",
+        "title": "Special Topics",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Covers special research topics of interest. (Independent Study) Pre: permission of instructor. May be repeated for a maximum of 6 credits."
+    },
+    {
+        "code": "CHM699",
+        "title": "Doctoral Dissertation Research",
+        "credits": {
+            "min": "1",
+            "max": "12"
+        },
+        "description": "(1-12 crs.) Number of credits is determined each semester in consultation with the major professor or program committee. (Independent Study) S/U credit."
+    }
+]

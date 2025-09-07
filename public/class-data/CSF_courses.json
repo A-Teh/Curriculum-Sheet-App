@@ -1,0 +1,131 @@
+[
+    {
+        "code": "CSF102G",
+        "title": "Cyber Security Technology and Issues in a Global Society",
+        "credits": "4",
+        "description": "(4 crs.) Provides an overview of the technology, threats, and social impact of cybersecurity. (Lec. 3, Lab 1/Online). (C2) (B3) (GC)"
+    },
+    {
+        "code": "CSF202",
+        "title": "Fundamentals for Cyber Security",
+        "credits": "4",
+        "description": "(4 crs.) Overview of technical background required for cyber security. Including: binary/hex number systems, operating systems concepts and installation, Python, file systems, OSI model, network topologies and protocols. (Online) Pre: CSC110 or CSC211, earned at least 36 credits, or by permission of instructor."
+    },
+    {
+        "code": "CSF410",
+        "title": "Digital Forensics I",
+        "credits": "4",
+        "description": "(4 crs.) The science, technology, procedures, and law of acquiring and analyzing digital evidence from computers and devices. (Online 4) Pre: B or better in CSF 202 and cumulative GPA of 2.7, or by permission of instructor."
+    },
+    {
+        "code": "CSF412",
+        "title": "Digital Forensics II",
+        "credits": "4",
+        "description": "(4 crs.) Selected focused topics on acquiring and analyzing evidence from digital devices. Details on analysis of specific operating system artifacts. (Online) Pre: CSF 410.  Not for graduate credit."
+    },
+    {
+        "code": "CSF430",
+        "title": "Introduction to Information Assurance",
+        "credits": "4",
+        "description": "(4 crs.) Fundamental concepts to understand threats to security; various defenses against those threats. Planning for security; technology used to defend computer systems; implementing security measures and technology. (Online 4) Pre: C- or better in CSF 202 or permission of instructor."
+    },
+    {
+        "code": "CSF432",
+        "title": "Introduction to Network and Systems Security",
+        "credits": "4",
+        "description": "(4 crs.) This course provides an overview of network and systems security. It provides the underlying theory of computer security. It further introduces hands-on skills and techniques that are essential to effectively secure the networks and systems of large and small organizations. (Online) Pre: Minimum cumulative GPA of 2.7 and B or better in CSF 202, or by permission of instructor."
+    },
+    {
+        "code": "CSF434",
+        "title": "Network and Systems Security",
+        "credits": "4",
+        "description": "(4 crs.) Advanced security topics including intrusion detection, penetration testing, incident response, malware analysis, and risk management. (Online) Pre: CSF 432. "
+    },
+    {
+        "code": "CSF438",
+        "title": "Introduction to Penetration Testing",
+        "credits": null,
+        "description": "(4 crs.) Cross-listed as (CSF), CSC 438. Provides an overview of techniques used in assessing the security of networks and identifying vulnerabilities. Topics include network traffic analysis, session hijacking, social engineering, application exploitation, rootkits, network sniffers as well as developing threats. (Online) Pre: CSF 432. Not for graduate credit."
+    },
+    {
+        "code": "CSF462",
+        "title": "Secure Programming",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (CSF), CSC 462. This class will present the basic topics in computer security and their relation to secure programming. Security models, threats, design principles and secure coding practices will be discussed. We will also look at programming language features and semantics to evaluate whether they help or hurt the ability to write secure programs. (Lec. 3, Lab. 1) Pre: CSC 305."
+    },
+    {
+        "code": "CSF505",
+        "title": "Professional Development in Cybersecurity",
+        "credits": "2",
+        "description": "(2 crs.) Cybersecurity career preparation. (Seminar) Pre: permission of the instructor. May be repeated for a maximum of 8 credits. S/U credit."
+    },
+    {
+        "code": "CSF512",
+        "title": "Advanced Digital Forensics",
+        "credits": "4",
+        "description": "(4 crs.) New and emerging techniques for identifying, acquiring, and analyzing new and emerging sources of digital evidence. Current research in Digital Forensics. (Online 4) Pre: CSF 410."
+    },
+    {
+        "code": "CSF516",
+        "title": "File System Analysis",
+        "credits": "4",
+        "description": "(4 crs.) The structure and implementation of computing device file systems. Forensic analysis and reconstruction of digital evidence found in modern file systems. (Online 4) Pre: CSF 410."
+    },
+    {
+        "code": "CSF524",
+        "title": "Advanced Incident Response",
+        "credits": "4",
+        "description": "(4 crs.) Presents advanced techniques and research for incident response and live forensics. Topics may include live forensics in cloud environments, visualization of security incidents, and live forensics in the smart grid. (Online) Pre: CSF 432 or CSF 410."
+    },
+    {
+        "code": "CSF534",
+        "title": "Advanced Topics in Network and System Security",
+        "credits": "4",
+        "description": "(4 crs.) Advanced topics in network security including intrusion detection, penetration testing, incident response, malware analysis, and risk management. Students will learn relevant skills and research emerging solutions to these problems. (Online 4) Pre: CSF 432."
+    },
+    {
+        "code": "CSF536",
+        "title": "Advanced Intrusion Detection and Defense",
+        "credits": "4",
+        "description": "(4 crs.) Presents advanced techniques and research on intrusion detection and network defense. Topics may include network traffic analysis, intrusion analysis, machine learning techniques for intrusion detection, data mining for intrusion detection, advanced persistent threats. (Online 4) Pre: CSF 432."
+    },
+    {
+        "code": "CSF538",
+        "title": "Penetration Testing",
+        "credits": "4",
+        "description": "(4 crs.) Advanced techniques used in assessing the security of networks and identifying vulnerabilities. Network traffic analysis; session hijacking; social engineering; application exploitation; rootkits; network sniffers; developing threats. (Online 4) Pre: CSF 432"
+    },
+    {
+        "code": "CSF540",
+        "title": "Introduction to Malware Analysis",
+        "credits": "4",
+        "description": "(4 crs.) Introduces core concepts and terminology associated with the practice of malware analysis. Provides a fundamental understanding of basic and advanced static and dynamic malware analysis. Additional topics will include: data encoding, packers, and other forms of anti-malware analysis techniques. (Online) Pre: CSF 432."
+    },
+    {
+        "code": "CSF560",
+        "title": "Cyber Threat Intelligence",
+        "credits": "4",
+        "description": "(4 crs.) Introduction to cyber threat intelligence and how it is applied across public and private sector organizations. Topics include stages of intelligence life cycle, cyber security frameworks, tradecraft skills. (Online) Pre: CSF 534."
+    },
+    {
+        "code": "CSF580",
+        "title": "Professional Skills for Cyber Security",
+        "credits": "4",
+        "description": "(4 crs.) This course provides each student with a framework for understanding organizational behavior in the context of organizational decision making and leadership in a cyber security work environment. It examines the theory, research, and practice of organizational behavior in work settings, focusing on individual differences, communications, group dynamics, motivation, and leadership. Through course discussion, analytical writing, and exercises, students will learn to apply professional skills in a technical working environment to promote both individual and organizational success. (Online) Pre: CSF 430."
+    },
+    {
+        "code": "CSF590",
+        "title": "Cyber Security Internship",
+        "credits": "4",
+        "description": "(4 crs.) This course provides each student with a professional experience working on an internship, applying technical and professional cyber security skills. (Online) Pre: CSF 580 or permission of instructor. S/U only."
+    },
+    {
+        "code": "CSF591",
+        "title": "Directed Study in Cyber Security",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "description": "(1-4 crs.) Advanced work in cyber security conducted as supervised individual projects. (Independent Study) Pre: permission of instructor. S/U only."
+    }
+]

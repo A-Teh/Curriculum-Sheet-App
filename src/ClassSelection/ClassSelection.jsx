@@ -1,20 +1,74 @@
 import { useState, useEffect } from "react";
 import "./ClassSelection.css"
 
-function ClassSelection({toggleClassSelection}){
-    const desc = "Two CSC or CSF courses at the 300-level or above. CSC 392, 491, and 492 may only be used with department";
-    const course = {
-        "codes": [, "CSC310", "CSC372", "CSC402", "CSC406", "CSC415", "CSC436", "CSC450", "CSC461", "CSC462", "CSC481", "CSC493", "CSC310", "CSC372", "CSC402", "CSC406", "CSC415", "CSC436", "CSC450", "CSC461", "CSC462", "CSC481", "CSC493"],
-        "min_level": null,
-        "notes": "One course from this list is required."
+function ClassSelection({toggleClassSelection, selectedRequirement}){
+
+    const [majorCourses, setMajorCourses] = useState(null);
+    const [studentData, setStudentData] = useState([]);
+
+    useEffect(() => {
+        const uniqueMajorCodes = [...new Set(selectedRequirement.codes.map(code => code.slice(0, 3)))];
+        let majorData = {}
+        for (const majorCode of uniqueMajorCodes){
+            fetch(`/Curriculum-Sheet-App/class-data/${majorCode}_courses.json`)
+            .then(res => res.json())
+            .then(data => majorData[majorCode] = data)
+        }
+        setMajorCourses(majorData)
+
+        fetch(`/Curriculum-Sheet-App/student-data.json`)
+        .then(res => res.json())
+        .then(data => setStudentData(data));
+    }, []);
+
+    if (!majorCourses || Object.keys(majorCourses).length === 0) {
+        return <p>Loading courses...</p>;
     }
-    const classDesc = "Programming for Data Science"
+
+
+    function displayClassData(code){
+        const majorCode = code.slice(0,3)
+        const currCourses = majorCourses[majorCode];
+
+        if (!currCourses) {
+            return <td>Loading course...</td>;
+        }
+
+        const course = currCourses.find(c => c.code === code);
+        const studentDatum = studentData.find(c => c.code === code);
+
+        let title = ""
+        let credits = ""
+        let grade = ""
+        
+        if (course){
+            title = course.title;
+            credits = typeof course.credits === "object" ?  `${course.credits.min}-${course.credits.max}` : course.credits;  //Account for classes with varible credits
+        }
+
+        if (studentDatum){
+            grade = studentDatum.grade;
+        }
+        
+        const status = grade ? "Taken" : "Not Taken"
+        
+        return (
+            <>
+                <td>{code}</td>
+                <td>{title}</td>
+                <td>{credits}</td>
+                <td>{grade}</td>
+                <td>{status}</td>
+            </>
+        )
+    }
+    
     return(
         <div className="class-selection-container">
             
             <div className="description">
-                    <button className="exit-button" onClick={toggleClassSelection}>X</button>
-                    <h1>{desc}</h1>
+                    <button className="exit-button" onClick={() => toggleClassSelection(null)}>X</button>
+                    <h1>{selectedRequirement.notes || "One course from this list is required."}</h1>
                 </div>
             <div className="class-selection">
                 <table className="class-table">
@@ -28,13 +82,9 @@ function ClassSelection({toggleClassSelection}){
                         </tr>
                     </thead>
                     <tbody>
-                        {course.codes.map(c => (
-                            <tr >
-                                <td>{c}</td>
-                                <td>{classDesc}</td>
-                                <td>4</td>
-                                <td>A</td>
-                                <td>Taken</td>
+                        {selectedRequirement.codes.map(c => (
+                            <tr key={c}>
+                                {displayClassData(c)}
                             </tr>
                         ))}
                     </tbody>

@@ -1,0 +1,635 @@
+[
+    {
+        "code": "BIO101",
+        "title": "Principles of Biology I",
+        "credits": "3",
+        "description": "(3 crs.) Chemistry, structure, metabolism, and reproduction of cells. Principles of genetics. Structure, development, and physiology of animals. Survey of the animal kingdom. (Lec. 3/Online) Pre: Credit or concurrent enrollment in BIO 103. Not open to students with credit in BIO 110. (A1)"
+    },
+    {
+        "code": "BIO101H",
+        "title": "Honors Section of BIO 101: Principles of Biology I",
+        "credits": "3",
+        "description": "(3 crs.) Honors Section of BIO 101: Chemistry, structure, metabolism, and reproduction of cells. Principles of genetics. Structure, development, and physiology of animals. Survey of the animal kingdom. (Lec. 3) Pre: Credit or concurrent enrollment in BIO 103 and a 3.4 overall GPA. Not open to students with credit in BIO 110. (A1)"
+    },
+    {
+        "code": "BIO102",
+        "title": "Principles of Biology II",
+        "credits": "3",
+        "description": "(3 crs.) Structure, physiology, and reproduction of plants. Diversity of plants, fungi, and algae. Principles of ecology and evolution. (Online) Pre: BIO 101 or 110, 103, and credit or concurrent enrollment in BIO 104. (A1)"
+    },
+    {
+        "code": "BIO103",
+        "title": "Principles of Biology Laboratory I",
+        "credits": "1",
+        "description": "(1 cr.) Selected laboratory exercises to accompany BIO 101. (Lab. 2) Pre: credit or concurrent enrollment in BIO 101 or 110. (A1)"
+    },
+    {
+        "code": "BIO104",
+        "title": "Principles of Biology Laboratory II",
+        "credits": "1",
+        "description": "(1 cr.) Selected laboratory exercises to accompany BIO 102. (Lab. 2) Pre: BIO 101 or 110, 103 and credit or concurrent enrollment in 102. (A1)"
+    },
+    {
+        "code": "BIO110",
+        "title": "Fundamentals of Biology",
+        "credits": "3",
+        "description": "(3 crs.) Fundamental biological concepts including the chemical and cellular basis of life, genetics, evolution, and organismal form and function. Intended for science majors who require one semester of biology. (Lec. 3/Online) Pre: Credit or concurrent enrollment in BIO 103. Not open to students with credit in BIO 101. (A1)"
+    },
+    {
+        "code": "BIO130",
+        "title": "Topics In Marine Biology",
+        "credits": "1",
+        "description": "(1 cr.) Current and classical issues considered in small classes. Designed for students interested in marine biology. (Seminar) Pre: Limited to marine biology majors. Required of all freshmen marine biology majors and students entering the major with fewer than 24 credits. May not be repeated."
+    },
+    {
+        "code": "BIO181G",
+        "title": "The Information Age: From Politics to Medicine",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (BIO), DSP 181G. How big data affects our society, from advertising to politics to medicine. (Lec. 3/Online) Not for major credit for B.S. Biological Sciences or B.A. Biology. (A1) (GC)"
+    },
+    {
+        "code": "BIO201",
+        "title": "General Animal Physiology",
+        "credits": "4",
+        "description": "(4 crs.) The study of animal physiology (respiration, bioenergetics, locomotion, circulation, osmoregulation, hormones, nervous system, sensory organs, reproduction, immune function) with a consideration of environmental challenges and evolutionary adaptations. (Lec. 3, Lab. 1) Pre: BIO 101/103  or 110/103, and 102/104, and CHM 101, or permission of instructor."
+    },
+    {
+        "code": "BIO220",
+        "title": "Fundamentals of Human Anatomy and Physiology I",
+        "credits": "3",
+        "description": "(3 crs.) Explores the integration of the structures and functions of the human organism through a systems approach; including the biochemical properties of the cell, integumentary, muscular, skeletal, and nervous systems. (Lec. 3/Online) Pre: Credit or concurrent enrollment in BIO 221."
+    },
+    {
+        "code": "BIO221",
+        "title": "Fundamentals of Human Anatomy and Physiology I Laboratory",
+        "credits": "1",
+        "description": "(1 cr.) Fundamental structure and function of organ systems of the human body explored through models, dissections, and experiments. Specific topics include: tissues, integumentary system, muscular system, skeletal system, and nervous system. (Lab. 1) Pre: Credit or concurrent enrollment in BIO 220."
+    },
+    {
+        "code": "BIO222",
+        "title": "Fundamentals of Human Anatomy and Physiology II",
+        "credits": "3",
+        "description": "(3 crs.) Explores the integration of the structures and functions of the human organism through a systems approach; including senses, endocrine, cardiovascular, lymphatic, immune, respiratory, digestive, urinary, and reproductive. (Lec. 3/Online) Pre: BIO 220 and 221, and credit or concurrent enrollment in BIO 223."
+    },
+    {
+        "code": "BIO223",
+        "title": "Fundamentals of Human Anatomy and Physiology II Laboratory",
+        "credits": "1",
+        "description": "(1 cr.) Fundamental structure and function of organ systems of the human body explored through models, dissections, and experiments. Specific topics include: special senses, endocrine, circulatory, respiratory, digestive, urinary, and reproductive systems. (Lab. 1) Pre: BIO 220 and BIO 221, and credit or concurrent enrollment in BIO 222."
+    },
+    {
+        "code": "BIO228",
+        "title": "Seminar in Biological Sciences",
+        "credits": "1",
+        "description": "(1 cr.) Lectures by local scientists on recent and ongoing basic research in biology, especially on-campus studies. Follow-up discussions will support student understanding and prepare students for independent research. (Seminar) Pre: Credit or concurrent registration in BIO 102. S/U only."
+    },
+    {
+        "code": "BIO230G",
+        "title": "Communicating Science through Data Visualization",
+        "credits": "3",
+        "description": "(3 crs.) Exploring how scientists and communicators can use data visualization to communicate complex concepts simply and effectively to wide and varied audiences. (Lec. 2, Online) Pre: Students must be of sophomore standing. (C1) (GC)"
+    },
+    {
+        "code": "BIO256G",
+        "title": "Risking our Reefs: Human Impacts on Ecosystem Builders",
+        "credits": "3",
+        "description": "(3 crs.) Examination of human impacts on coral and oyster reef ecosystems and the ecological, economic, and ethical considerations of reef use and restoration. (Lec. 3) Pre: BIO 262 or NRS 223. (A1) (C2) (GC)"
+    },
+    {
+        "code": "BIO262",
+        "title": "Introductory Ecology",
+        "credits": "4",
+        "description": "(4 crs.) Structure and function of ecosystems, limiting factors, population dynamics, population interactions, and community relationships. Selected habitats and general ecological effects of humans. (Lec. 3, Rec. 1) Pre: BIO 101 or 110, 102 or equivalent."
+    },
+    {
+        "code": "BIO263",
+        "title": "Introduction to Ecological Data Analysis",
+        "credits": "1",
+        "description": "(1 cr.) Cross-listed (BIO) NRS 263. Learn to analyze ecological data. Gain quantitative skills, reinforce ecological concepts, and learn to integrate concepts to answer biological questions. (Lec. 1) Pre: credit or concurrent registration in BIO 262."
+    },
+    {
+        "code": "BIO272",
+        "title": "Introduction to Evolution",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (BIO), GEO 272. Introduction to evolution as the unifying thread in the biosphere. Processes and patterns discussed, including microevolution and macroevolution. Social impact of evolution discussed from a biological perspective. Pre: GEO 102 or one semester of biological sciences, or permission of instructors."
+    },
+    {
+        "code": "BIO282G",
+        "title": "Sapiens: The Changing Nature of Human Evolution",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed with (BIO), APG 282G. Study of human origins and history in order to understand Homo sapiens as a significant cause of evolutionary change, including an in-depth description of our widespread influence on Earth's systems. (Lec. 3) Pre: Sophomore or higher standing. (A1) (C2) (GC)"
+    },
+    {
+        "code": "BIO286",
+        "title": "Humans, Insects, and Disease",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (BIO), ENT 286. Role of insects, ticks, and mites as vectors and as direct agents of diseases in humans; factors affecting the spread of these diseases and their role in our cultural development. (Lec. 3)"
+    },
+    {
+        "code": "BIO291",
+        "title": "Laboratory Research Skills",
+        "credits": "1",
+        "description": "(1 cr.) Cross-listing as (AFS), AVS, BIO 291. Overview of the general operations of a scientific laboratory, commonly used scientific infrastructure, equipment and skills to prepare students for working in professional laboratories. (Lab. 1, Online) Pre: Sophomore standing; permission of instructor. The course is not for lab credit for B.S. Biological Sciences & B.S. Marine Biology."
+    },
+    {
+        "code": "BIO300",
+        "title": "Physiology of Exercise",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (KIN), BIO 300. Applied human physiology, with applications to physical activity, exercise, and sport. Particular attention to acute and chronic adjustments of the circulatory, respiratory, metabolic, and muscular systems with exercise. (Lec. 3/Online) Pre: BIO 121 or BIO 220 and BIO 221 and BIO 222 and BIO 223 or permission of instructor. Open to Kinesiology and Biology majors only."
+    },
+    {
+        "code": "BIO301",
+        "title": "Physiology of Exercise Laboratory",
+        "credits": "",
+        "description": "(1 cr.) Cross-listed as (KIN), BIO 301. Student participation in laboratory sessions designed to understand the physiology of exercise relating to body composition, EKG, pulmonary, and metabolic functions. (Lab. 2) Pre: BIO 220, BIO 221, BIO 222 and BIO 223, completion of or concurrent enrollment in KIN (BIO) 300 or permission of instructor. Open to Kinesiology and Biology majors only."
+    },
+    {
+        "code": "BIO302",
+        "title": "Animal Development",
+        "credits": "4",
+        "description": "(4 crs.) Survey of the patterns and mechanisms of animal development, including the molecular genetic control of development, medical developmental biology and evolution of development. (Lec. 3, Lab 3) Pre: BIO 101 or 110, 102, and two additional semesters of biological sciences; genetics recommended."
+    },
+    {
+        "code": "BIO308",
+        "title": "The Invisible Living Ocean",
+        "credits": "2",
+        "description": "(3 crs.) The goal of this course is to explore the major groups of marine organisms that are mostly invisible to the naked eye, which fuel food webs, drive global biogeochemical cycles and affect climate. (Lec. 3) Pre: BIO 101 or 110, and BIO 102, or permission of instructor."
+    },
+    {
+        "code": "BIO310",
+        "title": "Bermuda Marine Biodiversity",
+        "credits": "2",
+        "description": "(2 crs.) Based at the Bermuda Institute for Ocean Sciences, this course will provide students with experience in biodiversity assessment in the field, where we will blend fieldwork, lectures and laboratory manipulation. (Lab. 6) Pre: concurrent enrollment in BIO308."
+    },
+    {
+        "code": "BIO311",
+        "title": "Plant Structure and Development",
+        "credits": "4",
+        "description": "(4 crs.) Structure of vascular plant cells, tissues and organs; cellular and molecular mechanisms controlling developmental processes including cell division, leaf initiation, epidermal patterning and vascular differentiation. (Lec. 3, Lab. 3) Pre:  BIO 102 or permission of instructor."
+    },
+    {
+        "code": "BIO320",
+        "title": "Introduction to Computational Biology",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (CMB), BIO 320. Introduction to the current topics of computational biology. Students will obtain hands-on experiences in navigating biological databases and analyzing biological data. (Lec. 3) Pre: CMB 201 or CMB 211."
+    },
+    {
+        "code": "BIO321",
+        "title": "Plant Diversity",
+        "credits": "4",
+        "description": "(4 crs.) Representative forms of prokaryotes, algae, fungi, bryophytes, and vascular plants with emphasis on evolution, ecology, and life cycle. (Lec. 3, Lab. 3) Pre:  BIO 102 or permission of instructor."
+    },
+    {
+        "code": "BIO323",
+        "title": "Field Botany and Taxonomy",
+        "credits": "4",
+        "description": "(4 crs.) Cross-list with (NRS), BIO 323. Collection, identification, and study of vascular flora of Rhode Island, including use of manuals and herbarium specimens. Field trips throughout Rhode Island. Discussion of principles, methods, and data used in classification. (Lab. 2, Online) Pre: BIO 102."
+    },
+    {
+        "code": "BIO331",
+        "title": "Parasitology",
+        "credits": "3",
+        "description": "(3 crs.) An introduction to the biology of parasitic organisms, including life cycles, infection pathways, and impacts on hosts. Topics are explored via lecture, laboratory exercises, literature review, and discussion groups. (Online) Pre: BIO 101 and BIO 102."
+    },
+    {
+        "code": "BIO332",
+        "title": "Plant Pathology: Introduction to Plant Diseases",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (BIO), PLS 332. Nature, cause, and control of plant diseases. Use of basic techniques for identification of major types of plant diseases and their causal agents. (Lec. 4) Pre: BIO 102 or PLS 150 or permission of instructor."
+    },
+    {
+        "code": "BIO341",
+        "title": "Principles of Cell Biology",
+        "credits": "3",
+        "description": "(3 crs.) Cross-list as (BIO), CMB 341. An introduction to the structure and organization of eukaryotic cells. Topics include membranes and organelles, gene expression, protein synthesis and secretion, energy utilization, the cytoskeleton, and signal transduction. (Lec. 3) Pre: one semester of biological sciences and one semester of organic chemistry."
+    },
+    {
+        "code": "BIO345",
+        "title": "Marine Environmental Physiology",
+        "credits": "4",
+        "description": "(4 crs.) The physiological basis of adaptation to the marine environment. Physiological methods used to study marine organisms (Lec. 3, Lab. 1) Pre: BIO 260 or 360 or permission of instructor."
+    },
+    {
+        "code": "BIO346",
+        "title": "Plant Physiology",
+        "credits": "3",
+        "description": "(3 crs.) Development and function of vascular plants, including energy and nutrient assimilation, growth, reproduction, and interactions with other organisms and the physical environment. (Lec. 3) Pre: BIO 102, one semester of chemistry, or permission of instructor."
+    },
+    {
+        "code": "BIO350",
+        "title": "Field Entomology and Taxonomy",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (ENT), BIO, NRS 350. Collection, identification and study of the common families of insects, including use of keys and teaching collection specimens. Field trips throughout Rhode Island. Discussion of insect classification. (Lec. 3, Lab. 1) Pre: BIO 102 or permission of instructor."
+    },
+    {
+        "code": "BIO352",
+        "title": "General Genetics",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (BIO), CMB 352. Introduction to basic genetic principles and concepts leading to an understanding of genes, heredity, and the nature of inherited variation.  Applications and implications for animals, plants, fungi and bacteria.  (Lec. 3, Rec. 1) Pre: BIO 101 or 110, and BIO 102."
+    },
+    {
+        "code": "BIO353",
+        "title": "Genetics Laboratory",
+        "credits": "1",
+        "description": "(1 cr.) Cross-listed as (CMB), BIO 353. Basic principles and concepts of genetics demonstrated with microorganisms, plants, and animals. (Lab. 2) Pre: credit or concurrent enrollment in CMB/BIO 352."
+    },
+    {
+        "code": "BIO354",
+        "title": "Invertebrate Zoology",
+        "credits": "4",
+        "description": "(4 crs.) Study of the origin and evolutionary relationship of the invertebrate animals. Emphasis on marine forms. Laboratory sessions include comparative study of selected examples and field trips to local environments. (Lec. 3, Lab. 1) Pre: BIO 101 or 110, 102, 103, and 104."
+    },
+    {
+        "code": "BIO355",
+        "title": "Marine Invertebrates of Southern New England",
+        "credits": "3",
+        "description": "(3 crs.) Collection and identification of marine invertebrates of southern New England. Emphasis on field work and laboratory studies. Students collection will incorporate video photography. (Lab. 6) Pre: BIO 101 or 110, and 102 or permission of instructor."
+    },
+    {
+        "code": "BIO360",
+        "title": "Marine Biology",
+        "credits": "4",
+        "description": "(4 crs.) The nature of plants and animals of the sea. Diversity of species and adaptations to habitats from the sea surface to the depths of the ocean. (Lec. 3, Lab. 3) Pre: BIO 101 or 110, and 102."
+    },
+    {
+        "code": "BIO365",
+        "title": "Biology of Algae",
+        "credits": "4",
+        "description": "(4 crs.) Taxonomy, morphology, and evolution of  all major algal divisions. Laboratory/field component focuses upon taxonomic identification of both live and preserved microscopic and macroscopic algal species. (Lec. 3, Lab. 3) Pre: BIO 102."
+    },
+    {
+        "code": "BIO366",
+        "title": "Vertebrate Biology",
+        "credits": "3",
+        "description": "(3 crs.) Life histories, adaptations, ecology, classifications, and distribution of vertebrate animals. Laboratory and extensive field work on local vertebrates. (Lec. 2, Lab 3) Pre: BIO 262 recommended."
+    },
+    {
+        "code": "BIO372",
+        "title": "Introductory Endocrinology",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed (AVS), BIO 372. Morphology and physiology of endocrine glands. Roles of hormones in regulation of body processes. Discussion of all endocrine organs and relationship of endocrine and nervous systems. (Lec. 3) Pre: BIO 101 or BIO 110, sophomore standing, or permission of instructor."
+    },
+    {
+        "code": "BIO385",
+        "title": "Introductory Entomology",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (ENT), BIO 385. Introduction to the diverse components of entomology, emphasizing basic principles of insect morphology, physiology, behavior, and ecology. Current topics in insect biodiversity and management strategies. (Lec. 3) Pre: BIO 102 and BIO 101 or 110,, or permission of instructor."
+    },
+    {
+        "code": "BIO388",
+        "title": "Biology of Bees and Pollination Ecology",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (ENT), BIO, NRS 388. Learn the biology, behavior and pollination services of bees. Learn how to identify bees to family level. Understand the basics of honey bee management. Learn various types of pollination. (Lec. 3) Pre: BIO 101 or 110, and 102, or permission of instructor."
+    },
+    {
+        "code": "BIO396",
+        "title": "Biology And Society",
+        "credits": "3",
+        "description": "(3 crs.) A seminar course dealing with the impact of biological discoveries on societal questions and with the social influences that affect biological discovery. Discussion of original papers, magazines, newspaper articles, and books about various discoveries. (Seminar) Pre: Pre: junior or senior standing majoring in Biological Sciences (BS), Biology (BA) or Marine Biology (BS), or permission of instructor. (D1) (B4)"
+    },
+    {
+        "code": "BIO404",
+        "title": "(304) Comparative Vertebrate Anatomy",
+        "credits": "4",
+        "description": "(4 crs.) Anatomy of chordates emphasizing functional and evolutionary diversity. Lecture focuses on morphological variation and evolution including study of primary literature. Laboratory focuses on comparative anatomy through dissections and models. (Lec. 3, Lab. 3) Pre: BIO 101 or 110, and 102 and junior standing."
+    },
+    {
+        "code": "BIO412",
+        "title": "Evolution and Diversity of Fishes",
+        "credits": "4",
+        "description": "(4 crs.) Origin, evolution and diversification of fishes, their phylogenetic relationships, and morphological, physiological, ecological, and behavioral adaptations in marine and freshwater habitats. (Lec. 3, Lab. 3) Pre: BIO 101 or 110, and 102, or permission of instructor. Not for graduate credit."
+    },
+    {
+        "code": "BIO416",
+        "title": "Intertidal Ecology",
+        "credits": null,
+        "description": "(4 crs.) The ecology of intertidal shores within New England, with a focus on common marine macroalgae. Includes field surveys, specimen identification, and an emphasis on research planning and hypothesis testing. (Lec. 3, Lab. 1) Pre: BIO 101, 102 and  BIO 262 or BIO 360 (or permission from instructor)."
+    },
+    {
+        "code": "BIO417",
+        "title": "Herpetology",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (NRS), BIO 417. Introduces students to the biology, ecology, conservation, and management of reptiles and amphibians, including global perspectives, and field methods for studying amphibians and reptiles of northeastern North America. (Lec. 2, Lab. 4) Pre: BIO 101/103 or 110/103, and 102/104; and NRS 223 or BIO 262, and permission of instructor. Not for graduate credit."
+    },
+    {
+        "code": "BIO419",
+        "title": "Field Experience in Herpetology",
+        "credits": "1",
+        "description": "(1 cr.) Cross-listed as (NRS), BIO 419. Capstone field trip in herpetology to region with higher amphibian and reptile diversity, such as Appalachia, to hone skills in identification, broaden understanding of ecology, and apply field research methods. (Practicum) Pre: concurrent enrollment in or credit for NRS/BIO 417, and permission of instructor. S/U only. Not for graduate credit."
+    },
+    {
+        "code": "BIO422",
+        "title": "Biology of Sharks and Their Relatives",
+        "credits": "3",
+        "description": "(3 crs.) Survey of sharks, skates and rays including their classification, evolutionary history, physiology, ecology and interactions with humans. (Lec. 3) Pre: BIO 360 and junior standing or permission of the instructor."
+    },
+    {
+        "code": "BIO425G",
+        "title": "Marine Biodiversity: A Larval Perspective",
+        "credits": "3",
+        "description": "(3 crs.) Almost all marine life has a biphasic life cycle.  This course explores the diversity marine reproduction and larval forms, and how humans interact with species from a larval perspective. (Lec. 3) Pre: BIO 262 and junior standing, or permission of instructor. (D1) (B2) (GC)"
+    },
+    {
+        "code": "BIO437",
+        "title": "Fundamentals of Molecular Biology",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (BIO), CMB 437. Biochemical basis of heredity as seen through the structure and function of nucleic acids. Includes DNA replication, transcription, translation, gene regulation, and gene organization in prokaryotes and eukaryotes. Current methods emphasized. (Lec. 3) Pre: CMB 211, BIO 352, and CMB 311, or permission of instructor."
+    },
+    {
+        "code": "BIO439",
+        "title": "Big Data Analysis",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (BIO), DSP 439. Learn about big data and how to write scripts to analyze data. (Lec. 3) Pre: junior standing, MTH 131 or 141. Not for graduate credit."
+    },
+    {
+        "code": "BIO440G",
+        "title": "How Our Genes and the Environment Shape Our Lives",
+        "credits": "3",
+        "description": "(3 crs.) Explore how deteriorating environments alter early human embryological development, increasing diseases and neurological disorders, altering entire societies. (Lec. 3) Pre: BIO101 and junior standing. (A1) (B2) (GC)"
+    },
+    {
+        "code": "BIO444",
+        "title": "Insect Ecology",
+        "credits": "3",
+        "description": "(3 crs.) Ecology of insects and other terrestrial arthropods at the physiological, individual, population, community, and ecosystem levels. Not for graduate credit. (Lec. 3) Pre: BIO 262 or ENT 385."
+    },
+    {
+        "code": "BIO452",
+        "title": "Advanced Topics In Genetics",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (CMB), BIO 452. More detailed treatment of topics introduced in the general genetics course (352) including aspects of transmission genetics, molecular genetics, cytogenetics, biotechnology, developmental genetics, and the impact of genetics on society. (Lec. 3) Pre: BIO 352."
+    },
+    {
+        "code": "BIO455",
+        "title": "Marine Ecology",
+        "credits": "3",
+        "description": "(3 crs.) Investigation of the structure and dynamics of various marine ecosystems. Includes mineral cycling, energy flow, community and population organization, and behavioral ecology in selected marine environments. (Lec. 3) Pre: 262 or permission of instructor."
+    },
+    {
+        "code": "BIO465",
+        "title": "Coral Reef Ecology",
+        "credits": "3",
+        "description": "(3 crs.) An introduction to coral reefs, the processes generating their exuberant biodiversity, the effects of human activities on them and the promising ways to restore and preserve these unique ecosystems. (Lec. 3) Pre: BIO 262 or permission of instructor."
+    },
+    {
+        "code": "BIO467",
+        "title": "Animal Behavior",
+        "credits": "3",
+        "description": "(3 crs.) Roles of natural selection, individual learning, and cultural transmission in shaping animal behavior. (Lec. 3) Pre: two semesters of biology."
+    },
+    {
+        "code": "BIO469",
+        "title": "Tropical Marine Invertebrates",
+        "credits": "5",
+        "description": "(5 crs.) Systematic survey of tropical invertebrates. Emphasis on examples from Bermuda's marine environment.  Laboratory includes field collections, identification, and preparatory techniques for taxonomic studies.  (Practicum, Lab. 8) Taught in Bermuda. Pre: BIO 360, junior standing, and permission of instructor."
+    },
+    {
+        "code": "BIO475",
+        "title": "Ecology of Coral Reefs in Bermuda",
+        "credits": "5",
+        "description": "(5 crs.) Structure and function of coral reef ecosystems with emphasis on the biology of corals. Laboratory sessions focus on field surveys and research techniques. (Practicum, Lab 8) Taught in Bermuda. Pre: BIO 262 and junior standing; SCUBA certification required."
+    },
+    {
+        "code": "BIO480",
+        "title": "Community Ecology",
+        "credits": "3",
+        "description": "(3 crs.) Exploration of community ecology, with an emphasis on interspecific interactions (competition, predation, mutualism), species diversity, succession, niche theory, and island bio-geography. Format includes lecture, case studies, and discussion. (Lec. 3) Pre: BIO 262 or permission of instructor.  Not for graduate credit."
+    },
+    {
+        "code": "BIO482G",
+        "title": "Biology of Human Health and Disease",
+        "credits": "3",
+        "description": "(3 crs.) An applied study of the evolutionary drivers of human health and of our current understanding of the ecological, genetic, and molecular mechanisms underpinning disease conditions. (Lec. 3) Pre: BIO/CMB 352 and one additional BIO course at 200 level or above. Not for graduate credit. (D1) (GC)"
+    },
+    {
+        "code": "BIO485",
+        "title": "Salt Marsh Ecology",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (BIO), NRS 485. Structure and function of salt marsh ecosystems, including biogeochemistry, in the context of global change. Seminar-style discussions of primary scientific literature, laboratory and field exercises, and an independent research poster. (Lec. 2, Lab 4) Pre: BIO 262 or NRS 223 and 2 semesters of chemistry or permission of instructor. BIO 360 recommended. Not for graduate credit."
+    },
+    {
+        "code": "BIO491",
+        "title": "Independent Biological Research",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs. each) Individualized laboratory, field, or literature research projects.  May be repeated for a total of 6 credits. (Independent Study) Pre: open only to undergraduates on arrangement with staff. S/U only."
+    },
+    {
+        "code": "BIO492",
+        "title": "Independent Biological Research",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs. each) Individualized laboratory, field, or literature research projects.  May be repeated for a total of 6 credits. (Independent Study) Pre: open only to undergraduates on arrangement with staff. S/U only."
+    },
+    {
+        "code": "BIO495",
+        "title": "Tropical Marine Biology Research",
+        "credits": "6",
+        "description": "(6 crs.) Independent marine research in Bermuda. Topics may include marine ecology, physiology, systematics, etc. Proposal, oral report, and project paper required. (Practicum, Lab 12). Taught in Bermuda. Pre: Junior standing, BIO 475 and 469."
+    },
+    {
+        "code": "BIO498",
+        "title": "Teaching Practicum in Biological Sciences",
+        "credits": "1",
+        "description": "(1 cr.) Teaching experience for undergraduates through planning and assisting in introductory laboratory courses. Can be repeated once for credit. Not for major credit in BS BIO, BA BIO, or BS MBIO. (Prac. 1). Pre: permission of instructor. Not for graduate credit."
+    },
+    {
+        "code": "BIO502",
+        "title": "Introduction to Neurobiology",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (BIO), NEU 502. Fundamental processes in neurobiology with emphasis on cellular and membrane mechanisms of nerve functioning. (Lec 3). Pre: BIO 201 and MTH 141, or permission of instructor."
+    },
+    {
+        "code": "BIO508",
+        "title": "Seminar in Biological Literature",
+        "credits": "1",
+        "description": "(1 cr.) Cross-listed as (BIO), CMB, AFS, AVS, PLS, NRS, LIB 508. Survey of biological literature including traditional methods of bibliographic control, contemporary information retrieval services, and the development of a personalized information system. (Sem. 1) Pre: graduate standing or permission of the instructor."
+    },
+    {
+        "code": "BIO511",
+        "title": "Special Readings in Developmental Plant Anatomy",
+        "credits": "3",
+        "description": "(3 crs.) Intensive tutorial work, research, and reading on ontogeny of plant structures and morphogenetic mechanisms. (Independent Study) Pre: graduate standing and permission of instructor. Concurrent audit of 311 required. Offered on demand."
+    },
+    {
+        "code": "BIO512",
+        "title": "Evolution and Diversity of Fishes",
+        "credits": "4",
+        "description": "(4 crs.) Origin, evolution, and diversification of fishes, their phylogenetic relationships, and morphological, physiological, ecological, and behavioral adaptations in marine and freshwater habitats.  (Lec. 3, Lab. 3) Pre: Graduate standing and permission of instructor."
+    },
+    {
+        "code": "BIO517",
+        "title": "Herpetology",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (NRS), BIO 517. This course provides an in-depth background on the biology, ecology, conservation, and management of reptiles and amphibians, including field methods for studying amphibians and reptiles of northeastern North America. (Lec. 2, Lab. 4) Pre: graduate student in biological and environmental sciences and permission of instructor."
+    },
+    {
+        "code": "BIO519",
+        "title": "Field Experience in Herpetology",
+        "credits": "1",
+        "description": "(1 cr.) Cross-listed as (NRS), BIO 519. Capstone field trip in herpetology to region with higher amphibian and reptile diversity, such as Appalachia, to hone skills in identification, broaden understanding of ecology, and apply field research methods. (Practicum) Pre: Concurrent enrollment or credit for NRS/BIO 517 and permission of instructor. S/U only."
+    },
+    {
+        "code": "BIO522",
+        "title": "Sensory Ecology",
+        "credits": "3",
+        "description": "(3 crs.)  Cross-listed as (BIO), NEU 522. Sensory system structure and function and the opportunities and constraints presented by the sensory environment. Lectures on fundamentals and discussion of case studies and problems in the primary literature. (Lec. 1, Seminar 2) Pre: Graduate standing or permission of instructor."
+    },
+    {
+        "code": "BIO539",
+        "title": "Big Data Analysis",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (BIO), DSP 539. Learn about big data and gain sufficient programming skills to analyze data efficiently and accurately for research. (Lec. 3) Pre: graduate standing"
+    },
+    {
+        "code": "BIO544",
+        "title": "Insect Ecology",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (ENT), BIO 544. Ecology of insects and other terrestrial arthropods at the physiological, individual, population, community, and ecosystem levels. Pre: permission of instructor. In alternate years."
+    },
+    {
+        "code": "BIO550",
+        "title": "Advanced Topics In Neurobiology",
+        "credits": "3",
+        "description": "(3 crs.) Published papers in selected aspects of neurobiology will be discussed. Representative topics include role of Ca++, c-AMP in the nervous system, gating currents learning at the cellular level, cellular rhythmicity. (Seminar) In alternate years."
+    },
+    {
+        "code": "BIO563",
+        "title": "Biology and Ecology of Fishes",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (BIO), NRS 563. Exploration of the functional biology and ecology of marine and freshwater fishes through lecture and discussion of primary literature.  Laboratory involves specimen study, field trips, and a research project. (Lec. 3, Lab. 3) Pre: BIO 366 or equivalent, or permission of instructor."
+    },
+    {
+        "code": "BIO572",
+        "title": "Advanced Evolutionary Biology",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (BIO), GEO 572. A survey of modern evolutionary biology, including classic evolutionary theory, phylogenetics, evolution and development, adaptation, mass extinction and genomic evolution. (Lec./Sem. 3) Pre: BIO/GEO 272, graduate standing, or permission of instructor."
+    },
+    {
+        "code": "BIO579",
+        "title": "Advanced Genetics Seminar",
+        "credits": "1",
+        "description": "(1 cr.) Cross-listed as (CMB), BIO 579. Current topics in genetics, including cytological, ecological, molecular, physiological, population, quantitative, and radiation genetics. (Seminar) Pre: CMB 352 and permission of instructor."
+    },
+    {
+        "code": "BIO580",
+        "title": "Community Ecology",
+        "credits": "3",
+        "description": "(3 crs.) Explores community ecology, with an emphasis on interspecific interactions (competition, predation, mutualism), species diversity, succession, niche theory, and island biogeography. Format includes lecture, case studies, and discussion. (Lec. 3) Pre: BIO 262 or permission of instructor."
+    },
+    {
+        "code": "BIO585",
+        "title": "Salt Marsh Ecology",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (BIO), NRS 585. Structure and function of salt marsh ecosystems, including biogeochemistry, in the context of global change. Seminar-style discussions, weekly assignments, written and oral presentations of independent proposal and research project. (Lec. 2, Lab. 4) Pre: permission of instructor. Prior undergraduate coursework equivalent to a course in ecology and 2 semesters of chemistry is expected."
+    },
+    {
+        "code": "BIO586",
+        "title": "Medical and Veterinary Entomology",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (BIO), ENT 586. Life history, classification, habits, and control of insects and other arthropods affecting human and animal health. Topics will include public health significance, vector-parasite interactions, and survey and research methodologies. (Lec. 3, Lab. 4) Pre: ENT 331 or 381 or equivalent. In alternate years."
+    },
+    {
+        "code": "BIO587",
+        "title": "Seminar In Neurobiology",
+        "credits": "1",
+        "description": "(1 cr.) Cross-listed as (BIO), NEU 587. Survey of current literature in the neurosciences. Topics include molecular and behavioral electrophysiology, ion channels, nerve net modeling, ultrastructure of excitable cells, receptor and pharmacological neurobiology of invertebrates and vertebrates. (Seminar) Pre: graduate standing or one advanced neuroscience course."
+    },
+    {
+        "code": "BIO591",
+        "title": "Independent Biological Research",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "(1-6 crs.) Individualized laboratory, field, or literature research projects. May be repeated for a total of 6 credits. Pre: graduate standing and permission of instructor. S/U credit."
+    },
+    {
+        "code": "BIO592",
+        "title": "Independent Biological Research",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "(1-6 crs.) Individualized laboratory, field, or literature research projects. May be repeated for a total of 6 credits. Pre: Graduate standing and permission of instructor.  S/U credit."
+    },
+    {
+        "code": "BIO593",
+        "title": "Special Topics in Biological Sciences",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "Selected areas pertinent to needs of individuals or small groups. Class, seminar or tutorial. Topics may include the following: biomechanics, cell biology, ecological morphology, functional morphology, ichthyology, molecular biology, morphology and mechanics, physiology, plant cell development and zoology. May be repeated for a total of 6 credits."
+    },
+    {
+        "code": "BIO594",
+        "title": "Special Topics in Biological Sciences",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "Selected areas pertinent to needs of individuals or small groups. Class, seminar or tutorial. Topics may include the following: biomechanics, cell biology, ecological morphology, functional morphology, ichthyology, molecular biology, morphology and mechanics, physiology, plant cell development and zoology. May be repeated for a total of 6 credits."
+    },
+    {
+        "code": "BIO599",
+        "title": "Master's Thesis Research",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "description": "(1-9 crs.) Number of credits is determined each semester in consultation with the major professor or program committee. (Independent Study) S/U credit."
+    },
+    {
+        "code": "BIO642",
+        "title": "Seminar In Physiology",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Reports and discussions on topics of current research in physiology. Subject matter adapted to meet interests of students. (Seminar) Pre: permission of instructor."
+    },
+    {
+        "code": "BIO654",
+        "title": "Seminar in Ichthyology",
+        "credits": "2",
+        "description": "(2 crs.) Reading, library research, reports, and class discussion on problems of current research interest in the biology of fishes. (Seminar) Pre: BIO 563 or permission of instructor. In alternate years."
+    },
+    {
+        "code": "BIO675",
+        "title": "Advanced Ecology Seminars",
+        "credits": "2",
+        "description": "(2 crs.) Specialized and advanced areas of ecological research and theory, including biogeography, Pleistocene ecology, population dynamics, energy flow in ecosystems, and radiation ecology. (Seminar) Pre: permission of instructor."
+    },
+    {
+        "code": "BIO691",
+        "title": "Biological Problems",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "(1-6 crs.) Special work to meet the needs of individual students who are prepared to undertake special problems. (Independent Study) Pre: permission of chairperson. Open only to doctoral students."
+    },
+    {
+        "code": "BIO692",
+        "title": "Biological Problems",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "(1-6 crs.) Special work to meet the needs of individual students who are prepared to undertake special problems. (Independent Study) Pre: permission of chairperson. Open only to doctoral students."
+    },
+    {
+        "code": "BIO699",
+        "title": "Doctoral Dissertation Research",
+        "credits": {
+            "min": "1",
+            "max": "12"
+        },
+        "description": "(1-12 crs.) Number of credits is determined each semester in consultation with the major professor or program committee. (Independent Study) S/U credit."
+    }
+]

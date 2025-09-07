@@ -1,0 +1,230 @@
+[
+    {
+        "code": "HPR100",
+        "title": "Welcome to Planet Honors",
+        "credits": "3",
+        "description": "(3 crs.) Examine local manifestations of complex global issues on the URI campus and in surrounding environments and communities. Utilize interdisciplinary approaches, design thinking tools, and principles of effective communication to develop competencies in creative problem solving and civic engagement. (Lec. 3) (B2) (C1) Pre: Honors eligible"
+    },
+    {
+        "code": "HPR109",
+        "title": "Honors Seminar in Natural Sciences",
+        "credits": {
+            "min": "3",
+            "max": "4"
+        },
+        "description": "(3-4 crs.) Exploration of themes and topics in the natural sciences. Topics include: Life in the Universe; Biological Consequences of Global Change; Biology for the Citizen; the Physics of Sports; Oceans, Atmospheres, and Global Change. (Seminar)  Must have 3.40 overall GPA."
+    },
+    {
+        "code": "HPR124",
+        "title": "Honors in Social Sciences and Civic Knowledge",
+        "credits": {
+            "min": "3",
+            "max": "4"
+        },
+        "description": "(3-4 crs.) Honors Seminar in Social Sciences and Civic Knowledge. Topics include : Loss in the Lives of Children and Adolescents. (Seminar) Pre: Must have a 3.4 overall GPA. (A2) (C1)"
+    },
+    {
+        "code": "HPR126",
+        "title": "Honors in Soc & Behav Sci and Diversity & Incl.",
+        "credits": {
+            "min": "3",
+            "max": "4"
+        },
+        "description": "(3-4 crs.) Honors Seminar in Social & Behavioral Science and Diversity & Inclusion. (Seminar) Pre: Must have a 3.4 overall GPA. (A2) (C3)\n"
+    },
+    {
+        "code": "HPR131G",
+        "title": "Honors in STEM and Communicate Effectively",
+        "credits": "3",
+        "description": "(3 crs.) Exploration of themes and topics in the field of Science, Technology, Engineering, and Mathematics (STEM) and Communicating Effectively. (Lec. 3) Pre: 3.40 overall GPA or better.  (A1) (B2) (GC)"
+    },
+    {
+        "code": "HPR135",
+        "title": "Honors in STEM and Global Responsibilities",
+        "credits": "3",
+        "description": "(3 crs.) Exploration of themes and topics in the Science, Technology, Engineering and Mathematics and Global Responsibilities. (Seminar) Pre: 3.40 overall or better GPA.  (A1) (C2)"
+    },
+    {
+        "code": "HPR142",
+        "title": "Honors in Writing and Information Literacy",
+        "credits": {
+            "min": "3",
+            "max": "4"
+        },
+        "description": "(3-4 crs.) Exploration of the elements of writing and developing information literacy. Topics include: Building Bridges: Writing about Common Reading; Writing and Empathy; Writing to Understand: Ethnographic Explorations. (Seminar) Pre: must have 3.40 overall GPA. (B1) (B4)"
+    },
+    {
+        "code": "HPR147",
+        "title": "Honors in Humanities and Writing",
+        "credits": "3",
+        "description": "(3 crs.) Exploration of themes, topics, and techniques in literature, humanities and writing. (Seminar) Pre: 3.40 overall or better GPA.  (A3) (B1)"
+    },
+    {
+        "code": "HPR183G",
+        "title": "Honors in Diversity & Inclusion and Information Literacy",
+        "credits": "3",
+        "description": "(3 crs.) Exploration of themes and topics in Diversity & Inclusion and Information Literacy. (Seminar) Pre: 3.40 overall GPA. (C3) (B4) (GC)"
+    },
+    {
+        "code": "HPR216G",
+        "title": "Honors Colloquium in Humanities and Diversity and Inclusion",
+        "credits": {
+            "min": "3",
+            "max": "4"
+        },
+        "description": "(3-4 crs.) HPR Honors Colloquium may be repeated for a maximum of 8 credits. Topics include:  Religion in America. (Lec. 3, Rec. 1) Pre: GPA of 3.4 or above and one completed honors course, or permission of the director of the honors program. (A3) (C3) (GC)"
+    },
+    {
+        "code": "HPR224G",
+        "title": "Honors Colloquium in Soc. Science and Civic Knowledge",
+        "credits": {
+            "min": "3",
+            "max": "4"
+        },
+        "description": "(3-4 crs.) HPR Honors Colloquia may be repeated for a maximum of 6-8 credits. Topics include: Trekonomics: Life and Economics in a Post-Scarcity World. (Lec. 3 or Lec. 3, Rec. 1) Pre: GPA of 3.4 or above and one completed honors course, or permission of the director of the honors program. (A2) (C1) (GC)"
+    },
+    {
+        "code": "HPR226G",
+        "title": "Honors Colloquium in Diversity and Social & Behavioral Sciences",
+        "credits": {
+            "min": "3",
+            "max": "4"
+        },
+        "description": "(3-4 crs.) HPR Honors Colloquia may be repeated for a maximum of 8 credits. (Lec. 3, Rec. 1)  Pre: GPA of 3.4 or above and one completed honors course, or permission of the director of the honors program. (C3) (A2) (GC)"
+    },
+    {
+        "code": "HPR230G",
+        "title": "Honors Colloquium in STEM",
+        "credits": {
+            "min": "3",
+            "max": "4"
+        },
+        "description": "(3-4 crs.) May be repeated for a maximum of 8 credits. (Lec. 2-3, Rec. 1-2) Pre: GPA of 3.40 or better and one completed Honors course or permission of the director of the Honors Program. (A1) (GC)"
+    },
+    {
+        "code": "HPR233",
+        "title": "Honors Colloquium in STEM and Information Literacy",
+        "credits": {
+            "min": "3",
+            "max": "4"
+        },
+        "description": "(3-4 crs.) May be repeated for a maximum of 8 credits. (Lec. 2-3, Rec. 1-2) Pre: GPA of 3.40 or better and one completed Honors course, or permission of the director of the Honors Program. (A1) (B4)"
+    },
+    {
+        "code": "HPR301",
+        "title": "Honors Tutorial Topic: Administrative Internship",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "description": "(1-4 crs.) Experiential course that provides an opportunity for students to learn and practice administrative decision-making and to develop research skills in an administrative setting. Placements include Brown Medical School, the Institute for International Sport, RI Planned Parenthood, and the URI Honors program. (Practicum) Pre: GPA of 3.50 or better and permission of the Director of the Honors Program."
+    },
+    {
+        "code": "HPR302",
+        "title": "Honors Tutorial Topic: Administrative Internship",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "description": "(1-4 crs.) A continuation of HPR 301.  (Practicum) Pre: GPA of 3.50 or better and permission of the Director of the Honors Program."
+    },
+    {
+        "code": "HPR316",
+        "title": "Honors Seminar in Diversity & Inclusion and Humanities",
+        "credits": "4",
+        "description": "(3-4 crs.) Honors Seminar in the exploration of themes and topics in Diversity & Inclusion and Humanities. (Seminar) Pre: 3.40 GPA or better or permission of the director of the honors program. (C3) (A3)"
+    },
+    {
+        "code": "HPR344",
+        "title": "Honors Seminar in Arts & Design and Writing",
+        "credits": {
+            "min": "3",
+            "max": "4"
+        },
+        "description": "(3-4 crs.) Honors seminar in arts and design and writing. (Seminar) Pre: 3.40 GPA or better or permission of the director of the Honors Program. (A4) (B1)"
+    },
+    {
+        "code": "HPR346G",
+        "title": "Honors Seminar in Communicate Effectively and Integrate & Apply",
+        "credits": "3",
+        "description": "(3 crs.) Honors Seminar exploring themes and topics in the fields of Communicating Effectively and Integrate and Application. (Lec. 3) Pre: 3.40 or better overall GPA. (B2) (D1) (GC)"
+    },
+    {
+        "code": "HPR347",
+        "title": "Honors Seminar in Humanities and Writing",
+        "credits": {
+            "min": "3",
+            "max": "4"
+        },
+        "description": "(3-4 crs.) Honors Seminar in Humanities and Writing. (Seminar) Pre: 3.4 overall GPA. (A3) (B1)"
+    },
+    {
+        "code": "HPR361",
+        "title": "Honors Seminar in Comm Effect. and Info Lit",
+        "credits": {
+            "min": "3",
+            "max": "4"
+        },
+        "description": "(3-4 crs.) Exploration of themes and topics contributing to development of competencies in Information Literacy and Communicate Effectively. (Lec. 3-4) Pre: Overall 3.4 gpa or higher. (B2) (B4)"
+    },
+    {
+        "code": "HPR375",
+        "title": "Honors Seminar in Global Responsibility and Social Sciences",
+        "credits": {
+            "min": "3",
+            "max": "4"
+        },
+        "description": "(3-4 crs.) This course engages undergraduate Honors' students in the core aspects of global responsibility and social science. (Lec. 3-4) Pre: Overall GPA 3.40 or better. (A2) (C2)"
+    },
+    {
+        "code": "HPR391",
+        "title": "Honors Seminar in Comm Effectively & Civic Knowledge & Responsibilities",
+        "credits": {
+            "min": "3",
+            "max": "4"
+        },
+        "description": "(3-4 crs.) Exploration of themes and topics contributing to development of competencies in Communicate Effectively and Civic Knowledge and Responsibility. (Lec. 3-4) (B2) (C1)"
+    },
+    {
+        "code": "HPR392",
+        "title": "Honors Seminar in Civic Engagement & Soc. and Beh. Science",
+        "credits": "3",
+        "description": "(3 crs.) Engages undergraduate honor�s students in the core aspects of citizen science with a focus on self-experimentation in social, behavioral, health and medical realms.  The course involves engaging with citizen science networks, self-and group change in networked contexts, and associated computing, research methods and interpretive skills. (Lec., Rec., Seminar) Pre: 3.40 over GPA or better.  (C1) (A2)"
+    },
+    {
+        "code": "HPR397",
+        "title": "Honors Directed Study",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "description": "(1-4 crs.) (Independent Study) Pre: 3.40 GPA or better or permission of the director of the honors program."
+    },
+    {
+        "code": "HPR401",
+        "title": "Honors Project",
+        "credits": "3",
+        "description": "(3 crs.) (Independent Study) Pre: permission of the director of the Honors Program, and overall GPA of 3.40 or better. (D1)"
+    },
+    {
+        "code": "HPR402",
+        "title": "Honors Project",
+        "credits": "3",
+        "description": "(3 crs.) (Independent Study) Pre: permission of the director of the Honors Program, and overall GPA of 3.40 or better."
+    },
+    {
+        "code": "HPR411",
+        "title": "Honors Seminar",
+        "credits": "3",
+        "description": "(3 crs.) Topics include: 'Controversies in Environmental Science;' and 'Film and Video Practicum.' (Seminar) Pre: overall GPA 3.40 or better."
+    },
+    {
+        "code": "HPR412",
+        "title": "Honors Seminar",
+        "credits": {
+            "min": "3",
+            "max": "4"
+        },
+        "description": "(3-4 crs.) (Seminar) Pre: overall GPA 3.40 or better."
+    }
+]

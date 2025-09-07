@@ -48,7 +48,7 @@ function ClassSheet({ major, toggleClassSelection}){
                 {courses.map(course => (
                     <tr key={course.codes[0]}>
                         <td>{course.codes[0]}
-                            {(course.codes.length !== 1)&&(<button className="selection-button" onClick={toggleClassSelection}>&gt;</button>)}
+                            {(course.codes.length !== 1)&&(<button className="selection-button" onClick={() => toggleClassSelection(course)}>&gt;</button>)}
                         </td>
                         <td>{getSemesterTaken(course.codes[0])}</td>
                         <td>{getCreditsTaken(course.codes[0])}</td>

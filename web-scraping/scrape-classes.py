@@ -60,7 +60,10 @@ def getMajor(major):
         print(f"No courses found for {major}")
 
 def main():
-    getMajor("BME")
+    majors = ["PHY", "CHM", "BIO", "GEO", "OCG"]
+
+    for major in majors:
+        getMajor(major)
 
 
 
