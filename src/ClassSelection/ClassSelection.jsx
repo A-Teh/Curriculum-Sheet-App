@@ -16,7 +16,7 @@ function ClassSelection({toggleClassSelection, selectedRequirement}){
         }
         setMajorCourses(majorData)
 
-        fetch(`/Curriculum-Sheet-App/student-data.json`)
+        fetch(`/Curriculum-Sheet-App/student-data/student-data.json`)
         .then(res => res.json())
         .then(data => setStudentData(data));
     }, []);

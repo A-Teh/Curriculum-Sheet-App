@@ -54,5 +54,12 @@
     "grade": "C-",
     "semester": "Other",
     "credits": 3
+  },
+  {
+    "id": 9,
+    "code": "CSC412",
+    "grade": "Planned",
+    "semester": "S26",
+    "credits": 4
   }
 ]

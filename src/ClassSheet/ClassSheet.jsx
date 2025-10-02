@@ -5,15 +5,20 @@ function ClassSheet({ major, toggleClassSelection}){
 
     const [courses, setCourses] = useState([]);
     const [studentData, setStudentData] = useState([]);
+    const [plannedClasses, setPlannedClasses] = useState([])
 
     useEffect(() => {
         fetch(`/Curriculum-Sheet-App/majors/${major}.json`)
         .then(res => res.json())
         .then(data => setCourses(data));
 
-        fetch(`/Curriculum-Sheet-App/student-data.json`)
+        fetch(`/Curriculum-Sheet-App/student-data/student-data.json`)
         .then(res => res.json())
         .then(data => setStudentData(data));
+
+        fetch(`/Curriculum-Sheet-App/student-data/planned-classes.json`)
+        .then(res => res.json())
+        .then(data => setPlannedClasses(data));
   }, []);
 
     function getSemesterTaken(code){
@@ -31,6 +36,29 @@ function ClassSheet({ major, toggleClassSelection}){
         return course ? course.grade : null;
     }
 
+    function displayRequirementData(course){
+        
+        const code = course.codes[0] // For now always display the first class, in the future this can be modified and stored in local memory
+        const semester = getSemesterTaken(code)
+        const credits = getCreditsTaken(code)
+        const grade = getGrade(code)
+
+        // Add aterisk if class is only planned (will color code later)
+        // Displays button only if there are multiple options for the class to select from
+        // Display grade only if class is taken
+        return(
+            <tr key={code}>
+                <td>{course.codes[0]}
+                    {grade === "Planned" ? "*" : ""}
+                    {(course.codes.length !== 1)&&(<button className="selection-button" onClick={() => toggleClassSelection(course)}>&gt;</button>)}
+                </td>
+                <td>{semester}</td>
+                <td>{credits}</td>
+                <td>{grade && !(grade === "Planned") ? grade : null}</td> 
+            </tr>
+        )
+    }
+
     return(
         <table className="class-sheet">
             <thead>
@@ -46,14 +74,7 @@ function ClassSheet({ major, toggleClassSelection}){
             </thead>
             <tbody>
                 {courses.map(course => (
-                    <tr key={course.codes[0]}>
-                        <td>{course.codes[0]}
-                            {(course.codes.length !== 1)&&(<button className="selection-button" onClick={() => toggleClassSelection(course)}>&gt;</button>)}
-                        </td>
-                        <td>{getSemesterTaken(course.codes[0])}</td>
-                        <td>{getCreditsTaken(course.codes[0])}</td>
-                        <td>{getGrade(course.codes[0])}</td>
-                    </tr>
+                    displayRequirementData(course)
                 ))}
             </tbody>
         </table>
