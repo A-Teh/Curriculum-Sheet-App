@@ -1,10 +1,14 @@
 import { useState, useEffect } from "react";
 import "./ClassSelection.css"
+import PlanClass from "./PlanClass.jsx"
 
 function ClassSelection({toggleClassSelection, selectedRequirement}){
 
     const [majorCourses, setMajorCourses] = useState(null);
     const [studentData, setStudentData] = useState([]);
+
+    const [planClassOpen, setPlanClassOpen] = useState(false);
+    const [planClass, setPlanClass] = useState(null);
 
     useEffect(() => {
         const uniqueMajorCodes = [...new Set(selectedRequirement.codes.map(code => code.slice(0, 3)))];
@@ -21,10 +25,16 @@ function ClassSelection({toggleClassSelection, selectedRequirement}){
         .then(data => setStudentData(data));
     }, []);
 
+    // Return something in case there is a loading issue so it doesn't just crash
     if (!majorCourses || Object.keys(majorCourses).length === 0) {
         return <p>Loading courses...</p>;
     }
 
+    // Toggles whether the plan class window is open
+    function togglePlanClass(course){
+        setPlanClassOpen(!planClassOpen);
+        setPlanClass(course);
+    }
 
     function displayClassData(code){
         const majorCode = code.slice(0,3)
@@ -54,7 +64,7 @@ function ClassSelection({toggleClassSelection, selectedRequirement}){
         
         return (
             <>
-                <td>{code}</td>
+                <td onClick={() => togglePlanClass(code)}>{code}</td>
                 <td>{title}</td>
                 <td>{credits}</td>
                 <td>{grade}</td>
@@ -64,35 +74,37 @@ function ClassSelection({toggleClassSelection, selectedRequirement}){
     }
     
     return(
-        <div className="class-selection-container">
-            
-            <div className="description">
-                    <button className="exit-button" onClick={() => toggleClassSelection(null)}>X</button>
-                    <h1>{selectedRequirement.notes || "One course from this list is required."}</h1>
-                </div>
-            <div className="class-selection">
-                <table className="class-table">
-                    <thead>
-                        <tr>
-                            <th>Class</th>
-                            <th>Description</th>
-                            <th>Credits</th>
-                            <th>Grade</th>
-                            <th>Status</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {selectedRequirement.codes.map(c => (
-                            <tr key={c}>
-                                {displayClassData(c)}
+        <>
+            <div className={`class-selection-container ${planClassOpen ? "blurred" : ""}` }>
+                
+                <div className="description">
+                        <button className="exit-button" onClick={() => toggleClassSelection(null)}>X</button>
+                        <h1>{selectedRequirement.notes || "One course from this list is required."}</h1> 
+                    </div>
+                <div className="class-selection">
+                    <table className="class-table">
+                        <thead>
+                            <tr>
+                                <th>Class</th>
+                                <th>Description</th>
+                                <th>Credits</th>
+                                <th>Grade</th>
+                                <th>Status</th>
                             </tr>
-                        ))}
-                    </tbody>
-                </table>
+                        </thead>
+                        <tbody>
+                            {selectedRequirement.codes.map(c => (
+                                <tr key={c}>
+                                    {displayClassData(c)}
+                                </tr>
+                            ))}
+                        </tbody>
+                    </table>
+                </div>
             </div>
-        </div>
-        
-    )
+            {planClassOpen && <PlanClass togglePlanClass={togglePlanClass} planClass={planClass} />}
+        </>
+    )    
 }
 
 export default ClassSelection
