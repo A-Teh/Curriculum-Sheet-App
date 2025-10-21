@@ -1,0 +1,446 @@
+[
+    {
+        "code": "PHY109",
+        "title": "Introduction to Physics",
+        "credits": "3",
+        "description": "(3 crs.) Appreciation of the physical environment and an introduction to the principles and theories of contemporary physics. Recommended for elementary education majors. (Lec. 3) Pre: concurrent enrollment in PHY 110. Not open to students with credit in PHY 111 or PHY 112 or PHY 203 or PHY 204 or PHY 205. (A1) [Need passing credit in PHY 109 and 110 to fulfill general education requirement.]"
+    },
+    {
+        "code": "PHY110",
+        "title": "Laboratory for Introduction to Physics",
+        "credits": "1",
+        "description": "(1 cr.) Demonstrations and laboratory exercises related to PHY 109. (Lab. 2) Pre: concurrent enrollment in PHY 109. (A1)  [Need passing credit in PHY 109 and 110 to fulfill general education requirement.]"
+    },
+    {
+        "code": "PHY111",
+        "title": "General Physics I",
+        "credits": "3",
+        "description": "(3 crs.) Mechanics, heat, and sound. (Lec. 3) Pre: concurrent enrollment in PHY 185. (A1) (B3) [Need passing credit in PHY 111 and 185 to fulfill general education requirement.]"
+    },
+    {
+        "code": "PHY112",
+        "title": "General Physics II",
+        "credits": "3",
+        "description": "(3 crs.) Optics, electricity, magnetism, and modern physics. Non-calculus presentation of fundamental physics. (Lec. 3) Pre: concurrent enrollment in PHY 186. (A1) (B3) [Need passing credit in PHY 112 and 186 to fulfill general education requirement.]"
+    },
+    {
+        "code": "PHY185",
+        "title": "Laboratory for General Physics I",
+        "credits": "1",
+        "description": "(1 cr.) Selected laboratory exercises applicable to materials in PHY 111. (Lab. 2) Pre: concurrent enrollment in PHY 111. (A1) (B3) [Need passing credit in PHY 111 and 185 to fulfill general education requirement.]"
+    },
+    {
+        "code": "PHY186",
+        "title": "Laboratory for General Physics II",
+        "credits": "1",
+        "description": "(1 cr.) Selected laboratory exercises applicable to materials in PHY 112. (Lab. 2) Pre: concurrent enrollment PHY 112. (A1) (B3) [Need passing credit in PHY 112 and 186 to fulfill general education requirement.]"
+    },
+    {
+        "code": "PHY203",
+        "title": "Elementary Physics I",
+        "credits": "3",
+        "description": "(3 crs.) Introduction to Newtonian mechanics. Kinematics and dynamics of particles and systems of particles. Motion of rigid bodies and oscillatory motion. Conservation principles. (Lec. 3 ) Pre: credit or concurrent enrollment in MTH 141 and concurrent enrollment in PHY 273. Intended for science or engineering majors. (A1) [Need passing credit in PHY 203 and 273 to fulfill general education requirement.]"
+    },
+    {
+        "code": "PHY203H",
+        "title": "Honors Section of PHY 203: Elementary Physics I",
+        "credits": "3",
+        "description": "(3 crs.) Honors Section of PHY 203: Elementary Physics I. (Lec. 3) Pre: must have a 3.40 overall GPA. Credit or concurrent enrollment in MTH 141 and concurrent enrollment in PHY 273. Intended for science or engineering majors. Not open to students with credit in PHY 213. (A1) [Need passing credit in PHY 203 and 273 to fulfill general education requirement.]"
+    },
+    {
+        "code": "PHY204",
+        "title": "Elementary Physics II",
+        "credits": "3",
+        "description": "(3 crs.) Introduction to electricity and magnetism, leading to Maxwell's equations. Electric fields and Gauss' law; magnetic fields and Ampere's law. Capacitance and inductance, DC and AC circuits. Electromagnetic waves. (Lec. 3) Pre: PHY 203, credit or concurrent enrollment in MTH 142, and concurrent enrollment in PHY 274. Intended for science or engineering majors. (A1) [Need passing credit in PHY 204 and 274 to fulfill general education requirement.]"
+    },
+    {
+        "code": "PHY204H",
+        "title": "Honors Section of PHY 204: Elementary Physics II",
+        "credits": "3",
+        "description": "(3 crs.) Honors Section of PHY 204: Elementary Physics II.  (Lec. 3) Pre: must have a 3.40 overall GPA. PHY 203 or PHY 203H; credit or concurrent enrollment in MTH 142, and concurrent enrollment in PHY 274. Intended for science or engineering majors. Not open to students with credit in PHY 214. (A1) [Need passing credit in PHY 204 and 274 to fulfill general education requirement.]"
+    },
+    {
+        "code": "PHY205",
+        "title": "Elementary Physics III",
+        "credits": "3",
+        "description": "(3 crs.) Introduction to topics of thermodynamics, kinetic theory, wave motion, acoustics, and optics. (Lec. 3) Pre: PHY 203, credit or concurrent enrollment in MTH 243 or MTH 362, and concurrent enrollment in PHY 275. Intended for science or engineering majors. (A1) (B3) [Need passing credit in PHY 205 and 275 to fulfill general education requirement.]"
+    },
+    {
+        "code": "PHY205H",
+        "title": "Honors Section of PHY 205: Elementary Physics III",
+        "credits": "3",
+        "description": "(3 crs.) Honors Section of PHY 205: Elementary Physics III.  (Lec. 3) Pre: must have a 3.40 overall GPA. PHY 203; concurrent enrollment in MTH 243 or 362; concurrent enrollment in PHY 275.  Intended for science or engineering majors. Not open to students with credit in PHY 213, 214. (A1) (B3) [Need passing credit in PHY 205H and 275H to fulfill general education requirement.]"
+    },
+    {
+        "code": "PHY210",
+        "title": "Radiation Safety",
+        "credits": "1",
+        "description": "(1 cr.) Radiation safety instruction sufficient to qualify students as radiation workers under state and federal regulations. (Lec. 1)"
+    },
+    {
+        "code": "PHY273",
+        "title": "Elementary Physics Laboratory I",
+        "credits": "1",
+        "description": "(1 cr.) Laboratory exercises and recitation sessions related to topics in PHY 203. (Lab. 3, Rec.) Pre: concurrent enrollment in PHY 203. (A1) [Need passing credit in PHY 203 and 273 to fulfill general education requirement.]"
+    },
+    {
+        "code": "PHY273H",
+        "title": "Honors Section of PHY 273: Elementary Physics Laboratory I",
+        "credits": "1",
+        "description": "(1 cr.) Honors Section of PHY 273: Elementary Physics Laboratory I (Lab. 3) Pre:  Must have a 3.40 overall GPA. Concurrent enrollment in PHY 203. [Students must register for both a Lab & Recitation of PHY 273H.] (A1) [Need passing credit in PHY 203 and 273 to fulfill general education requirement.]"
+    },
+    {
+        "code": "PHY274",
+        "title": "Elementary Physics Laboratory II",
+        "credits": "1",
+        "description": "(1 cr.) Laboratory exercises and recitation sessions related to topics in PHY 204. (Lab. 3, Rec.) Pre: concurrent enrollment in PHY 204. [Students must register for Lab. & Recitation.]  (A1) [Need passing credit in PHY 204 and 274 to fulfill general education requirement.]"
+    },
+    {
+        "code": "PHY274H",
+        "title": "Honors Section of PHY 274: Elementary Physics Laboratory II",
+        "credits": "1",
+        "description": "(1 cr.) Honors Section of PHY 274: Elementary Physics Laboratory II (Lab. 3) Pre: must have a 3.40 overall GPA. Concurrent enrollment with PHY 204. (A1) [Need passing credit in PHY 204 and 274 to fulfill general education requirement.]"
+    },
+    {
+        "code": "PHY275",
+        "title": "Elementary Physics Laboratory III",
+        "credits": "1",
+        "description": "(1 cr.) Laboratory exercises and recitation sessions related to topics in PHY 205. (Lab. 3, Rec.) Pre: Concurrent enrollment in PHY 205. [Students must register for Lab & Recitation section.] (A1) (B3) [Need passing credit in PHY 205 and 275 to fulfill general education requirement.]"
+    },
+    {
+        "code": "PHY275H",
+        "title": "Honors Section of PHY 275: Elementary Physics Laboratory III",
+        "credits": "1",
+        "description": "(1 cr.) Honors Section of PHY 275: Elementary Physics Laboratory III. (Lab. 3) Pre: must have a 3.40 overall GPA. Concurrent enrollment in PHY 205H. (A1) (B3) [Need passing credit in PHY 205H and 275H to fulfill general education requirement.]"
+    },
+    {
+        "code": "PHY306",
+        "title": "Elementary Modern Physics",
+        "credits": "3",
+        "description": "(3 crs.) Introduction to relativistic and quantum physics: special relativity theory, structure of atoms, molecules, nuclei, and solids including semiconductor devices; wave and particle properties (Lec. 3) Pre: PHY 204 and 205. Not open to students with credit in PHY 341."
+    },
+    {
+        "code": "PHY322",
+        "title": "Mechanics",
+        "credits": "3",
+        "description": "(3 crs.) Introduction to Newtonian statics and dynamics using vector analysis; particle motion, Lagrange's equations; rigid body motion. Application to various topics in physical mechanics. (Lec. 3) Pre: PHY 204 and MTH 244."
+    },
+    {
+        "code": "PHY331",
+        "title": "Electricity and Magnetism",
+        "credits": "3",
+        "description": "(3 crs.) Electrostatic fields and dielectric materials; magnetic fields, magnetic induction and magnetic materials; introduction to Maxwell's equations. (Lec. 3) Pre: PHY 204 and MTH 243."
+    },
+    {
+        "code": "PHY334",
+        "title": "Optics",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (PHY), AST 334. Geometrical and physical optics; thick lens optics, interference, diffraction, polarization. (Lec. 3) Pre: PHY 112 or 205."
+    },
+    {
+        "code": "PHY381",
+        "title": "Advanced Laboratory Physics",
+        "credits": "3",
+        "description": "(3 crs.) Key experiments covering a wide range of disciplines including nuclear physics, properties of the electron, magnetism thermodynamics, and optics. Quantitative analysis is stressed, including statistics and curve fitting. Technical skills are developed. (Lab. 6) Pre: PHY 204 and 205."
+    },
+    {
+        "code": "PHY382",
+        "title": "Advanced Laboratory Physics",
+        "credits": "3",
+        "description": "(3 crs.) Key experiments covering a wide range of disciplines including nuclear physics, properties of the electron, magnetism thermodynamics, and optics. Quantitative analysis is stressed, including statistics and curve fitting. Technical skills are developed. (Lab. 6) Pre: PHY 205 or HPR 322."
+    },
+    {
+        "code": "PHY401",
+        "title": "Seminar In Physics",
+        "credits": "1",
+        "description": "(1 cr.) Preparation and presentation of papers on selected topics in physics. (Seminar)"
+    },
+    {
+        "code": "PHY402",
+        "title": "Seminar In Physics",
+        "credits": "1",
+        "description": "(1 cr.) Preparation and presentation of papers on selected topics in physics. (Seminar)"
+    },
+    {
+        "code": "PHY410",
+        "title": "Computational Physics",
+        "credits": "3",
+        "description": "(3 crs.) Development and application of computer techniques to classical and quantum physics problems. Emphasis will be on approximation techniques and numerical methods for solving matrix, integral, and differential equations arising in physics. (Lec. 2, Lab. 3) Pre: MTH 215 and CSC 200 or CSC 201 or CSC 211.  Credit or concurrent enrollment in MTH 244 and PHY 306."
+    },
+    {
+        "code": "PHY420",
+        "title": "Introduction to Thermodynamics and Statistical Mechanics",
+        "credits": "3",
+        "description": "(3 crs.) Emphasis on laws of thermodynamics and properties of thermodynamic systems, kinetic theory of gases, molecular velocity distributions, transport phenomena, Maxwell-Boltzmann statistics. (Lec. 3) Pre: PHY 205 and MTH 243."
+    },
+    {
+        "code": "PHY430",
+        "title": "Modern Biological Physics",
+        "credits": "3",
+        "description": "(3 crs.) Quantitative representation of the structure and organization of biological molecules (DNA, RNA, proteins, membranes), the forces that stabilize biomolecules, cooperative transitions, protein folding, membrane physics, energy transduction in biological systems, molecular motors, and ratchet models. (Lec. 3) Pre: MTH 244.  Not for graduate credit."
+    },
+    {
+        "code": "PHY451",
+        "title": "Introduction to Quantum Mechanics",
+        "credits": "3",
+        "description": "(3 crs.) Particle-wave duality, uncertainty principle; Schridinger equation: eigenvalues, wave functions, time dependence; Dirac notation; Heisenberg representation: operators, matrices, eigenvectors; angular momentum: spin and polarization, Pauli matrices, hydrogen atom, application to quantum computation; symmetries: conservation laws, fermions and bosons. (Lec. 3) Pre: PHY 306 and 322, and MTH 215, and 244."
+    },
+    {
+        "code": "PHY455",
+        "title": "Introduction to Solid-State Physics",
+        "credits": "3",
+        "description": "(3 crs.) Crystal structure, thermal, electrical, and magnetic properties of solids. Electron gas theory of metals, band theory of solids. Semiconductors. (Lec. 3) Pre: PHY 451 and MTH 243."
+    },
+    {
+        "code": "PHY483",
+        "title": "Laboratory And Research Problems In Physics",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (PHY), AST, OCG 483. Research in current areas of physics. Students perform research projects with individual faculty members. Students in physics and physical oceanography may coordinate their research project with a faculty member of the Graduate School of Oceanography. (Lec. 1, Lab. 6) Pre: PHY 381 and 382."
+    },
+    {
+        "code": "PHY484",
+        "title": "Laboratory and Research Problems In Physics",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (PHY), AST, OCG 484. Research in current areas of physics. Students perform research projects with individual faculty members. Students in physics and physical oceanography may coordinate their research project with a faculty member of the Graduate School of Oceanography. (Lec. 1, Lab. 6) Pre: PHY 381 and 382. (D1) (B3)"
+    },
+    {
+        "code": "PHY491",
+        "title": "Special Problems",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "(1-6 crs.) Cross-listed as (PHY), AST 491. Advanced work under the supervision of a faculty member arranged to suit the individual requirements of the student. (Independent Study)"
+    },
+    {
+        "code": "PHY492",
+        "title": "Special Problems",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "(1-6 crs.) Cross-listed as (PHY), AST 492. Advanced work under the supervision of a faculty member arranged to suit the individual requirements of the student. (Independent Study)"
+    },
+    {
+        "code": "PHY510",
+        "title": "Mathematical Methods of Physics I",
+        "credits": "3",
+        "description": "(3 crs.) Topics designed to include applications in physics: linear algebra; determinants, matrices, eigenvalues; properties of finite and infinite bases; basics of numerical linear algebra; probability and statistics; Monte Carlo methods. (Lec. 3) Pre: Graduate standing in physics."
+    },
+    {
+        "code": "PHY520",
+        "title": "Classical Dynamics",
+        "credits": "3",
+        "description": "(3 crs.) Newton's laws. Conservation theorems and symmetry properties. Lagrangian mechanics. Central force motion. Dynamics of rigid bodies. Hamiltonian mechanics. Canonical transformations. Action-angle coordinates. Hamilton-Jacobi theory. Deterministic chaos. Relativistic mechanics. (Lec. 3) Pre: credit or concurrent enrollment in PHY 510."
+    },
+    {
+        "code": "PHY525",
+        "title": "Statistical Physics I",
+        "credits": "3",
+        "description": "(3 crs.) Equilibrium thermodynamics. Thermodynamics of phase transitions. Elements of kinetic theory. Statistical ensembles and partition functions. Classical and quantum equilibrium statistical mechanics. (Lec. 3) Pre: PHY 420 or equivalent, PHY 510."
+    },
+    {
+        "code": "PHY530",
+        "title": "Electromagnetism I",
+        "credits": "3",
+        "description": "(3 crs.) Electrostatics, including boundary value problem. Multipoles, electrostatics of macroscopic media, dielectrics. Magnetostatics. Time-varying fields, Maxwell equations, conservation laws. Plane electromagnetic waves, wave propagation. Wave guides, resonant cavities. Magnetic materials. (Lec. 3) Pre: credit or concurrent enrollment in PHY 510 and 520."
+    },
+    {
+        "code": "PHY540",
+        "title": "Modern Biological Physics",
+        "credits": "3",
+        "description": "(3 crs.) Quantitative representation of biological molecules (DNA, RNA, proteins, membrane) structure and organization, forces stabilized biomolecules, cooperative transitions, protein folding, membrane physics, energy transduction in biological systems, molecular motors, ratchet models.  Pre:  MTH 244."
+    },
+    {
+        "code": "PHY545",
+        "title": "Nanotechnology in Imaging and Therapy",
+        "credits": "3",
+        "description": "(3 crs.) Nanomaterials: physical properties, application in drug delivery and diagnostics, nanodevices, nano-oncology. (Lec. 3) Pre: MTH 244."
+    },
+    {
+        "code": "PHY550",
+        "title": "Introduction to Radiation Physics and Dosimetry",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (PHY), NUE 550. Basic principles of radiation physics: radioactivity, the physics of ionizing radiation, radiation dosimetry, imaging equipment, radiation therapy equipment and radiation detectors. Pre: PHY 210 or permission of instructor."
+    },
+    {
+        "code": "PHY552",
+        "title": "Radiobiology",
+        "credits": "3",
+        "description": "(3 crs.) Basic principles of radiation biology: factors that modify radiation response; linear energy transfer; relative biological effectiveness; tissue radiosensitivity; time-dose and fractionation; radiobiological modeling.  Pre:  PHY 210 or permission of instructor."
+    },
+    {
+        "code": "PHY555",
+        "title": "Radiation Oncology Clinical Practicum",
+        "credits": "4",
+        "description": "(4 crs.) Provide the student a base knowledge and overview of a medical physics in the environment of a modern radiation oncology clinic practice, opportunities for practical clinical training as a Medical Physicist, and a familiarity with the roles and practices of the clinical team tasked with the treatment of cancer patients. (Lec. 2, Prac. 2) Pre: PHY 550 and PHY 552 or permission of instructor."
+    },
+    {
+        "code": "PHY560",
+        "title": "Experimental Methods",
+        "credits": "3",
+        "description": "(3 crs.) Overview of the main principles of experimental methods used in physics, engineering, chemistry, biology and medicine. (Lec. 3) Pre: MTH 244 or permission of instructor"
+    },
+    {
+        "code": "PHY565",
+        "title": "Radiation Detection, Instrumentation and Data Analysis",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (PHY), NUE 565. Provide the student a base knowledge of radiation detection as it pertains to radiation therapy, diagnostic imaging, and nuclear medicine. (Lec. 3)  Pre: permission of instructor."
+    },
+    {
+        "code": "PHY570",
+        "title": "Quantum Mechanics I",
+        "credits": "3",
+        "description": "(3 crs.) Time evolution; Schrodinger and Heisenberg pictures; Perturbation techniques; Propagators and Feynman path integrals; Aharonov-Bohm effect; Scattering. (Lec. 3) Pre: PHY 451 or graduate standing."
+    },
+    {
+        "code": "PHY571",
+        "title": "Mathematical Methods for Quantum Computing",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (PHY), AMS 571. Math methods needed for quantum computing including linear vector spaces, linear operators, Hermitian and unitary operators, eigenvectors and eigenvalues, with an introduction to coding in Python. (Accelerated Online Program) Pre: permission of instructor."
+    },
+    {
+        "code": "PHY572",
+        "title": "Foundations of Quantum Mechanics",
+        "credits": "3",
+        "description": "(3 crs.) Introduction to the foundations of quantum mechanics, including distinctions between quantum and classical mechanics, axioms of quantum mechanics, spin 1/2 systems, operators, time evolution, measurement, qubits, entanglement and superposition. (Accelerated Online Program) Pre: PHY571 and permission of instructor."
+    },
+    {
+        "code": "PHY573",
+        "title": "Introduction to Quantum Computing",
+        "credits": "3",
+        "description": "(3 crs.) Qubits and their physical realization. Entanglement and Bell states. Quantum gates and circuits. Algorithms:searches, factoring, Fourier transforms. Applications to teleportation and cryptography. Physical applications. (Accelerated Online Program) Pre: PHY 572 and permission of instructor."
+    },
+    {
+        "code": "PHY574",
+        "title": "Quantum Technology",
+        "credits": "3",
+        "description": "(3 crs.) Advanced quantum circuit theory. Decoherence and density matrices. Error correction. Dense and superdense coding. Quantum tomography. Hardware. (Accelerated Online Program) Pre: PHY 573 and permission of instructor."
+    },
+    {
+        "code": "PHY575",
+        "title": "Introduction to Quantum Computing",
+        "credits": "3",
+        "description": "(3 crs.) Qubits and their physical realization. Entanglement and Bell states. Quantum gates and circuits. Quantum algorithms: searches, factoring, Fourier transforms. Quantum information theory with applications to teleportation and cryptography. Physical applications. (Lec. 3) Pre: PHY451 or Graduate Standing in Physics"
+    },
+    {
+        "code": "PHY576",
+        "title": "Advanced Quantum Computing",
+        "credits": "3",
+        "description": "(3 crs.) Advanced quantum circuit theory. Decoherence and density matrices. Error correction. Dense and superdense coding. Quantum tomography. Hardware. (Lec. 3) Pre: PHY 575."
+    },
+    {
+        "code": "PHY577",
+        "title": "Quantum Computing Internship",
+        "credits": "4",
+        "description": "(4 crs.) Provides students with practical experience in Quantum Computing while working on an internship. (Practicum) Pre: PHY 575. S/U only."
+    },
+    {
+        "code": "PHY580",
+        "title": "Condensed Matter Physics I",
+        "credits": "3",
+        "description": "(3 crs.) Drude and Sommerfiled theories. Crystal lattices and symmetries. Bragg scattering. Properties and calculation of electron spectra. Fermi surfaces of metals. Electrons in magnetic field. De Haas - van Alphen effect and Phonons. Electron-phonon interaction. Defects in solids. (Lec. 3) Pre: PHY 525, 570 or permission of chair."
+    },
+    {
+        "code": "PHY585",
+        "title": "Advanced Clinical Medical Imaging",
+        "credits": "4",
+        "description": "(4 crs.) Advanced topics in diagnostic and clinical imaging modalities with an emphasis on clinically relevant modalities. Modalities include radiography, fluoroscopy, computed tomography, nuclear imaging, mammography, magnetic resonance imaging, ultrasound and positron emission tomography. (Lec. 3, Practicum 1) Pre: ELE 564 or instructor permission."
+    },
+    {
+        "code": "PHY590",
+        "title": "Faculty Project",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "(1-6 crs.) A special project directly related to the research program of an individual faculty member. (Independent Study). Pre: permission of chairperson. Not to exceed 6 credits."
+    },
+    {
+        "code": "PHY591",
+        "title": "Special Problems",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "(1-6 crs.) Advanced study under the supervision of a faculty member arranged to suit the individual needs of the student. (Independent Study) Pre: permission of chairperson. Not to exceed 6 credits."
+    },
+    {
+        "code": "PHY599",
+        "title": "Master's Research",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "(1-6 crs.) Number of credits is determined each semester in consultation with the major professor or program committee. (Independent Study) S/U credit."
+    },
+    {
+        "code": "PHY610",
+        "title": "Mathematical Methods of Physics II",
+        "credits": "3",
+        "description": "(3 crs.) Topics designed to include applications in physics. Ordinary and partial differential equations; Sturm-Liouville theory. Numerical methods and computational techniques. Probability and statistics. Integral transforms. Integral equations; Green's functions. Special functions of mathematical physics. (Lec. 3) Pre: PHY 510."
+    },
+    {
+        "code": "PHY625",
+        "title": "Statistical Physics II",
+        "credits": "3",
+        "description": "(3 crs.) Statistical physics of soft condensed matter: colloids, polymers, gels, liquid crystals, amphiphiles, biological matter. Interactions, conformations, hierarchical structures, phase transitions, aggregation, self-assembly, kinetics, transport. (Lec. 3) Pre: PHY 525."
+    },
+    {
+        "code": "PHY626",
+        "title": "Statistical Physics III",
+        "credits": "3",
+        "description": "(3 crs.) Stochastic processes. Markov condition. Master equation. Fokker-Planck equation. Brownian motion. Langevin equation. Transport phenomena. Onsager theory of irreversible processes near equilibrium. Boltzmann equation. Linear response theory, fluctuation dissipation theorem. (Lec. 3) Pre: PHY 525."
+    },
+    {
+        "code": "PHY630",
+        "title": "Electromagnetism II",
+        "credits": "3",
+        "description": "(3 crs.) Radiating systems, scattering, and diffraction. Special theory of relativity. Dynamics of relativistic particles and electromagnetic fields. Collisions between charged particles, energy loss and scattering. Radiation by moving charges. Multipole fields. (Lec. 3) Pre: PHY 530."
+    },
+    {
+        "code": "PHY670",
+        "title": "Quantum Mechanics II",
+        "credits": "3",
+        "description": "(3 crs.) Symmetry (parity, translation, time-reversal). Time-independent (dependent) perturbation theory, variational methods. Identical particles. Scattering theory (Lippman-Schwinger equation, Born series, partial waves, resonances, optical theorem, inelastic scattering). Applications. Relativistic quantum mechanics. (Lec. 3) Pre: PHY 570 or permission of chairperson."
+    },
+    {
+        "code": "PHY680",
+        "title": "Condensed Matter Physics II",
+        "credits": "3",
+        "description": "(3 crs.) Interacting systems. Green's functions. Diagrammatic methods. Applications to superconductivity. Fluctuations. Functional integration Generalized susceptibility and dielectric response. Fluctuation-dissipation theorem. Structure function.  (Lec. 3) Pre: PHY 530 and 580 or permission of instructor."
+    },
+    {
+        "code": "PHY690",
+        "title": "Topics In Physics",
+        "credits": "3",
+        "description": "(3 crs.) Advanced topics in areas of research specializations: a) neutron physics; b) quantum fluids; c) magnetism; d) surface physics; e) nonlinear phenomena; f) advanced quantum physics; g) nuclear physics; h) low-temperature physics. (Lec. 3) Pre: permission of chairperson."
+    },
+    {
+        "code": "PHY691",
+        "title": "Advanced Special Topics",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "(1-6 crs.) Special topics related to current developments by visiting or permanent faculty. (Lec. 1-6) Pre: permission of instructor."
+    },
+    {
+        "code": "PHY699",
+        "title": "Doctoral Dissertation Research",
+        "credits": {
+            "min": "1",
+            "max": "12"
+        },
+        "description": "(1-12 crs.) Number of credits is determined each semester in consultation with the major professor or program committee. (Independent Study) S/U credit."
+    },
+    {
+        "code": "PHY930",
+        "title": "Workshop In Physics Topics For Teachers",
+        "credits": {
+            "min": "0",
+            "max": "3"
+        },
+        "description": "(0-3 crs.) Especially designed for teachers of physical sciences. Basic topics in physics from an advanced or pedagogical perspective. (Workshop) Pre: teacher certification."
+    }
+]

@@ -1,0 +1,257 @@
+[
+    {
+        "code": "STA220",
+        "title": "Statistics In Modern Society",
+        "credits": "3",
+        "description": "(3 crs.) Introductory statistics exploring and understanding data, relationships between variables, randomness and probability. (Lec. 2, Rec. 1) (B3)"
+    },
+    {
+        "code": "STA305",
+        "title": "Introduction to Statistical Computing with R",
+        "credits": "4",
+        "description": "(4 crs.) Introduction to statistical computing using R. This course will have two components. In the first part of the course you will learn how to write efficient and transparent programs in R. In the second part of the course, you will learn about packages and functions that are used for statistical analyses, techniques for managing data, and using graphs to visualize data. (Lec. 3, Lab. 1) Pre: (MTH 103 or MTH 111 or MTH 131 or MTH 141) and (STA 220 or STA 307 or STA 308 or STA 409) or permission of instructor."
+    },
+    {
+        "code": "STA307",
+        "title": "Introductory Biostatistics",
+        "credits": "4",
+        "description": "(4 crs.) Statistical methods applicable to health sciences. Data presentation. Vital statistics and life tables. Fitting models to health data. Testing, estimation, analysis of cross-classifications, regression, correlation. (Lec. 3, Rec. 1) Pre: MTH 107 or 108 or 131 or 141 or permission. Not open to students with credit in 308 or 409."
+    },
+    {
+        "code": "STA308",
+        "title": "Introductory Statistics",
+        "credits": "4",
+        "description": "(4 crs.) Descriptive statistics, presentation of data, averages, measures of variation. Elementary probability, binomial and normal distributions. Sampling distributions. Statistical inference, estimation, confidence intervals, testing hypotheses, linear regression, and correlation. (Lec. 3, Rec. 1/Online) Pre: Pre: MTH 103, 107, 110, 111, 131, 141, 180, or BAI (BUS) 111, or by permission of instructor. Not open to students with credit in STA 307 or 409."
+    },
+    {
+        "code": "STA400",
+        "title": "Introduction to the Analysis of Missing Data",
+        "credits": "4",
+        "description": "(4 crs.) Upper-level undergraduate course in missing data analysis. Covered topics will include missing data methods in experiments, deletion methods, single imputation methods, and multiple imputations. (Lec. 3, Lab. 1) Pre: STA 307 or STA308, and STA 411 or STA 412, or by permission of the instructor. Not for graduate credit."
+    },
+    {
+        "code": "STA409",
+        "title": "Statistical Methods in Research I",
+        "credits": "3",
+        "description": "(3 crs.) Same as STA 308, but is for students who have better mathematical preparation. (Lec. 3) Pre: MTH 131 or 141. Not open to students with credit in STA 307 or 308."
+    },
+    {
+        "code": "STA411",
+        "title": "Biostatistics II",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (STA), PHP, BPS 411. An overview of statistical methods with applications to health-related studies. Chi-square tests, effect measures, analysis of variances, multiple comparison procedures, linear and logistic regression, some nonparametric and survival tests. (Lec. 3, Rec. 1) Pre: STA 307, or 308, or 409, or permission of instructor."
+    },
+    {
+        "code": "STA412",
+        "title": "Statistical Methods in Research II",
+        "credits": "4",
+        "description": "(4 crs.) Analysis of variance (one and two ways) and multiple comparison methods. Simple and multiple linear regression, correlation analysis, and model selection methods. (Lec. 3, Rec. 1) Pre: STA 307 or 308 or 409."
+    },
+    {
+        "code": "STA414",
+        "title": "Measurement of Health Outcomes",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (PHP), STA 414. This course introduces classical psychometric theories and helps students understand methods to measure important health outcomes of medication use, including clinical, humanistic, and economic outcomes. (Lec. 3) Pre: PHP 405, STA 411 or equivalent; graduate student standing or permission of the instructor."
+    },
+    {
+        "code": "STA441",
+        "title": "Introduction to Multivariate Statistical Learning",
+        "credits": "4",
+        "description": "(4 crs.) Cross-list as (STA), DSP 441. Multivariate data organization and visualization, multinomial and multivariate normal distribution, tests of hypotheses on mean vectors, multivariate regression and classification, principal component analysis, clustering, cross-validation and bootstrapping. (Lec. 3., Lab. 1) Pre: MTH 215; and STA 409, or STA 411, or STA 412; or permission of instructor."
+    },
+    {
+        "code": "STA460",
+        "title": "Introduction to Time Series Analysis",
+        "credits": "4",
+        "description": "(4 crs.) Modeling, estimation, inference, and forecasting methods are illustrated with applications from different fields. (Lec. 3, Lab. 1) Pre: STA 307 or STA 308, or equivalent, or permission of instructor.  Not for graduate credit."
+    },
+    {
+        "code": "STA490",
+        "title": "Statistics in Practice",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (STA), DSP 490. Practical experience in statistical consulting through various projects. Apply statistical methods to the challenges imposed by real data, and communicate findings effectively. (Lec. 2, Practicum 2) Pre: (STA 411 or 412) and STA 441, or permission of the instructor. Not for graduate credit."
+    },
+    {
+        "code": "STA491",
+        "title": "Directed Study in Statistics",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Advanced work in statistics. Conducted as supervised individual projects. (Independent Study) Pre: permission of chairperson. S/U credit."
+    },
+    {
+        "code": "STA492",
+        "title": "Special Topics in Statistics",
+        "credits": "3",
+        "description": "(3 crs.) Advanced topics of current interest in statistics. (Lec. 3) Pre: permission of chairperson."
+    },
+    {
+        "code": "STA500",
+        "title": "Analysis of Missing Data",
+        "credits": "4",
+        "description": "(4 crs.) Designed as a graduate course in missing data theory. Covered topics include Full Information Maximum Likelihood, Expectation-Maximization algorithm, Multiple Imputation, and nonignorable missing data models. (Lec 3, Rec. 1) Pre: STA 501, or STA 502, or STA 576, or permission of instructor."
+    },
+    {
+        "code": "STA501",
+        "title": "Analysis of Variance and Variance Components",
+        "credits": "3",
+        "description": "(3 crs.) Analysis of variance and covariance, experimental design models, factorial experiments, random and mixed models, estimation of variance components, unbalanced data. (Lec. 3) Pre: STA 412."
+    },
+    {
+        "code": "STA502",
+        "title": "Applied Regression Analysis",
+        "credits": "3",
+        "description": "(3 crs.) Topics in regression analysis including subset selection, biased estimation, ridge regression, and nonlinear estimation. (Lec. 3) Pre: STA 412."
+    },
+    {
+        "code": "STA513",
+        "title": "Quality Systems",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (ISE), STA 513. Topics in statistical quality control systems. Single, multiple, and sequential sampling. Design and analysis of a wide variety of statistical control systems used in conjunction with discrete and continuous data, for several kinds of data emission. (Lec. 3) Pre: ISE 311 (411) or equivalent."
+    },
+    {
+        "code": "STA515",
+        "title": "Spatial Data Analysis",
+        "credits": "3",
+        "description": "(3 crs.) Analysis of point patterns: visualizing, exploring, and modeling, space time clustering, correcting for spatial variation, clustering around a specific point source.  Analysis of spatially continuous data: variogram analysis and Kriging methods.  (Lec. 3) Pre: STA 412 or permission of instructor."
+    },
+    {
+        "code": "STA520",
+        "title": "Fundamentals of Sampling and Applications",
+        "credits": "3",
+        "description": "(3 crs.) Simple random sampling; properties of estimates, confidence limits. Sample size. Stratified random sampling; optimum allocation, effects of errors, and quota sampling. Regression and ratio estimates; systematic and multistage sampling. (Lec. 3) Pre: STA 308 or 409."
+    },
+    {
+        "code": "STA522",
+        "title": "Bioinformatics I",
+        "credits": {
+            "min": "3",
+            "max": "4"
+        },
+        "description": "(3-4 crs.) Cross-listed as (CSC), STA, CMB 522, BPS 542. Integrates computing, statistical, and biological sciences, algorithms, and data analysis/management. Multidisciplinary student research teams. Modeling dynamic biological processes. Extra project work for 4 credits. (Lec. 3, Project 3) Pre: major in a computing, statistical, or biological science or permission of instructor."
+    },
+    {
+        "code": "STA525",
+        "title": "Programming and Data Management in SAS",
+        "credits": "4",
+        "description": "(4 crs.) Data managing and programming in SAS: data input, formatting and labeling, conditional processing, iterative processing, numeric and character functions, customized reports, data visualization, and basic statistical analysis. (Lec. 3, Rec. 1/Online) Pre: STA307 or STA308 or STA409 or by permission of instructor."
+    },
+    {
+        "code": "STA532",
+        "title": "Experimental Design",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (STA), PSY, AFS 532. Application of statistical methods to biological and psychological research and experimentation. Experimental situations for which various ANOVA and ANCOVA designs are most suitable. (Lec. 3) Pre: STA 409 or equivalent."
+    },
+    {
+        "code": "STA535",
+        "title": "Statistical Methodology in Clinical Trials",
+        "credits": "3",
+        "description": "(3 crs.) Bioavailability, dose response models, crossover and parallel designs, group sequential designs, survival analysis, meta analysis. (Lec. 3) Pre: STA 409, 411, or 412 or permission of instructor."
+    },
+    {
+        "code": "STA536",
+        "title": "Applied Longitudinal Analysis",
+        "credits": "3",
+        "description": "(3 crs.) Longitudinal Data, Linear Mixed Effects Models, Repeated Measures ANOVA, Generalized Linear Models for Correlated Data. (Lec. 3) Pre: STA 411 or STA 412 or permission of instructor."
+    },
+    {
+        "code": "STA541",
+        "title": "Multivariate Statistical Methods",
+        "credits": "3",
+        "description": "(3 crs.) Review of matrix analysis. Multivariate normal distribution. Tests of hypotheses on means, Hotelling's T2, discriminate functions. Multivariate regression analysis. Canonical correlations. Principal components. Factor analysis. (Lec. 3) Pre: STA 412."
+    },
+    {
+        "code": "STA542",
+        "title": "Categorical Data Analysis Methods",
+        "credits": "3",
+        "description": "(3 crs.) Analysis of multidimensional categorical data by use of log-linear and logit models. Discussion of methods to estimate and select models followed by examples from several areas. (Lec. 3) Pre: STA 412."
+    },
+    {
+        "code": "STA545",
+        "title": "Bayesian Statistics",
+        "credits": "3",
+        "description": "(3 crs.) Introduces Bayesian methods for a variety of statistical problems. Topics include Bayesian inference, model selection, Bayesian computation, hierarchical models and Gibbs sampling. Open-source software will be utilized for Bayesian data analyses.  (Lec. 3)  Pre:  STA 411 or STA 412 or permission of instructor."
+    },
+    {
+        "code": "STA550",
+        "title": "Ecological Statistics",
+        "credits": "3",
+        "description": "(3 crs.) Application of statistical methodology to the following topics: population growth, interactions of populations, sampling and modeling of ecological populations, spatial patterns, species abundance relations, and ecological diversity and measurement. (Lec. 3) Pre: STA 409 or permission of instructor."
+    },
+    {
+        "code": "STA560",
+        "title": "Time Series Analysis",
+        "credits": "4",
+        "description": "(4 crs.)  Designed as a graduate course in modern time series analysis. Modeling, estimation, inference, and forecasting methods are illustrated with applications from different fields. (Lec., Lab.) Pre: STA 409 or equivalent, or permission from instructor."
+    },
+    {
+        "code": "STA575",
+        "title": "Causal Inference for Biomedical Research",
+        "credits": null,
+        "description": "(3 crs.) Cross-listed as (PHP), STA 575. Using a potential outcomes framework, this course will present methodologies for drawing causal inference in a variety of settings. Examples will be drawn from epidemiologic and medical studies. (Lec. 3/Online) Pre: STA 411 or 412 or permission of instructor."
+    },
+    {
+        "code": "STA584",
+        "title": "Pattern Recognition",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (ELE), STA 584. Random variables, vectors, transformations, hypothesis testing, and errors. Classifier design: linear, nonparametric, approximation procedures. Feature selection and extraction: dimensionality reduction, linear and nonlinear mappings, clustering, and unsupervised classification. (Lec. 3) Pre: ELE 509 or introductory probability and statistics, and knowledge of computer programming."
+    },
+    {
+        "code": "STA585",
+        "title": "Statistical Analysis of Network Data",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (STA), CSC 585. Foundation of the statistical analysis of network data: visualization, node and edge characterization, inference, and sampling, mathematical and statistical network modeling and inference, modeling of static and dynamic network processes. (Lec. 3, Rec. 1) Pre: MTH 215;  STA 411, or STA 412, or STA 441; or permission of instructor."
+    },
+    {
+        "code": "STA591",
+        "title": "Directed Study in Statistics",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Advanced work in experimental statistics conducted as supervised individual projects. (Independent Study) Pre: permission of chairperson. S/U credit."
+    },
+    {
+        "code": "STA592",
+        "title": "Special Topics in Statistics",
+        "credits": "3",
+        "description": "(3 crs.) Advanced topics of current interest in statistics. (Lec. 3) Pre: permission of chairperson. May be taken more than once."
+    },
+    {
+        "code": "STA595",
+        "title": "Invited Speaker Series: CS & Stats Insights",
+        "credits": "1",
+        "description": "(1 cr.) Cross-listed as (STA) CSC595. Talks by experts in Computer Science and Statistics, providing insights into cutting-edge research and practical applications. Attendance and reflective writing are mandatory. (Seminar) Pre: Enrolled in the Computer and Statistical Sciences PhD program. S/U Only."
+    },
+    {
+        "code": "STA599",
+        "title": "Master's Thesis Research",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "(1-6 crs.) Number of credits is determined each semester in consultation with the major professor or program committee. (Independent Study) S/U credit."
+    },
+    {
+        "code": "STA610",
+        "title": "Parsimony Methods",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (PSY), STA 610. Multivariate procedures designed to reduce the dimensionality and help in the interpretation of complex data sets. Methods include principal components analysis, common factor analysis, and image analysis. Related methods: cluster analysis and multidimensional scaling. Applications involve the use of existing computer programs. (Lec. 3) Pre: PSY 533 or STA 541 or equivalent. In alternate years."
+    },
+    {
+        "code": "STA612",
+        "title": "Structural Modeling",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (PSY), STA 612. Theory and methodology of path analysis with latent variables. Discussion of 'causation' and correlation, Confirmatory Factor Analysis, Measurement and Structural Equation models. Practical applications using current computer programs (e.g. EQS). (Lec. 3) Pre: PSY 533 or 610."
+    },
+    {
+        "code": "STA699",
+        "title": "Doctoral Dissertation Research",
+        "credits": {
+            "min": "1",
+            "max": "12"
+        },
+        "description": "(1-12 crs.)  Cross-listed as (CSC) STA 699. Number of credits is determined each semester in consultation with the major professor or program committee. (Independent Study) S/U credit."
+    }
+]

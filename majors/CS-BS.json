@@ -55,7 +55,7 @@
         "notes": null
     },
     {
-        "codes": ["CSC310", "CSC372", "CSC402", "CSC406", "CSC415", "CSC436", "CSC450", "CSC461", "CSC462", "CSC481", "CSC493"],
+        "codes": ["CSC310", "CSC372", "CSC402", "CSC406", "CSC415", "CSC436", "CSC450", "CSC461", "CSC462", "CSC491", "CSC493"],
         "min_level": null,
         "notes": "One course from this list is required."
     },
@@ -99,15 +99,15 @@
     },
     {
         "codes": [
-            "PHY111/PHY185",
-            "PHY112/PHY186",
-            "PHY203/PHY273",
-            "PHY204/PHY274",
-            "CHM101/CHM102",
-            "CHM112/CHM114",
-            "BIO101/BIO103",
-            "BIO110/BIO103",
-            "BIO102/BIO104",
+            "PHY111",
+            "PHY112",
+            "PHY203",
+            "PHY204",
+            "CHM101",
+            "CHM112",
+            "BIO101",
+            "BIO110",
+            "BIO102",
             "GEO103",
             "OCG123G"
         ],

@@ -1,0 +1,554 @@
+[
+    {
+        "code": "OCG106G",
+        "title": "You, Me, and Life in the Sea",
+        "credits": "3",
+        "description": "(3 crs.) The ocean hosts an incredible array of life, from bacteria to blue whales. This course explores the biodiversity of life in the ocean and their relationship to humans. (Lec. 3) (A1) (B4) (GC)"
+    },
+    {
+        "code": "OCG108G",
+        "title": "Living by the Ocean",
+        "credits": "3",
+        "description": "(3 crs.) About 44 percent of the world's population lives within 150 kilometers of the sea. It is important for us to understand some great challenges that we are facing related to the ocean. This course will cover topics including but not limited to natural hazards, pollution, and ocean conservation. (Lec. 3) (D1) (GC)"
+    },
+    {
+        "code": "OCG110",
+        "title": "The Ocean Planet",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (OCG), GEO 110. Introduces the origin and structure of the solar system; interaction of earth's solid interior, oceans' atmosphere and biosphere with emphasis on earth science; energy resources and present environment on Earth. (Lec. 3) (A1) (B4)"
+    },
+    {
+        "code": "OCG111",
+        "title": "Ocean Exploration",
+        "credits": "3",
+        "description": "(3 crs.) An introduction to the basic tenants of oceanography as illustrated by the significant scientific discoveries that have shaped our understanding of the ocean its role on the planet. (Lec. 3) (A1) (B3)"
+    },
+    {
+        "code": "OCG120G",
+        "title": "The World of Robots",
+        "credits": "3",
+        "description": "(3 crs.) A guide to living with robots at home and at work; covering the fundamentals of robotic systems, future trends and surrounding issues such as ethics, privacy, safety and economics. (Lec. 2.5, Lab. .5) (A1) (B4) (GC)"
+    },
+    {
+        "code": "OCG123G",
+        "title": "Climate Change and the Oceans",
+        "credits": "3",
+        "description": "(3 crs.) The impact of human activities on the climate system, with emphasis on the  ocean, set against a background of natural processes in and history of global environmental changes. (Lec. 3) (A1) (C2) (GC)"
+    },
+    {
+        "code": "OCG131G",
+        "title": "Volcanoes And The Environment",
+        "credits": "3",
+        "description": "(3 crs.) General introduction to volcanic eruptions and their impact on the global environment and on human activity. Basic principles of the generation of magmas and their eruption at the earth's surface. (Lec. 3) (A1) (B4) (GC)"
+    },
+    {
+        "code": "OCG150",
+        "title": "Coastal Oceanographic Data in RI Waters",
+        "credits": "3",
+        "description": "(3 crs.) Collecting oceanographic data during on-the-water field experience in Rhode Island coastal waters. Students work in teams constructing, deploying, recovering and analyzing data from various oceanographic instruments. Declared STEM majors only. (Lec., Lab.)"
+    },
+    {
+        "code": "OCG200G",
+        "title": "Extreme Weather",
+        "credits": "3",
+        "description": "(3 crs.) Introduction to the observations, theories and forecasts of weather phenomena with focus on extreme weather. Learn the vocabulary and specifics of weather, put these facts together to understand key weather principles and then apply those principles to decision making. (Lec. 3) (A1) (C2) (GC)"
+    },
+    {
+        "code": "OCG301",
+        "title": "General Oceanography",
+        "credits": "3",
+        "description": "(3 crs.) Oceanography for undergraduate marine biology majors. General survey of the major disciplines including geological, physical, chemical and biological oceanography integrated into a study of the earth's ocean system. (Lec. 3) Pre: at least one year of biological or physical science with laboratory."
+    },
+    {
+        "code": "OCG309",
+        "title": "Coast-to-Coast Ocean Carbon",
+        "credits": "4",
+        "description": "(4 crs.) Course focuses on physical, chemical, and biological oceanography with an emphasis on estuaries. Students collect, analyze, and interpret data from major estuaries, applying findings to aquaculture, fisheries, ocean acidification, and carbon sequestration. (Lec. 3, Lab 1)"
+    },
+    {
+        "code": "OCG404",
+        "title": "Environmental Data Acquisition and Analysis",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (OCG), NRS, GEO 404. Introduction to instrument prototyping and measurements in environmental science. Hands-on with data collection: programming microcontrollers, interfacing hardware and software, wireless sensor networks. Data analysis in Python. (Lec. 2, Lab. 1) Pre: MTH 131 or MTH 141."
+    },
+    {
+        "code": "OCG420",
+        "title": "Deep-sea Biology",
+        "credits": "3",
+        "description": "(3 crs.) Overview of the biology and ecology of the deep sea, including organisms and habitats, spatial and temporal patterns, physiology and adaptations, energetics, evolution and hydro-thermal vent ecology. (Lec. 3) Pre: one semester general biology (BIO 100, 101, 102, 103, 104, 130, 141) and one semester general chemistry (CHM 101, 103).  One semester ecology or oceanography recommended (OCG 123, 301, 451, BI0 455)."
+    },
+    {
+        "code": "OCG423G",
+        "title": "Climate and Ocean Solutions",
+        "credits": "3",
+        "description": "(3 crs.) Apply knowledge of the drivers and consequences of climate change to create projects aimed at slowing or building resilience to these changes. (Practicum) (D1) "
+    },
+    {
+        "code": "OCG440",
+        "title": "Geological Oceanography",
+        "credits": "4",
+        "description": "(4 crs.)  Origin and evolution of the ocean basin and its margin: morphology, structure, plate tectonics, volcanism, geochemistry, stratigraphy, sedimentation, and paleoceanography.  (Lec. 3, Lab. 2) Pre:  GEO 103 or permission of instructor.  Not for graduate credit."
+    },
+    {
+        "code": "OCG451",
+        "title": "Oceanographic Science",
+        "credits": "3",
+        "description": "(3 crs.) Oceanography for undergraduate science majors. The approach used is to present and apply basic physical, chemical, geological, and biological principles to the integrated study of the world ocean system. (Lec. 3) Pre: two semesters of MTH 131 and 132 or 141 and 142, one semester of CHM 101 and 102 or 191, one semester of PHY 111 and 185 or 203 and 273 or 213 and 285. A second semester of CHM 112 and 114 or 192 is recommended. Not for graduate credit in oceanography."
+    },
+    {
+        "code": "OCG480",
+        "title": "Introduction to Marine Pollution",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (OCG) CVE 480. An introductory course in marine pollution emphasizing geochemical aspects of the sources, transport, and fate of pollutants in the coastal marine environment. (Lec. 3) Pre: one semester of general chemistry (CHM 101 or 103). One semester of general geosciences (GEO 100 or 103) is recommended. Not for graduate credit."
+    },
+    {
+        "code": "OCG483",
+        "title": "Laboratory And Research Problems In Physics",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (PHY), AST, OCG 483. Research in current areas of physics. Students perform research projects with individual faculty members. Students in physics and physical oceanography may coordinate their research project with a faculty member of the Graduate School of Oceanography. (Lec. 1, Lab. 6) Pre: PHY 381 and 382."
+    },
+    {
+        "code": "OCG484",
+        "title": "Laboratory and Research Problems In Physics",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (PHY), AST, OCG 484. Research in current areas of physics. Students perform research projects with individual faculty members. Students in physics and physical oceanography may coordinate their research project with a faculty member of the Graduate School of Oceanography. (Lec. 1, Lab. 6) Pre: PHY 381 and 382. (D1) (B3)"
+    },
+    {
+        "code": "OCG491",
+        "title": "Ocean Studies",
+        "credits": "15",
+        "description": "(15 crs.) Full-time intensive work experience with Graduate School of Oceanography research at Narragansett Bay Campus. Student expected to participate in research program, seminars, and other activities of Bay Campus. (Independent Study) Pre: junior standing in natural sciences, natural resources, or engineering, and permission of supervising faculty member. Not for graduate credit in oceanography. S/U only."
+    },
+    {
+        "code": "OCG493",
+        "title": "Special Problems And Independent Study In Oceanography",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "(1-6 crs.) Research in oceanography conducted as supervised individual study. (Independent Study) Pre: junior or senior standing in natural science, natural resources, or engineering, and permission of instructor. S/U only."
+    },
+    {
+        "code": "OCG494",
+        "title": "Special Problems And Independent Study In Oceanography",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "(1-6 crs.) Research in oceanography conducted as supervised individual study. (Independent Study) Pre: junior or senior standing in natural science, natural resources, or engineering, and permission of instructor. S/U only."
+    },
+    {
+        "code": "OCG501",
+        "title": "Physical Oceanography",
+        "credits": "3",
+        "description": "(3 crs.) Basic course covering physical properties of seawater, heat budget, distribution of variables, dynamics, water masses and general circulation, waves and tides. (Lec. 3) Pre: PHY 111 or 203 and MTH 131 or 141 or permission of the instructor. Although PHY 111 is acceptable, PHY 203 is strongly recommended."
+    },
+    {
+        "code": "OCG502",
+        "title": "Marine Geobiology",
+        "credits": "3",
+        "description": "(3 crs.) This course will focus on the role of marine microbes in Earth's biogeochemical cycles, their effect on Earth history, and the nature of microbial life in marine geologic systems. (Seminar)"
+    },
+    {
+        "code": "OCG505",
+        "title": "Marine Analytical Chemistry",
+        "credits": "3",
+        "description": "(3 crs.) Application of analytical methods to marine problems with emphasis on understanding basic methods and instruments. Combines general principles with practical experience. Students conduct analytical projects in the laboratory. (Lec. 1, Lab. 2)"
+    },
+    {
+        "code": "OCG506",
+        "title": "Numerical Models and Data Analysis in Ocean Sciences",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (OCG), OCE 506. An introduction to numerical methods in all disciplines of oceanography and ocean engineering.  Topics include model formulation, analysis, and simulation; data analysis and parameter estimation.  Problem solving with Matlab and C in the weekly computer laboratory.  (Lec. 2, Lab. 3)"
+    },
+    {
+        "code": "OCG507",
+        "title": "Oceanography for Educators",
+        "credits": "3",
+        "description": "(3 crs.) Survey of ocean science concepts. Investigation of marine issues that affect the environment. Ten hours in the field. Integration of national science education standards and inquiry based pedagogy. (Lec. 3) Pre: CHM 100 and BIO 113 (or equivalent). A semester of general geology (GEO 100 or 103) and at least one college level math course are recommended."
+    },
+    {
+        "code": "OCG508",
+        "title": "Global Environmental Change Education",
+        "credits": "3",
+        "description": "(3 crs.) Survey of global environmental change issues focusing on environmental systems, related ocean science topics, and local marine and coastal environments. Integration of national science education standards and inquiry-based pedagogy. (Lec. 3) Pre: CHM 100 and BIO 113 (or equivalent). A semester of general geology (GEO 100 or 103) is recommended."
+    },
+    {
+        "code": "OCG510",
+        "title": "Descriptive Physical Oceanography",
+        "credits": "3",
+        "description": "(3 crs.) Observed distributions of temperature, salinity, currents; methods of deducing deep flow; physical properties of seawater; flow in estuaries; practical work in the analysis of oceanographic data; study of recent literature. (Lec. 3) Pre: OCG 501."
+    },
+    {
+        "code": "OCG511",
+        "title": "Global Ocean Change",
+        "credits": "3",
+        "description": "(3 crs.) This course will focus on ongoing oceanic (physical, chemical, biological, and geological) changes, emphasizing causes, magnitudes, and consequences of change; shifting baselines; timescales and geographies of change and recovery. (Seminar)"
+    },
+    {
+        "code": "OCG512",
+        "title": "Ocean Waves and Storm Surge Modeling",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (OCG), OCE 512. Wind wave generation, evolution, and dissipation. Statistical description of surface waves. Interaction between waves and currents. Wave prediction models. Observational methods of waves. Storm surge models and prediction. (Lec. 3) Pre: OCE 408 or equivalent, or permission of instructor."
+    },
+    {
+        "code": "OCG513",
+        "title": "Ocean Renewable Energy",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (OCE), OCG 513. Introductory topics related to global ocean renewable energy, including fundamentals of hydrokinetic, tidal, and wave energy, leading energy devices, and more advanced topics including resource assessment and environmental interactions. (Lec. 3) Pre: MCE 354 or permission of instructor."
+    },
+    {
+        "code": "OCG515",
+        "title": "Phenomenal Ocean",
+        "credits": "3",
+        "description": "(3 crs.) An introduction to fundamental oceanographic processes that uses ocean phenomena to explore four primary sub-disciplines of oceanography (geology, chemistry, physics, and biology) and global change events through an interdisciplinary lens. (Accelerated Online Program)"
+    },
+    {
+        "code": "OCG516",
+        "title": "Ocean and Climate Models",
+        "credits": "3",
+        "description": "(3 crs.) An introduction to ocean and climate models and modeling techniques to enable students to critically assess the strengths, weaknesses, and limitations of these models. (Accelerated Online Program)."
+    },
+    {
+        "code": "OCG517",
+        "title": "Foundations Of Earth System Dynamics",
+        "credits": "3",
+        "description": "(3 crs.) Introduction to the fundamental principals underlying fluid dynamics as applied to the study of specific problems and processes in earth, marine and environmental sciences. Basics of numerical modeling are covered. (Lec. 3) Pre: MTH 141 and 142, or equivalent."
+    },
+    {
+        "code": "OCG519",
+        "title": "Marine Environmental Organic Chemistry",
+        "credits": "3",
+        "description": "(3 crs.) Cross-coded with (OCG), GEO, CVE 519. Physico-chemical properties of organic compounds, their transformations and environmental fluxes with a focus on marine topics. Offered alternate years. (Lec. 3) Pre: graduate standing or permission of instructor."
+    },
+    {
+        "code": "OCG521",
+        "title": "Chemical Oceanography",
+        "credits": "3",
+        "description": "(3 crs.) Processes regulating the composition of seawater and the distribution of chemical species. The interaction of marine chemistry with the ocean floor, atmosphere, and marine organisms. (Lec. 2, Lab. 2) Pre: CHM 101 and 112 and PHY 213."
+    },
+    {
+        "code": "OCG525",
+        "title": "Chemistry of the Earth",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (OCG), GEO 525. Analysis of the solid Earth, ocean and atmosphere as a geological/chemical/biological system. Fundamentals of geochemistry will be developed within the context of broad Earth science questions: Earth formation, differentiation, evolution and human impacts. (Lec. 3) Pre: graduate or advanced undergraduate standing in a science major or permission of instructor."
+    },
+    {
+        "code": "OCG530",
+        "title": "Principles of Ocean Circulation",
+        "credits": "3",
+        "description": "(3 crs.) Provides a dynamical framework for understanding ocean circulation. Covers how ocean circulation is observed, wind and buoyancy-forced circulation, water-mass formation processes, heat/fresh water transport, mixing, and meridional overturning circulation. (Lec. 3) Pre: OCG501."
+    },
+    {
+        "code": "OCG533",
+        "title": "Graduate Writing In Marine and Environmental Sciences",
+        "credits": "3",
+        "description": "(3 crs.) Graduate writing in marine and environmental sciences; writing and editing journal articles and abstracts; principles and practice in scientific writing. Pre: graduate standing and WRT 104 or 106, or permission of instructor."
+    },
+    {
+        "code": "OCG535",
+        "title": "Climate, Radiation, Gases and Aerosols",
+        "credits": "3",
+        "description": "(3 crs.) Role of short- and long-wave radiation in climate. Occurrence and consequences of natural and enhanced concentrations of radiatively-active gases. Role of aerosols and associated forcings and feedbacks. (Lec. 3) Pre: PHY 205 or 214, CHM 192 or permission of instructor."
+    },
+    {
+        "code": "OCG539",
+        "title": "Hacking for Environment: Oceans",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (OGC), MBA 539. Students will tackle complex problems critical to our oceans and the environment. They will learn to apply entrepreneurial methods and tools to solve real-world problems in teams of students and in collaboration with mentors/sponsors. Gain marketable skills through a flipped-classroom approach and learning Lean LaunchPad principles. (Lec. 1, Project 2)"
+    },
+    {
+        "code": "OCG540",
+        "title": "Geological Oceanography",
+        "credits": "4",
+        "description": "(4 crs.) Origin and evolution of the ocean basin and its margin: morphology, structure, plate tectonics, volcanism, geochemistry, stratigraphy, sedimentation, and paleoceanography. (Lec. 3, Lab. 2) Pre: GEO 103 or permission of instructor."
+    },
+    {
+        "code": "OCG545",
+        "title": "Volcaniclastic Sedimentation",
+        "credits": "3",
+        "description": "(3 crs.) Generation of volcanic particles by explosive volcanism, the processes by which they are dispersed on land and in the sea, and physical characteristics of their deposits in different volcanic environments. (Lec. 3) Pre: OCG 540 or permission of instructor."
+    },
+    {
+        "code": "OCG550",
+        "title": "Environmental Isotope Geochemistry",
+        "credits": "3",
+        "description": "(3 crs.) Covers fundamental isotope theory, discusses traditional and cutting-edge analytical methods, and explores isotope applications to important ecological and environmental processes across the geosphere, hydrosphere, and biosphere. (Lec. 3)"
+    },
+    {
+        "code": "OCG551",
+        "title": "Estuarine Ecology",
+        "credits": "3",
+        "description": "(3 crs.) Examines the complex nature of estuaries through an interdisciplinary lens. This course is an introduction to the specifics of estuarine science and provides a coherent view of estuaries as ecosystems. (Lec. 3) Pre: Permission of instructor."
+    },
+    {
+        "code": "OCG555",
+        "title": "Modern Oceanographic Imaging and Mapping Techniques",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (OCG), OCE 555. Overview of current imaging and mapping techniques used in oceanography and ocean engineering including; photographic and laser imaging, side scan and multibeam sonar; underwater vehicle navigation and map making. (Lec. 3) Pre: undergraduates - OCE 471 or permission of instructor; graduate students - none, this is an overview course appropriate for science-focused graduate students."
+    },
+    {
+        "code": "OCG560",
+        "title": "Ecosystem-Based Fisheries Science & Management",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (AFS), OCG 560. The scientific components of ecosystem-based fisheries management: climate variation, trophic interactions, habitat, bycatch, and human dimensions. Classes emphasize problem-solving through case studies of domestic and international fisheries. (Lec. 3) Pre: Graduate standing or instructor permission."
+    },
+    {
+        "code": "OCG561",
+        "title": "Biological Oceanography",
+        "credits": "3",
+        "description": "(3 crs.) Biology and ecology of marine ecosystems; role of ocean biology in global biogeochemical processes; Emphasis on marine plankton; patterns of distribution, productivity and species interactions. (Lec. 3) Pre: general ecology."
+    },
+    {
+        "code": "OCG562",
+        "title": "Biological Oceanography - Laboratory",
+        "credits": "1",
+        "description": "(1 cr.) Course covers measurement and analysis techniques commonly used in biological oceanography. Includes laboratory work, computer exercises and research cruises on Narragansett Bay. This course supplements OCG 561 and lectures and reading from that class are essential preparation for the labs. Evaluation based on participation in all the exercises and a cumulative laboratory reports. (Lab. 1) Pre: OCG 561."
+    },
+    {
+        "code": "OCG569",
+        "title": "Oceanographic Processes",
+        "credits": "3",
+        "description": "(3 crs.) Broad survey of general oceanography. The approach is to present and apply basic geological, physical, chemical, and biological principles to the integrated study of the world ocean system. (Lec. 3) Pre: permission of instructor."
+    },
+    {
+        "code": "OCG576",
+        "title": "Marine Microbial Ecology",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (OCG), CMB 576. Examines role of microbes in the oceans and their impact on oceanographic processes and biogeochemical cycles.  Emphasis is on bacteria and their interactions with other marine organisms and the marine environment.  Laboratory exercises make use of modern techniques to study metabolic rates and community structure.  (Lec. 3, Lab. 3) Pre: permission of instructor."
+    },
+    {
+        "code": "OCG577",
+        "title": "Modeling the Marine Carbon Cycles",
+        "credits": "3",
+        "description": "(3 crs.) Development of idealized mathematical and numerical models of the marine carbon cycles over various spatial and temporal scales. The numerical modeling component, using Python, accommodates beginner programmers. (Lec. 3) "
+    },
+    {
+        "code": "OCG579",
+        "title": "Special Topics on Emerging Contaminants",
+        "credits": "2",
+        "description": "(2 crs.) Cross-listed as (PHC), CHE, OCG 579. Introduction to emerging contaminants such as PFASs, focusing on their chemistry, detection, epidemiology, human health, metabolism, and remediation, as well as interdisciplinary collaboration, research translation, community engagement, and professional development. (Lec. 2) Pre: graduate standing. S/U only."
+    },
+    {
+        "code": "OCG580",
+        "title": "Introduction To Marine Pollution",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (OCG), CVE 580. An introductory course in marine pollution emphasizing geochemical aspects of the sources, transport and fate of pollutants in the coastal marine environment. Review papers or research proposals will be required. (Lec. 3) Pre: one semester of general chemistry (CHM 101 or 103). One semester of general geosciences (GEO 100 or 103)."
+    },
+    {
+        "code": "OCG588",
+        "title": "Marine Carbon Dioxide Removal",
+        "credits": "3",
+        "description": "(3 crs.) CO2 needs to be removed from the atmosphere to keep the global temperatures at recommended levels. There is an increasing urgency to improve our scientific understanding of ocean CO2 removal. (Lec. 3) Pre: OCG 521"
+    },
+    {
+        "code": "OCG591",
+        "title": "Individual Study",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "(1-6 crs.) Individual study of assigned topics or special problems involving literature search and/or original investigation under one or more members of the faculty. (Independent Study)"
+    },
+    {
+        "code": "OCG592",
+        "title": "Individual Study",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "(1-6 crs.) Individual study of assigned topics or special problems involving literature search and/or original investigation under one or more members of the faculty. (Independent Study)"
+    },
+    {
+        "code": "OCG593",
+        "title": "Special Studies",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "description": "(1-4 crs.) Studies of specialized topics in the marine sciences. (Independent Study)"
+    },
+    {
+        "code": "OCG594",
+        "title": "Special Studies",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "description": "(1-4 crs.) Studies of specialized topics in the marine sciences. (Independent Study)"
+    },
+    {
+        "code": "OCG599",
+        "title": "Master's Thesis Research",
+        "credits": {
+            "min": "1",
+            "max": "12"
+        },
+        "description": "(1-12 crs.) Number of credits is determined each semester in consultation with the major professor. (Independent Study) S/U credit."
+    },
+    {
+        "code": "OCG601",
+        "title": "Ocean Resilience",
+        "credits": "3",
+        "description": "(3 crs.) Course focuses on complex issues related to changes in the ocean environment. Topics include climate change, sea level rise, fisheries management, marine pollution, natural hazards and emerging ocean energy initiatives. (Accelerated Online Program) Pre: Matriculating URI Online Masters of Oceanography student, one URI Online Masters of Oceanography core course (OCG 501, 521, 540 or 561) or permission of instructor."
+    },
+    {
+        "code": "OCG605",
+        "title": "Dynamical Oceanography",
+        "credits": "3",
+        "description": "(3 crs.) Simple steady-state theories applied to ocean motion. Review of well-known force balances in oceanography, wind-driven circulation, thermohaline circulation, the thermocline, oceanic boundary layers, nearshore circulation, diffusion. (Lec. 3) Pre: OCG 501."
+    },
+    {
+        "code": "OCG610",
+        "title": "Geophysical Fluid Dynamics I",
+        "credits": "3",
+        "description": "(3 crs.) Natural world fluid dynamics emphasizing ocean circulation. Classical fluid dynamics; GFD fundamentals (rotation and stratification); Taylor-Proudman theorem; potential vorticity; planetary waves; geostrophic contours; shallow water quasi-geostrophic theory; frictional layers. (Lec. 3) Pre: OCG 605 or permission of instructor."
+    },
+    {
+        "code": "OCG611",
+        "title": "Geophysical Fluid Dynamics II",
+        "credits": "3",
+        "description": "(3 crs.) Continuously stratified quasi-geostrophic theory; classical and modern theories of the wind-driven ocean circulation; stability theory; oceanic convection; wave-mean flow interactions; ageostrophic dynamics; topographical effects. (Lec. 3) Pre: OCG 610 or permission of instructor."
+    },
+    {
+        "code": "OCG613",
+        "title": "Waves",
+        "credits": "3",
+        "description": "(3 crs.) Generation, propagation, and decay of surface waves, internal waves, and Rossby waves in the ocean. (Lec. 3) Pre: MCE 550 or permission of instructor."
+    },
+    {
+        "code": "OCG614",
+        "title": "Tides",
+        "credits": "2",
+        "description": "(2 crs.) Generation, propagation, and dissipation of ocean tides. Earth tides. Relation between theory and observation. Tidal analysis. (Lec. 2) Pre: OCG 501."
+    },
+    {
+        "code": "OCG620",
+        "title": "Chemical Distributions",
+        "credits": "3",
+        "description": "(3 crs.) Interdisciplinary study of the processes responsible for oceanic chemical distributions with emphasis on conservative properties, biologically active constituents, and radionuclides. Includes projects involving data-processing analysis. (Lec. 3) Pre: OCG 501, 521, 540, and 561 or permission of instructor."
+    },
+    {
+        "code": "OCG623",
+        "title": "Physical Chemistry Of Seawater",
+        "credits": "3",
+        "description": "(3 crs.) Characterization of dissociation, solubility, and redox equilibria in seawater. Partial molar volumes, conductivity, and diffusion of ions in seawater. Kinetic studies in seawater; effect of temperature, salinity, and pressure on physiochemical properties in seawater. (Lec. 3) Pre: OCG 521 and CHM 432 or permission of instructor."
+    },
+    {
+        "code": "OCG625",
+        "title": "Organic Geochemistry Of Sediments",
+        "credits": "3",
+        "description": "(3 crs.) Chemistry of organic matter in recent to ancient sediments. Topics include the source, characterization, significance, and fate of sedimentary organic compounds with emphasis on the marine environment. (Lec. 3) Pre: OCG 523 or permission of instructor."
+    },
+    {
+        "code": "OCG628",
+        "title": "High-Temperature Geochemistry",
+        "credits": "3",
+        "description": "(3 crs.) Principles and factors governing the distribution of trace elements in volcanic processes. Applications to the study of rock genesis, mantle dynamics, oceanic crust formation, and hotspots. (Lec. 3) Pre: CHM 431 or equivalent, or permission of instructor."
+    },
+    {
+        "code": "OCG631",
+        "title": "Seminar In Marine And Atmospheric Chemistry",
+        "credits": "1",
+        "description": "(1 cr.) Discussion of problems of current interest in marine chemistry. (Seminar) Pre: OCG 521 or permission of instructor. S/U credit."
+    },
+    {
+        "code": "OCG643",
+        "title": "Subduction Zones",
+        "credits": "3",
+        "description": "(3 crs.) Structure, petrology, and geochemistry of subduction zones, island arcs, and other magmatic arcs at convergent plate margins. Petrogenesis of andesites and related magmas. (Lec. 3) Pre: OCG 540 or permission of instructor."
+    },
+    {
+        "code": "OCG645",
+        "title": "Petrology Of The Oceanic Crust",
+        "credits": "3",
+        "description": "(3 crs.) Nature and origin of igneous and metamorphic rocks of the oceanic crust of the earth; mineralogy, petrology, and petrogenesis of seafloor rocks; metamorphism of the ocean crust. (Lec. 3) Pre: graduate standing or permission of instructor."
+    },
+    {
+        "code": "OCG648",
+        "title": "Paleoceanography",
+        "credits": "3",
+        "description": "(3 crs.) Earth history and its relation to global climate. Tools, data, and concepts related to past climate change as observed in the oceanic, ice, and terrestrial records. (Lec. 3) Pre: OCG 540."
+    },
+    {
+        "code": "OCG651",
+        "title": "Marine Stratigraphy",
+        "credits": "3",
+        "description": "(3 crs.) Concepts and methods of biostratigraphy, lithostratigraphy, and chronostratigraphy. Stratigraphic nomenclature. Stratigraphic correlation and completeness. Special focus will be placed on the integration of multiple stratigraphic techniques and their application to the Cretaceous and Cenozoic marine record. Class discussion of advances and problems in recent research articles. (Seminar) Pre: permission of instructor."
+    },
+    {
+        "code": "OCG664",
+        "title": "Phytoplankton Ecology",
+        "credits": "3",
+        "description": "(3 crs.) Biology and ecology of the pelagic marine microscopic algae with emphasis on their adaptations, physiological ecology, distribution, succession, production, and regional and seasonal dynamics. (Lec. 3) Pre: permission of instructor."
+    },
+    {
+        "code": "OCG669",
+        "title": "Marine Fish Ecology And Production",
+        "credits": "3",
+        "description": "(3 crs.) Functioning of fishes in major world ecosystems is explored through comparison of feeding ecology, bioenergetics, and production rates. (Lec. 3) Pre: OCG 561 or permission of instructor."
+    },
+    {
+        "code": "OCG670",
+        "title": "Fish Population Dynamics",
+        "credits": "3",
+        "description": "(3 crs.) Methods for estimating vital statistics of fish populations, stock assessment theory and methods, analytical and empirical model development, and fisheries forecasting. (Lec. 3) Pre: graduate standing or permission of instructor."
+    },
+    {
+        "code": "OCG673",
+        "title": "Fisheries Oceanography",
+        "credits": "3",
+        "description": "(3 crs.) Physical and biological processes acting at the egg, larval, juvenile, and adult stages of commercially important fish and shellfish. Topics include: growth, survival, and recruitment dynamics; larval dispersal and fish distributions; changes in long-term abundance in relation to climate. (Lec. 3) Pre: graduate standing or permission of instructor. OCG 501, 561 recommended."
+    },
+    {
+        "code": "OCG691",
+        "title": "Individual Study",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "(1-6 crs.) Individual study of assigned topics or special problems involving literature search and/or original investigation under one or more members of the faculty. (Independent Study)"
+    },
+    {
+        "code": "OCG692",
+        "title": "Individual Study",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "(1-6 crs.) Individual study of assigned topics or special problems involving literature search and/or original investigation under one or more members of the faculty. (Independent Study)"
+    },
+    {
+        "code": "OCG693",
+        "title": "Special Studies",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "description": "(1-4 crs.) Studies of specialized topics in the marine sciences. (Independent Study)"
+    },
+    {
+        "code": "OCG694",
+        "title": "Special Studies",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "description": "(1-4 crs.) Studies of specialized topics in the marine sciences. (Independent Study)"
+    },
+    {
+        "code": "OCG695",
+        "title": "Seminar In Oceanography",
+        "credits": "1",
+        "description": "(1 cr.) Students give seminar reports on problems and current research in various areas of oceanography. (Seminar) Attendance and registration are required of all graduate students in residence, but no more than 2 credits are allowed for a program of study. S/U credit."
+    },
+    {
+        "code": "OCG699",
+        "title": "Doctoral Dissertation Research",
+        "credits": {
+            "min": "1",
+            "max": "12"
+        },
+        "description": "(1-12 crs.)Number of credits is determined each semester in consultation with the major professor or doctoral committee. (Independent Study) S/U credit."
+    }
+]

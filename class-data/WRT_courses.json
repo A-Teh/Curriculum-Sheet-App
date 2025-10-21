@@ -1,0 +1,332 @@
+[
+    {
+        "code": "WRT100",
+        "title": "Introduction to College Writing",
+        "credits": "2",
+        "description": "(2 crs.) Practice in topic development, research techniques, documentation and attribution, and process-based writing. Focuses on thesis statements, topic sentences, paragraphing, coherence, and syntax. (Lec. 2) Pre: Admission to Talent Development's Prematriculation Program."
+    },
+    {
+        "code": "WRT104",
+        "title": "Writing to Inform and Explain",
+        "credits": "3",
+        "description": "(3 crs.) Writing emphasizing the sharing of information. Varieties and strategies of expository writing for differing audiences and situations. Genres may include reports, proposals, letters, reviews, websites, academic essays. (Lec. 3) Not open to students with credit in WRT 106. (B1) (B4)"
+    },
+    {
+        "code": "WRT104H",
+        "title": "Honors Section of WRT 104: Writing to Inform and Explain",
+        "credits": "3",
+        "description": "(3 crs.) Honors Section of WRT 104: Writing to Inform and Explain. (Lec. 3) Pre: must have a 3.40 overall GPA. (B1) (B4)"
+    },
+    {
+        "code": "WRT106",
+        "title": "Introduction to Research Writing",
+        "credits": "3",
+        "description": "(3 crs.) Introduction to working with sources and the research process. Guided help in conducting interviews, observations and database searches. All assignments contribute to a major research report. (Lec. 3) Not open to students with credit in WRT 104. (B1) (B4)"
+    },
+    {
+        "code": "WRT106H",
+        "title": "Honors Section of WRT 106: Introduction to Research Writing",
+        "credits": "3",
+        "description": "(3 crs.) Honors Section of WRT 106: Introduction to Research Writing. (Lec. 3) Pre: Overall GPA of 3.40 or better. Not open to students with credit in WRT 104. (B1) (B4)"
+    },
+    {
+        "code": "WRT201",
+        "title": "Writing Arguments",
+        "credits": "3",
+        "description": "(3 crs.) Invent and craft arguments to become a more effective, influential writer. Analyze and critique textual and visual arguments. Identify and use credible evidence. Practice rhetorical strategies. (Lec. 3) (B1) (B4)"
+    },
+    {
+        "code": "WRT227",
+        "title": "Professional Writing",
+        "credits": "3",
+        "description": "(3 crs.) Develop the writing and information design skills employers most value; learn to advocate for diverse stakeholders in professional contexts. (Lec. 3/Online) Pre: Open to Business majors with sophomore or higher standing. Open to a limited number of Computer Science, Data Science, Public Relations, and Writing majors by permission. (B1) (B2)"
+    },
+    {
+        "code": "WRT235",
+        "title": "Digital Writing and Rhetoric",
+        "credits": "4",
+        "description": "(4 crs.) Create digital, visual, and multimedia content. Critically explore identity, usability, design, and rhetoric in contemporary publication. Begin a collection of digital artifacts for the capstone course, WRT495. (Seminar 3, Practicum 2/Online)"
+    },
+    {
+        "code": "WRT270",
+        "title": "Writing Our Selves: Writing in the Expressivist Tradition",
+        "credits": "3",
+        "description": "(3 crs.) Focuses on the expressivist tradition of writing, including memoirs, medical narratives, nature meditations and informal essays. (Seminar)"
+    },
+    {
+        "code": "WRT270H",
+        "title": "Honors Section of WRT 270: Writing Our Selves: Writing in the Expressivist Tradition",
+        "credits": "3",
+        "description": "(3 crs.) Honors Section of WRT 270: Writing Our Selves: Writing in the Expressivist Tradition. Focuses on the expressivist tradition of writing, including memoirs, medical narratives, nature meditations and informal essays. (Seminar) Pre: 3.40 overall gpa."
+    },
+    {
+        "code": "WRT290",
+        "title": "Writing with AI",
+        "credits": "4",
+        "description": "(4 crs.) Learn AI-assisted tools for effective academic, professional, and public writing. Critically evaluate content, identify bias, and make informed decisions about using AI in your writing and research practices. (Seminar 3, Practicum/Online) (B1) (B4)"
+    },
+    {
+        "code": "WRT302",
+        "title": "Writing Culture",
+        "credits": "4",
+        "description": "(4 crs.) Experience with writings that sustain or reshape culture. May include profiles, reviews, food and fashion writing, liner and exhibition notes. Requires sustained fieldwork and out-of-class technology practice. (Seminar 3, Practicum 2/Online)"
+    },
+    {
+        "code": "WRT303",
+        "title": "Public Writing",
+        "credits": "4",
+        "description": "(4 crs.) Writing in the public sphere, emphasizing civic literacy, democratic discourse, and writing for change.  May include letters, public documents, activist publications, and legislative texts.  Requires sustained fieldwork.  (Seminar 3, Practicum 2/Online)"
+    },
+    {
+        "code": "WRT305",
+        "title": "Travel Writing",
+        "credits": "4",
+        "description": "(4 crs.) Writing about places both new and familiar.  Emphasizes descriptive techniques, the use of facts, and different cultural perspectives.  May include travel essays, place journals, guide-books, query letters.  Requires sustained fieldwork.  (Seminar 3, Practicum 2/Online)"
+    },
+    {
+        "code": "WRT305H",
+        "title": "Honors Section of WRT 305: Travel Writing",
+        "credits": "4",
+        "description": "(4 crs.) Honors Section of WRT 305: Travel Writing.  Writing about places both new and familiar.  Emphasizes descriptive techniques, the use of facts, and different cultural perspectives.  May include travel essays, place journals, guide-books, query letters.  Requires sustained fieldwork.  (Seminar 3, Practicum 2/Online) Pre: 3.40 overall gpa."
+    },
+    {
+        "code": "WRT306",
+        "title": "Writing Health and Disability",
+        "credits": "3",
+        "description": "(3 crs.)  Explores the ways we experience, label, and politicize health and disability in our culture. Writing may include narratives, cultural critiques, persuasive essays, and policy proposals. (Lec. 3/Online)"
+    },
+    {
+        "code": "WRT321G",
+        "title": "Writing Disaster: The Ethics of Representation",
+        "credits": "4",
+        "description": "(4 crs.) Explore how representations of disasters shape public perception and action; write real-world documents that prompt social and political change. (Sem. 3, Prac. 1) (B1) (C1) (GC)"
+    },
+    {
+        "code": "WRT331",
+        "title": "Writing Public Relations",
+        "credits": "3",
+        "description": "(3 crs.) Cross-list as (WRT), PRS 331. Introduces the audiences, situations, and processes typical of public relations writing. Includes practice with genres including news releases, features, pitches, fact sheets, and multimedia press kits. Emphasizes professional behavior. (Lec. 3) Pre: any 200-level or above WRT course; PR and WRT majors only."
+    },
+    {
+        "code": "WRT332",
+        "title": "Technical Writing",
+        "credits": "3",
+        "description": "(3 crs.) Work on writing projects that suit practical needs, share specialized knowledge with diverse audiences, and implement ethical practices of technical communication. (Lec. 3/Online) (B1) (B2)"
+    },
+    {
+        "code": "WRT334",
+        "title": "Science Writing",
+        "credits": "4",
+        "description": "(4 crs.) Learn scientific principles, ethics, and best practices for communicating science to a broad range of audiences and develop skills and confidence needed to write with strength and clarity across a variety of platforms in specific genres and contexts. (Lec. 4, Online) (B1) (B2)"
+    },
+    {
+        "code": "WRT353",
+        "title": "Writing Center Theory and Practice",
+        "credits": "4",
+        "description": "(4 crs.) Practice and theory of one-to-one writing support using interpersonal approaches. Focus on process, collaboration, and peer review across differences and disciplines. Completion may lead to work in the Writing Center. (Seminar 3, Practicum 2)  Pre: permission of instructor or B or better in two WRT courses."
+    },
+    {
+        "code": "WRT360",
+        "title": "Rhetoric for Writing Majors",
+        "credits": "3",
+        "description": "(3 crs.) Learn multiple rhetorical traditions from ancient Greece to contemporary digital environments. Practice collaborative inquiry into writing and rhetoric. Use rhetoric to communicate within local and global communities and cultures. (Lec. 3) Pre: WRT 201 and another WRT course at the 200-level or above."
+    },
+    {
+        "code": "WRT371G",
+        "title": "Write Now: Language Communities, Culture, and Power",
+        "credits": "4",
+        "description": "(4 crs.) Learn how language shapes identity, community, and culture; communicate authentically and ethically in personal, public, and professional settings. (Lec. 3, Field Study 1) Pre: 200-level WRT course (or above), minimum sophomore standing. (B1) (C3) (GC)"
+    },
+    {
+        "code": "WRT375",
+        "title": "Human-Centered Design",
+        "credits": "3",
+        "description": "(3 crs.) Students will learn principles of human-centered design and user experience, focusing on design justice and research methods. Students then conduct an original design project, building prototypes based on user feedback. (Lec. 3) (D1) (B1)"
+    },
+    {
+        "code": "WRT383",
+        "title": "Field Experience in Writing Consultancy",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Supervised field experience, tutoring in the Writing Center or in the undergraduate peer consultants program. (Field Exp.) Pre: WRT 353 and permission of instructor. May be repeated for a maximum of 9 credits."
+    },
+    {
+        "code": "WRT385",
+        "title": "Field Experience with Writing Rhode Island",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "description": "(1-4 crs.) Supervised field experience in the Writing Rhode Island Production Lab. Entails substantial field-based and/or qualitative research, collaborative drafting, document design, and client interaction. Requires final project and reflection. (Practicum) Pre: writing and rhetoric major with a minimum of 12 credits in WRT courses and permission of supervisor."
+    },
+    {
+        "code": "WRT388",
+        "title": "Proposal Writing for Clients",
+        "credits": "3",
+        "description": "(3 crs.) Experiential learning course focused on writing proposal and grant applications to meet RFPs. Authentic workplace writing;  teamwork required. Requires sustained field work. (Lec. 3)"
+    },
+    {
+        "code": "WRT391",
+        "title": "Independent Study in Writing and Rhetoric",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Intensive study and practice of an approved topic in writing and rhetoric under the supervision of a faculty member. (Independent Study) Pre: permission of director."
+    },
+    {
+        "code": "WRT392",
+        "title": "Independent Study in Writing and Rhetoric",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Intensive study and practice of an approved topic in writing and rhetoric under the supervision of a faculty member. (Independent Study) Pre: permission of director."
+    },
+    {
+        "code": "WRT404",
+        "title": "Writing with Community Partners",
+        "credits": "4",
+        "description": "(4 crs.) Study and practice of writing with community partners. Involves community service outside class, research, writing, and design. May include grant proposals, brochures, websites, or reports. Requires sustained fieldwork. (Seminar 3, Practicum 2)  Not for graduate credit."
+    },
+    {
+        "code": "WRT415",
+        "title": "Perspectives On Reporting",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (JOR), WRT 415. Critical assessment of reporting through the reading and analysis of book-length works of journalism and magazine and newspaper series of articles. (Seminar) Pre: JOR 110 or 115 and junior standing. Not for graduate credit."
+    },
+    {
+        "code": "WRT435",
+        "title": "The Teaching of Composition",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (WRT), EDC 435.  Philosophy, materials, and methods underlying the teaching of writing with emphasis on current approaches including the application of linguistics. Offers practice in writing workshop techniques, marking, constructing assignment sequences, and individualized instruction. (Seminar) Pre: junior standing or permission of instructor."
+    },
+    {
+        "code": "WRT442",
+        "title": "Strategic Media Communication",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (PRS), WRT, COM 442, JOR 443. Introduces strategic media relation tactics when responding to the media, specifically crisis communication situations.  Students gain practical experience in various writing and speaking opportunities to effectively work with the media. (Lec. 3/Online) Pre: Junior standing; open only to majors in Communication Studies, Public Relations, Journalism, and Writing."
+    },
+    {
+        "code": "WRT477",
+        "title": "(484) Internship in Writing and Rhetoric",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Practice and direct supervision in workplace writing. Placement options include community based, governmental, technological, health services, military, educational and non-profit organizations. (Practicum) Pre: 60 credits with a minimum of 12 in WRT, 2.50 GPA, and permission of faculty advisor. May be repeated for a maximum of 6 credits. Not for graduate credit. S/U only."
+    },
+    {
+        "code": "WRT490",
+        "title": "Topics in Writing and Rhetoric",
+        "credits": "1",
+        "description": "(1-4 crs.) Advanced topics in writing and rhetoric.  May be repeated for credit if the topic changes. (Lec. 1-4)  Pre: Any 200-level or higher WRT course. Not for graduate credit."
+    },
+    {
+        "code": "WRT492",
+        "title": "Crossing Borders: Writers Writing Their Lives",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (GWS), ENG, WRT 492. This advanced creative nonfiction seminar combines a rigorous commitment to the craft of writing with an investigation of how 'crossing borders' functions as a thematic, structural, and feminist framework for helping writers access and create personal essays. (Seminar) Pre: Junior or senior standing or permission of the instructor. (D1) (B1)"
+    },
+    {
+        "code": "WRT495",
+        "title": "Advanced Digital Writing and Rhetoric",
+        "credits": "4",
+        "description": "(4 crs.) Capstone for WRT majors. Create a substantive and reflective digital collection of writings for multiple readerships. Requires a public showcase and out-of-class technology practice. (Seminar 3, Studio 2) Pre: Senior standing in the WRT major or permission of instructor.  Not for graduate credit."
+    },
+    {
+        "code": "WRT502",
+        "title": "User Experience (UX) Research and Methods",
+        "credits": "3",
+        "description": "(3 crs.) Research, methods, and data analysis for user experience projects. Students will design, conduct, and report their own UX studies, as well as communicate results to various stakeholders. (Accelerated Online Program) Pre: Course is restricted to students enrolled in the URI Online Graduate User Experience Design Certificate Program."
+    },
+    {
+        "code": "WRT503",
+        "title": "User Experience (UX) and Microcopy Writing",
+        "credits": "3",
+        "description": "(3 crs.)The course is designed to provide students with a comprehensive understanding of the role and impact of effective writing in user-centered design. Through a combination of theoretical concepts and practical applications, students will develop the skills necessary to create clear, concise, and engaging microcopy for digital interfaces and interactions. (Accelerated Online Program) Pre: Course is restricted to students enrolled in the URI Online Graduate User Experience Design Certificate Program.\n"
+    },
+    {
+        "code": "WRT504",
+        "title": "Interaction Design",
+        "credits": "3",
+        "description": "(3 crs.) Students develop original concepts and create interactive designs using current, industry-standard processes and technologies. Strong focus on designing for real people using applied, hands-on projects. (Accelerated Online Program) Pre: Course is restricted to students enrolled in the URI Online Graduate User Experience Design Certificate Program."
+    },
+    {
+        "code": "WRT509",
+        "title": "UX/UI Portfolio",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed with (WRT) ART509. Students create portfolios that demonstrate their expertise to employers, apply best practices in research, information architecture, and content management, develop a distinctive style using formal, conceptual, and technical design skills. (Accelerated Online Program) Pre: WRT 501, 502, 503, 504, ART 505, 506, 507, 508, and 510; or approved URI Online elective."
+    },
+    {
+        "code": "WRT524",
+        "title": "Histories And Theories Of Writing Instruction",
+        "credits": "3",
+        "description": "(3 crs.) Traces the origins and influences on current writing instruction, beginning with composition treatises of the 19th century and concluding with an analysis of contemporary practices. May include archival research. (Lec. 3) Pre: graduate standing or permission of instructor."
+    },
+    {
+        "code": "WRT533",
+        "title": "Seminar in Graduate Writing in the Life Sciences",
+        "credits": "3",
+        "description": "(3 crs.) Seminar in graduate writing in life sciences; analyzing and writing journal articles, proposals, popular press; rhetorical analysis of scientific writing. (Seminar) Pre: WRT 104 or 106 or equivalent, or permission of instructor; graduate standing or senior status."
+    },
+    {
+        "code": "WRT534",
+        "title": "Visualizing Environmental Advocacy",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (WRT) NRS 530. Examines visual approaches to environmental advocacy; analyzing and writing about visuals in journal articles, scientific research, proposals, popular press; rhetorical analysis of scientific visuals and visualization. (Lec. 3) Pre: WRT 104 or 106 or equivalent, or permission of instructor; graduate standing or senior status."
+    },
+    {
+        "code": "WRT599",
+        "title": "Master's Thesis Research in Rhetoric",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "(1-6 crs.) Number of credits is determined each semester in consultation with major professor or program committee. Pre: permission of graduate director in writing and rhetoric. S/U credit."
+    },
+    {
+        "code": "WRT645",
+        "title": "Seminar In Rhetoric And Composition",
+        "credits": "3",
+        "description": "(3 crs.) Critical and theoretical conceptions of rhetoric and rhetoricality with varying historical periods and/or connections to cultural studies, literature, and composition studies. (Seminar)"
+    },
+    {
+        "code": "WRT646",
+        "title": "Seminar in Writing Studies",
+        "credits": "3",
+        "description": "(3 crs.) Advanced study in special topics related to writing pedagogy. May include histories and theories of contemporary composition studies, interrogations of widespread practices, and/or relevant current topics in the field. May be repeated for credit. (Seminar) Pre: Graduate standing or permission of the instructor."
+    },
+    {
+        "code": "WRT647",
+        "title": "Seminar in Research Methods: Rhetoric and Composition Studies",
+        "credits": "3",
+        "description": "(3 crs.) Advanced practice in the theory and design of research projects, emphasizing qualitative and quantitative studies. May include archival research, teacher-research, ethnographies, case studies, interviews, surveys, experiments, and discourse analyses. (Seminar) Pre: graduate standing or permission of instructor."
+    },
+    {
+        "code": "WRT691",
+        "title": "Independent Study in Rhetoric",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Advanced study of an approved topic in Rhetoric and Writing Studies under the supervision of a graduate faculty member. Pre: permission of WRT graduate director. May be repeated for a maximum of six credits."
+    },
+    {
+        "code": "WRT699",
+        "title": "Doctoral Dissertation Research in Rhetoric",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "description": "(1-6 crs.) Number of credits is determined each semester in consultation with the major professor or program committee. Pre: permission of graduate director in writing and rhetoric. S/U credit."
+    },
+    {
+        "code": "WRT999",
+        "title": "Methods of Teaching College Writing",
+        "credits": "0",
+        "description": "(0 crs.) Materials and multiple methods of teaching writing on the college level. Required of teaching assistants who will teach in the Writing and Rhetoric Program unless waived by the director of English graduate studies, the supervisor of teaching assistants, and the director of the Writing and Rhetoric Program. (Seminar)"
+    }
+]

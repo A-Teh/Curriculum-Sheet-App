@@ -1,0 +1,461 @@
+[
+    {
+        "code": "CSC101",
+        "title": "Computing Concepts",
+        "credits": "4",
+        "description": "(4 crs.) Capabilities and limitations of computers. Applications of computers in today's society. Overview of computing systems and programs. Students will complete several projects using a computer. (Lec. 3, Lab. 2/Online) Not open to students who have credit in any college-level computer science course, or to computer science majors. (B3) (B4)"
+    },
+    {
+        "code": "CSC104",
+        "title": "Puzzles + Games = Analytical Thinking",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (CSC), MTH 104. Introduces mathematical problem solving and computational thinking through puzzles and games. Students work in small groups on activities to enhance their analytic abilities. Topics include numbers, probability, logic, algorithms, and graphs. (Lec. 4) Pre: High school mathematics. No programming required. (B3)"
+    },
+    {
+        "code": "CSC106",
+        "title": "The Joy of Programming",
+        "credits": "4",
+        "description": "(4 crs.) The art of problem solving through computer programming. Students explore innovative and cutting edge applications that may include mobile apps, multimedia, computer games, puzzles, robotics, graphics and animation, social networking, physical computing. (Lec. 3, Lab. 1/Online) Pre: Not open to students with credit in CSC courses at 200-level or above. (B3)"
+    },
+    {
+        "code": "CSC106H",
+        "title": "Honors Section of CSC 106: The Joy of Programing",
+        "credits": "4",
+        "description": "(4 crs.) Honors Section of CSC 106, The Joy of Programming. The art of problem solving through computer programming. Students explore innovative and cutting edge applications that may include mobile apps, multimedia, computer games, puzzles, robotics, graphics and animation, social networking, physical computing. (Lec. 3, Lab. 1/Online) Pre: 3.40 overall GPA or higher. Not open to students with credit in CSC courses at 200-level or above. (B3)"
+    },
+    {
+        "code": "CSC110",
+        "title": "Survey of Computer Science",
+        "credits": "4",
+        "description": "(4 crs.) Broad introduction to computer science, with an emphasis on problem solving. Algorithm discovery. Algorithm analysis. Algorithmic solutions to problem in various sub-fields including operating systems, digital forensics, computer graphics, artificial intelligence, and bioinformatics. (Lec. 3, Lab. 2) Pre: C- or better in CSC 106 or approval of instructor."
+    },
+    {
+        "code": "CSC120G",
+        "title": "The Impacts of Technology on American Society",
+        "credits": "4",
+        "description": "(4 crs.) Explore how technology can be a tool for both shrinking the equity gap and reinforcing oppression, depending on the context and who wields the greatest influence. (Lec. 3, Rec. 1) (A2) (C3) (GC)"
+    },
+    {
+        "code": "CSC192",
+        "title": "Introductory Topics in Computing",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "description": "(1-4 crs.) Introductory topics of current interest in computing. This course may be repeated under different topics. (Lec., Project) Pre: permission of instructor."
+    },
+    {
+        "code": "CSC200",
+        "title": "Computer Problem Solving For Science and Engineering",
+        "credits": "4",
+        "description": "(4 crs.) An integrated symbolic, numerical, and graphical approach to computer problem solving. Structured design; fundamental programming techniques. Computer algebra systems. Scientific, engineering, and mathematical applications. (Lec. 3, Lab. 2/Online) Pre: credit or concurrent enrollment in MTH 131 or 141. Not for major credit in computer science. May not be taken for credit by students with credit in CSC 201 or 211."
+    },
+    {
+        "code": "CSC201",
+        "title": "Programming With Data",
+        "credits": "4",
+        "description": "(4 crs.) Transform data into insight using data science techniques including obtaining, analyzing, synthesizing, visualizing and presenting significant trends as well as computer characteristics, algorithms, data representation and program development. (Lec.3, Lab. 2/Online) (B3)"
+    },
+    {
+        "code": "CSC203",
+        "title": "Computer Programming for Ocean Engineers",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (OCE 213), CSC 203. Computer programming, with an emphasis on ocean engineering problems; developing codes in MATLAB /Python, covering  standard topics including algorithms, procedural programming, OOP, conditional statements, Inputs/Outputs, Monte-Carlo methods, and optimization problems. (Lec 3.) Pre: MTH 243 ) or permission of instructor"
+    },
+    {
+        "code": "CSC210",
+        "title": "Introduction to App Programming",
+        "credits": "4",
+        "description": "(4 crs.) Android and/or Apple app programming. User interfaces, app algorithms, device interaction, app marketing. Students create fully functional apps. (Online) Pre: CSC106, or CSC201, or CSC211, or previous programming experience through permission of instructor."
+    },
+    {
+        "code": "CSC211",
+        "title": "Computer Programming",
+        "credits": "4",
+        "description": "(4 crs.) Problem specification, solution design, and algorithm development. Topics may include data types, functions, iteration, recursion, object-oriented programming, built-in data structures, file operations, numerical and string-based operations. (Lec. 3, Lab. 2) Pre: (C- or better in CSC 110) or (B or better in (CSC 106 or CSC 201 or CSC 200) and concurrent enrollment in CSC 110) or ELE 208 or permission of instructor."
+    },
+    {
+        "code": "CSC212",
+        "title": "Data Structures and Abstractions",
+        "credits": "4",
+        "description": "(4 crs.) Abstract data types and data structures. Pointers, linked lists, stacks, queues, binary trees, and tables. Fundamentals of software engineering. Development of object-oriented programming techniques. (Lec. 3, Lab. 2/Online) Pre: C- or better in CSC 211; and MTH 180 or Computer Engineering major."
+    },
+    {
+        "code": "CSC220",
+        "title": "Exploring Global Health Crisis Data",
+        "credits": "1",
+        "description": "(1 cr.) Cross-listed as (CSC), DSP 220. Public health and recovery from global health crisis like COVID-19 depends on collection and analysis of accurate data. Publicly available health crisis datasets provide an opportunity to introduce students to data science through data exploration, while gaining a better understanding of the global crisis. The course focuses on interactive ways to introduce data exploration through 1-hour weekly working sessions and talks by data scientists who are working on these health crisis data. (Online)"
+    },
+    {
+        "code": "CSC222",
+        "title": "Teaching Computer Science",
+        "credits": "3",
+        "description": "(3 crs.) Teaching computer science (CS) in grades K-12. CS content, pedagogy, assessment. This course leads to Rhode Island Computer Science Educators Endorsement. No prior CS background required. (Online)"
+    },
+    {
+        "code": "CSC271",
+        "title": "Web Design and Programming",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (CSC), COM271. Learn to communicate effectively using principles and technologies of client-side web design and programming. Explores HTML, CSS, and JavaScript; current and evolving web capabilities accessibility and usability; and workflow tools. (Lec. 2, Lab. 4/Online) Pre: CSC 106"
+    },
+    {
+        "code": "CSC292",
+        "title": "Topics in Computing",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "description": "(1-4 crs.) Topics of current interest in computing. This course may be repeated under different topics. (Lec., Project) Pre: permission of instructor."
+    },
+    {
+        "code": "CSC301",
+        "title": "Fundamentals of Programming Languages",
+        "credits": "4",
+        "description": "(4 crs.) Organization of programming languages, data and control structures, syntax and semantics, compilers and interpreters. Block structured languages, recursion, parameter passing, run-time storage management. Procedural, functional, object-oriented, and logical languages. (Lec. 3, Lab. 2/Online) Pre: CSC 212."
+    },
+    {
+        "code": "CSC305",
+        "title": "Software Engineering",
+        "credits": "4",
+        "description": "(4 crs.) Programming environments and methodologies for the design, development, testing, and maintenance of large software systems. Student teams will develop a substantial software product from requirements to delivery using disciplined techniques. (Lec. 3, Project 2/Online) Pre: CSC 212. (D1)"
+    },
+    {
+        "code": "CSC310",
+        "title": "Programming for Data Science",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (CSC), DSP 310. Data driven programming; data sets, file formats and meta-data; descriptive statistics, data visualization, and foundations of predictive data modeling; accessing web data and data bases; distributed data management. (Lec. 3, Lab. 2) Pre: CSC201 or CSC211 or equivalent, or permission of instructor. Computer Science majors must take as CSC 310; Data Science majors must take as DSP 310."
+    },
+    {
+        "code": "CSC311",
+        "title": "Computer Systems and Programming Tools",
+        "credits": "4",
+        "description": "(4 crs.) Impacts of historical development of computing on the developer practices. Tools used in programming and computational problem solving. How computers work from high level languages to hardware and machine representation. (Lec. 3, Lab. 1) Pre: CSC 110 and 211. Not for students with credit in CSC 411 or 412."
+    },
+    {
+        "code": "CSC320",
+        "title": "Social Issues in Computing",
+        "credits": "4",
+        "description": "(4 crs.) Discussion of the social and ethical issues created by the use of computers. The problems that computers solve and those that they produce. Ethics and responsibilities of computer and data professionals. (Lec. 4) Pre: CSC110 or LTI110(DSP110), or must be in a degree-granting college"
+    },
+    {
+        "code": "CSC340",
+        "title": "Applied Combinatorics",
+        "credits": "4",
+        "description": "(4 crs.) Combinatorial problem-solving for computer science. Set theory and logic, proofs by induction and contradiction, elementary probability; arrangements, selections, distributions, binomials, inclusion-exclusion; recurrence relations and their solution; graph theory, trees, networks. (Lec. 4) Pre: (MTH 180 or MTH 141) and CSC 212, and student must be admitted to a degree-granting college. Student may not receive credit for this course and CSC 447."
+    },
+    {
+        "code": "CSC372",
+        "title": "Dynamic Web Design and Programming",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (CSC), COM372. Web-based information technology for communication and delivery of dynamically generated content. Technology will include current practice and tools for server-side programming, client-side programming, third-party services, data storage, and security concerns. (Lec. 2, Lab. 4) Pre: CSC271/COM271 and junior standing or permission of instructor."
+    },
+    {
+        "code": "CSC392",
+        "title": "Intermediate Topics in Computing",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "description": "(1-4 crs.) Intermediate-level topics of current interest in computing. This course may be repeated under different topics. (Lec., Project) Pre: permission of instructor."
+    },
+    {
+        "code": "CSC399",
+        "title": "Capstone for Programming Minors",
+        "credits": "3",
+        "description": "(4 crs.) Teams of students will integrate the knowledge acquired in previous programming courses and apply it to implement a real-world software project in consultation with local industry. Students will communicate effectively both within their teams and with project stakeholders, creating written reports, technical documentation, and giving oral presentations. (Lec. 3, Lab. 2) Pre: CSC 211 or 372. May not be taken for credit by students with credit in CSC 305. NOT intended for students majoring in computer science. (B2) (D1) S/U only."
+    },
+    {
+        "code": "CSC402",
+        "title": "Programming Language Implementation",
+        "credits": "4",
+        "description": "(4 crs.) Grammars and languages; lexical analysis and parsers; interpreters, translators, and virtual machines; symbol tables and type systems; code generation for real and virtual machines. Students will implement a number of interpreters, translators, and virtual machines for various small languages. (Lec. 3, Project 3) Pre: CSC 301, and student must be admitted to a degree-granting college."
+    },
+    {
+        "code": "CSC406",
+        "title": "Computer Graphics",
+        "credits": "4",
+        "description": "(4 crs.) Interactive raster graphics; hardware, software, and algorithms. Point plotting, line drawing, geometrical transformations, clipping and windowing. Three-dimensional graphics including curves, surfaces, perspective, hidden objects, shading. User interfaces; graphical programming environments. (Lec. 3, Project 3) Pre: CSC 212 and either MTH 215 or MTH 362, and student must be admitted to a degree-granting college."
+    },
+    {
+        "code": "CSC411",
+        "title": "Computer Organization",
+        "credits": "4",
+        "description": "(4 crs.) Logical structure of computer systems viewed as a hierarchy of levels. Assembly language programming, assemblers, linkers, loaders. Computer architecture including digital logic, processor organization, instruction sets, addressing techniques, virtual memory, microprogramming. (Lec. 3, Project 3) Pre: CSC 212 and student must be admitted to a degree-granting college."
+    },
+    {
+        "code": "CSC412",
+        "title": "Operating Systems and Networks",
+        "credits": "4",
+        "description": "(4 crs.) General concepts underlying operating systems and computer networks. Topics include process management, concurrency, scheduling, memory management, information management, protection and security, modeling and performance, networking and communication. (Lec. 3, Project 3/Online) Pre: CSC 212 and student must be admitted to a degree-granting college."
+    },
+    {
+        "code": "CSC415",
+        "title": "Introduction to Parallel Computing",
+        "credits": "4",
+        "description": "(4 crs.) Programming techniques to engage a collection of autonomous processors to solve large-scale numerical and non-numerical problems. Processor interconnections. Parallel programming languages and models. Performance measures. (Lec. 3, Project 3) Pre: CSC 411 or ELE 305, and student must be admitted to a degree-granting college. In alternate years."
+    },
+    {
+        "code": "CSC417",
+        "title": "Introduction to Computer Networks",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (ELE 437), CSC 417. Computer networks, layering standards, communication fundamentals, error detection and recovery, queuing theory, delay versus throughput trade-offs in networks, multiple-access channels, design issues in wide and local area networks. (Lec. 3) Pre: ((ELE 205 or 208 or CSC 211), and (ELE 436 or MTH 451 or ISE 311 (411))), or permission of instructor."
+    },
+    {
+        "code": "CSC418",
+        "title": "Information and Network Security",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (ELE 438), CSC 418. Elementary cryptography, public key, private key, symmetric key, authentication protocols, firewalls, virtual private networks, transport layer security, and wireless network security.  (Lec. 3, Project 3) Pre: ELE 208 or MTH 362 or MTH 451 or ISE 311 (411) or junior or senior standing in computer engineering or computer science or permission of instructor."
+    },
+    {
+        "code": "CSC436",
+        "title": "Database Management Systems",
+        "credits": "4",
+        "description": "(4 crs.) Construction and management of large data systems. Data modeling, relational and object-oriented systems, main memory databases, query languages, query optimization, concurrency control, transaction management, distributed systems, disk organization, indexes, and emerging technologies. (Lec. 3, Project 3/Online) Pre: CSC 212, and student must be admitted to a degree-granting college."
+    },
+    {
+        "code": "CSC440",
+        "title": "Design and Analysis of Algorithms",
+        "credits": "4",
+        "description": "(4 crs.) Algorithm design and analysis, advanced data structures, computational complexity. Sorting, searching including hashing and balanced trees, string pattern matching, polynomial and matrix calculations, graph and network algorithms, NP-completeness and intractability. (Lec. 3, Project 3) Pre: CSC 212 and (CSC 340 or MTH/CSC 447) and student must be admitted to a degree-granting college."
+    },
+    {
+        "code": "CSC445",
+        "title": "Models of Computation",
+        "credits": "4",
+        "description": "(4 crs.) Abstract models of computational systems. Classical models for uniprocessor, sequential, and stored program computers. New models based on recent advances in hardware, software, and communications and their implications in practice. (Lec. 3, Project 1) Pre: CSC 340 or CSC/MTH 447 and student must be admitted to a degree-granting college. In alternate years."
+    },
+    {
+        "code": "CSC447",
+        "title": "Discrete Mathematical Structures",
+        "credits": "4",
+        "description": "(3 crs.) Cross-listed as (MTH), CSC 447. Concepts and techniques in discrete mathematics. Finite and infinite sets, graphs, techniques of counting, Boolean algebra and applied logic, recursion equations. (Lec. 3) Pre: junior standing or better in physical or mathematical sciences, or in engineering, or permission of instructor."
+    },
+    {
+        "code": "CSC450",
+        "title": "Scientific Computing",
+        "credits": "4",
+        "description": "(4 crs.) Symbolic, numerical, and graphical approaches to mathematical computation. Pitfalls in numerical computation. Root finding. Numerical integration and differentiation. Approximation of functions. Interpolation and curve fitting. Linear systems. Ordinary differential equations. Multidimensional numerical optimization. (Lec. 3, Lab. 2) Not for graduate credit. Pre: CSC 212 and MTH 215 and 243."
+    },
+    {
+        "code": "CSC451",
+        "title": "Symbolic Logic",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed with (PHL), CSC 451. Selected topics in modern symbolic logic including calculus of propositions, predicate calculus, and modal logics. Philosophical and mathematical aspects of the subject. (Lec. 3) Pre: Any one of PHL 101, CSC 340, CSC/MTH 447, or MTH 180, or permission of instructor."
+    },
+    {
+        "code": "CSC461",
+        "title": "Machine Learning",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (CSC), DSP 461. Broad introduction to fundamental concepts in machine learning. Survey of traditional and newly developed learning algorithms, as well as, their application to real-world problems. (Lec. 3, Lab. 1) Pre: CSC 310 and MTH 215. Computer Science majors must take as CSC 461. Data Science majors must take as DSP 461."
+    },
+    {
+        "code": "CSC462",
+        "title": "Secure Programming",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (CSF), CSC 462. This class will present the basic topics in computer security and their relation to secure programming. Security models, threats, design principles and secure coding practices will be discussed. We will also look at programming language features and semantics to evaluate whether they help or hurt the ability to write secure programs. (Lec. 3, Lab. 1) Pre: CSC 305."
+    },
+    {
+        "code": "CSC477",
+        "title": "Computer Science Internship",
+        "credits": "4",
+        "description": "(4 crs.) Supervised internship in computer science that prepares students for careers in industry. (Practicum) Pre: Advanced standing in computer science and departmental approval. May be repeated for a maximum of 8 credits."
+    },
+    {
+        "code": "CSC491",
+        "title": "Directed Study in Computer Science",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "description": "(1-4 crs.) Advanced work in computer science. Conducted as supervised individual projects. (Independent Study) Pre: permission of instructor. S/U credit."
+    },
+    {
+        "code": "CSC492",
+        "title": "Special Topics in Computer Science",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "description": "(1-4 crs.) Advanced topics of current interest in computer science. (Lec.1-4, Project 1-3) Pre: permission of instructor."
+    },
+    {
+        "code": "CSC493",
+        "title": "Computer Science Topics with Programming",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "description": "(1-4 crs.) Advanced topics of current interest in computer science where course involves substantial programming projects.  May be used to fulfill major programming elective requirement. (Lec., Lab.) Pre: permission of instructor."
+    },
+    {
+        "code": "CSC499",
+        "title": "Project In Computer Science",
+        "credits": "4",
+        "description": "(4 crs.) Supervised work on a capstone project in computer science that prepares students for careers in industry and graduate study. (Practicum) Pre: advanced standing in computer science and departmental approval. May be repeated for a maximum of 8 credits. Not for graduate credit. S/U credit."
+    },
+    {
+        "code": "CSC501",
+        "title": "Programming Language Semantics",
+        "credits": "4",
+        "description": "(4 crs.) Design, analysis, implementation, and comparative study of major programming language families. Topics include procedural and block-structured languages, interpretive languages, concurrency, functional languages, object-oriented programming, logic programming, dataflow languages and machines. (Lec. 3, Project 3) Pre: CSC 301."
+    },
+    {
+        "code": "CSC505",
+        "title": "Advanced Topics in Software Engineering",
+        "credits": "4",
+        "description": "(4 crs.) Lifecycle models; software development environments; project management. Metrics, performance, and testing. Paradigms for software design and architecture. Legal and ethical issues. (Lec. 3, Project 3) Pre: CSC 305. In alternate years."
+    },
+    {
+        "code": "CSC511",
+        "title": "Advanced Computer Organization",
+        "credits": "4",
+        "description": "(4 crs.) Evaluation of high-performance computer systems with respect to architectures, operating systems, and algorithms. High-speed conventional machines; array processors; multiprocessors; data flow machines; RISC architectures; VLSI-based machines. (Lec. 3, Project 3) Pre: CSC 411. In alternate years."
+    },
+    {
+        "code": "CSC512",
+        "title": "Topics In Distributed Systems",
+        "credits": "4",
+        "description": "(4 crs.) Advanced topics in distributed systems. Networking; standard distributed computing environments. Distributed computing algorithms. Concurrency and threading. Real-time computing, scheduling, concurrency control, load allocation. (Lec. 3, Project 3) Pre: CSC 412. In alternate years."
+    },
+    {
+        "code": "CSC519",
+        "title": "Computer Networks",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (ELE 543), CSC 519.Computer network architectures, data link control and access protocols for LANs, internet protocols and applications, software and hardware issues in computer communication, delay analysis, and current research in computer networking. (Lec. 4) Pre: ELE 437 or equivalent or CSC 412 or equivalent."
+    },
+    {
+        "code": "CSC521",
+        "title": "Human-Computer Interaction",
+        "credits": "4",
+        "description": "(4 crs.) Teaches methods to conduct research in Human-Computer Interaction through independent reading, four research assignments, and class discussions. Students will apply HCI research methods to emerging areas to discover new knowledge. (Seminar) Pre: Permission of instructor."
+    },
+    {
+        "code": "CSC522",
+        "title": "Bioinformatics I",
+        "credits": {
+            "min": "3",
+            "max": "4"
+        },
+        "description": "(3-4 crs.) Cross-listed as (CSC), STA, CMB 522, BPS 542. Integrates computing, statistical, and biological sciences, algorithms, and data analysis/management. Multidisciplinary student research teams. Modeling dynamic biological processes. Extra project work for 4 credits. (Lec. 3, Project 3) Pre: major in a computing, statistical, or biological science or permission of instructor."
+    },
+    {
+        "code": "CSC525",
+        "title": "Systems Simulation",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (ISE), CSC 525, ELE 515. Simulation of random processes and systems. Continuous and discrete simulation models. Data structures and algorithms for simulation. Generation of random variates, design of simulation experiments for optimization and validation of models and results.  Selected engineering applications. (Lec. 3) Pre: CSC 212 or ISE 325, ISE 333 (433) or ELE 509, or permission of instructor."
+    },
+    {
+        "code": "CSC536",
+        "title": "Topics in Data Management Systems",
+        "credits": "4",
+        "description": "(4 crs.) Current research and developments in database management systems. Relational, semantic, object-oriented, real-time, distributed, heterogeneous, and logic databases. Concurrency control, security, active rules, recovery, and integrity subsystems. (Lec. 3, Project 4) Pre: CSC 436 or permission of instructor. In alternate years."
+    },
+    {
+        "code": "CSC541",
+        "title": "Advanced Topics In Algorithms",
+        "credits": "4",
+        "description": "(4 crs.) Algorithm design techniques such as dynamic programming, greedy method, branch and bound. Linear programming; NP-completeness; graph algorithms; number theoretic algorithms; approximation algorithms for NP-complete problems; probabilistic and parallel algorithms. (Lec. 3, Project 3) Pre: CSC 440 or 445. In alternate years."
+    },
+    {
+        "code": "CSC542",
+        "title": "Mathematical Analysis of Algorithms",
+        "credits": "4",
+        "description": "(4 crs.) Mathematical techniques for the analysis of algorithms. Sums and products; finite difference calculus; properties of binomial coefficients; Stirling, harmonic, and Fibonacci numbers; recurrence relations; generating functions; asymptotic approximation. Case studies. (Lec. 3, Project 3) Pre: CSC 440. In alternate years."
+    },
+    {
+        "code": "CSC544",
+        "title": "Theory Of Computation",
+        "credits": "4",
+        "description": "(4 crs.) Finite automata, pushdown automata, formal grammars and Chomsky hierarchy, Turing machines, computability, basics of complexity theory. Advanced topics including some of the following: cryptography, interactive proofs, circuit complexity, completeness for various complexity classes, relations among complexity classes, new models of computation. (Lec. 3, Project 3) Pre: CSC 440 or 445. In alternate years."
+    },
+    {
+        "code": "CSC546",
+        "title": "Algorithms for Big Data",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (CSC) AMS546. Explore algorithms for data that outpaces computing. Mathematically rigorous models for designing efficient algorithms for large data sets. Sketching and streaming, locality-sensitive hashing, entropy-scaling, manifold learning, and others. (Seminar, Project) Pre: CSC 440 or by permission of instructor."
+    },
+    {
+        "code": "CSC547",
+        "title": "Combinatorics",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (MTH), CSC 547. Enumeration: generation functions, recurrence relations, classical counting numbers, inclusion-exclusion, finite set systems and designs. Polya theory, coding theory, and Ramsey theory. Finite fields and algebraic methods. (Lec. 3) Pre: MTH 316.  Offered alternate fall semesters."
+    },
+    {
+        "code": "CSC548",
+        "title": "Graph Theory",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (MTH), CSC 548. Basic concepts and techniques of graph theory as well as some of their applications. Topics include: connectivity, matchings, colorings, extremal problems, Ramsey theory, planar graphs, algebraic techniques. (Lec. 3) Pre: MTH 316."
+    },
+    {
+        "code": "CSC550",
+        "title": "Computer Algebra",
+        "credits": "4",
+        "description": "(4 crs.) Symbolic mathematical computation; history, use, representation of information, algorithms and heuristics. Big number arithmetic, manipulation of polynomials and rational expressions; algebraic simplification; factoring; symbolic integration. Organization and implementation of computer algebra systems. (Lec. 3, Project 3) Pre: CSC 440. In alternate years."
+    },
+    {
+        "code": "CSC561",
+        "title": "Neural Networks and Deep Learning",
+        "credits": "3",
+        "description": "(4 crs.) Survey of traditional and newly developed deep learning methods, including convolutional networks, recurrent networks, auto-encoders, and generative adversarial networks, as well as, their application to real-world problems. (Lec. 3, Lab. 1) Pre: CSC 461 or permission by instructor."
+    },
+    {
+        "code": "CSC581",
+        "title": "Special Topics in Artificial Intelligence",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (CSC), ELE 581. Topics of specialized or current interest, which may change. Topics may include expert systems, natural language processing, neural network models, machine learning. AI applications in remote sensing. (Lec. 3) Pre: CSC 481 or permission of instructor. May be repeated with permission. In alternate years."
+    },
+    {
+        "code": "CSC583",
+        "title": "Computer Vision",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (ELE), CSC 583.Algorithms used to extract information from two-dimensional images. Picture functions. Template matching. Region analysis. Contour following. Line and shape descriptsions. Perspective transformations. Three-dimensional reconstruction. Image sensors. Interfactin. applications. (Lec. 3) Pre: MTH 362 or equivalent."
+    },
+    {
+        "code": "CSC585",
+        "title": "Statistical Analysis of Network Data",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (STA), CSC 585. Foundation of the statistical analysis of network data: visualization, node and edge characterization, inference, and sampling, mathematical and statistical network modeling and inference, modeling of static and dynamic network processes. (Lec. 3, Rec. 1) Pre: MTH 215;  STA 411, or STA 412, or STA 441; or permission of instructor."
+    },
+    {
+        "code": "CSC591",
+        "title": "Directed Study in Computer Science",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "description": "(1-4 crs.) Advanced work in computer science conducted as supervised individual projects. (Independent Study) Pre: permission of instructor. S/U credit."
+    },
+    {
+        "code": "CSC592",
+        "title": "Special Topics in Computer Science",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "description": "(1-4 crs.) Advanced topics of current interest in computer science. (Lec. 1-4, Project 1-3) Pre: permission of instructor. May be taken more than once."
+    },
+    {
+        "code": "CSC593",
+        "title": "Programming for Scientists",
+        "credits": "3",
+        "description": "(3 crs.) Scientific programming. Algorithmic thinking.  Scripting, language comparisons, code design, programming resources and communities. Not for graduate or undergraduate credit in Computer Science. Not for graduate or undergraduate computer science majors. (Lec. 3) Pre: Permission of instructor."
+    },
+    {
+        "code": "CSC599",
+        "title": "Master's Thesis Research",
+        "credits": {
+            "min": "1",
+            "max": "8"
+        },
+        "description": "(1-8 crs.) Number of credits is determined each semester in consultation with the major professor or program committee. (Independent Study) S/U credit."
+    },
+    {
+        "code": "CSC699",
+        "title": "Doctoral Dissertation Research",
+        "credits": {
+            "min": "1",
+            "max": "12"
+        },
+        "description": "(1-12 crs.) Cross-listed as (CSC) STA 699. Number of credits is determined each semester in consultation with the major professor or program committee.  (Independent Study) S/U credit."
+    }
+]

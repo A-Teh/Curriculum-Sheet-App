@@ -1,0 +1,401 @@
+[
+    {
+        "code": "GEO100G",
+        "title": "Environmental Geology",
+        "credits": "3",
+        "description": "(3 crs.) An introduction to geology with an emphasis on the interaction between the Earth and its human population.  Evaluation of the solid earth, natural hazards (such as earthquakes, volcanic eruptions and landslides), natural resources (such as oil and coal), air and water pollution and the effects of climate change. (Lec. 3/Online) (A1) (C2) (GC)"
+    },
+    {
+        "code": "GEO103",
+        "title": "Understanding the Earth",
+        "credits": "4",
+        "description": "Processes operating within and upon the earth. Relationship of plate tectonics to volcanism, earthquakes, and mountain building. Development and modification of landscapes by rivers, glaciers, wind, waves, and ground water. Environmental implications of geologic processes. (Lec. 3, Lab. 2) (A1) (B4)"
+    },
+    {
+        "code": "GEO110",
+        "title": "The Ocean Planet",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (OCG), GEO 110. Introduces the origin and structure of the solar system; interaction of earth's solid interior, oceans' atmosphere and biosphere with emphasis on earth science; energy resources and present environment on Earth. (Lec. 3) (A1) (B4)"
+    },
+    {
+        "code": "GEO113",
+        "title": "Natural Disasters",
+        "credits": "3",
+        "description": "(3 crs.) The science of natural disasters from a physical, chemical and geological perspective. Understanding of the development of and factors controlling the occurrence of natural disasters. (Lec. 3) (A1)"
+    },
+    {
+        "code": "GEO120",
+        "title": "Geology of U.S. National Parks",
+        "credits": "3",
+        "description": "(3 crs.) Selected parks are used to illustrate geologic processes and age relationships to understand earth history. Includes plate tectonics, volcanic and plutonic activity, glaciation, cave formation, stream and coastal processes, landscape formation. (Lec. 3) (A1) (B4)"
+    },
+    {
+        "code": "GEO200",
+        "title": "Field Based Geoscience Data Analysis",
+        "credits": "4",
+        "description": "(4 crs.) Geoscience field based practices, research, data analysis and interpretation.  Students collect, analyze, interpret and present data in guided and independent projects. Focus on transferable skills, independent thinking, and knowledge application. (Lec. 3, Lab. 3) (B3) (B4)"
+    },
+    {
+        "code": "GEO204",
+        "title": "Problem Solving in Earth History",
+        "credits": "4",
+        "description": "(4 crs.) Geological problem solving, emphasizing questions in Earth history.  Time, plate movements, ancient environments, climates, and the fossil record introduced in a historical context.  (Lec. 3, Lab 2). Pre: GEO 103 or equivalent or permission of instructor. (A1) (B1)"
+    },
+    {
+        "code": "GEO210",
+        "title": "Landforms: Origin and Evolution",
+        "credits": "4",
+        "description": "(4 crs.) Development, distribution, and geologic significance of landforms produced by rivers, glaciers, coastal processes, weathering, and other geomorphic agents. Interpretation of landforms through field studies, topographic maps, and aerial photographs. (Lec. 3, Lab. 2) Pre: GEO 103 or permission of instructor. (B2)"
+    },
+    {
+        "code": "GEO234G",
+        "title": "Introduction to Water Resources",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (GEO), NRS, EEC 234. Introduction to science and policy related to managing fresh water resources, fundamentals of hydrologic processes, importance of water to human society, environmental impact of water use, global water issues. (Lec. 3) (A1) (GC)"
+    },
+    {
+        "code": "GEO271H",
+        "title": "Honors section of GEO 271 (102): Evolution and Extinction of the Dinosaurs",
+        "credits": "3",
+        "description": "(3 crs.) Honors section of GEO 271 (102): Evolution and Extinction of the Dinosaurs. General introduction to the dinosaurs. Variety, habits, warm-bloodedness, and extinction discussed. Pterosaurs and bird origins presented. (Lec. 3) Pre: must  have a 3.40 overall GPA. (A1) (B4)"
+    },
+    {
+        "code": "GEO272",
+        "title": "Introduction to Evolution",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (BIO), GEO 272. Introduction to evolution as the unifying thread in the biosphere. Processes and patterns discussed, including microevolution and macroevolution. Social impact of evolution discussed from a biological perspective. Pre: GEO 102 or one semester of biological sciences, or permission of instructors."
+    },
+    {
+        "code": "GEO280",
+        "title": "Introduction to Climatology",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed (GEO) MAF 280. An introduction to the earth’s climate system. An examination of weather and climate variability and of governing physical processes and interactions between the atmosphere, oceans, and land surface. (Lec. 3) Pre: Credit or current enrollment in MTH 103 or 111. (A1) (B3)\n"
+    },
+    {
+        "code": "GEO305G",
+        "title": "Global Climate Change",
+        "credits": "4",
+        "description": "(4 crs.) Scientific treatment of climate change during the last 100,000 years. Implications for earth systems in context of past climates and future projections. (Lec. 3, Lab. 1) Pre: GEO 100 or 103 or GEO/OCG 110 or permission of instructor. (D1) (GC)"
+    },
+    {
+        "code": "GEO320",
+        "title": "Earth Materials",
+        "credits": "4",
+        "description": "(4 crs.) Hand-sample identification and characterization of minerals and rocks, including crystallography, composition, classification, origin, and relationship to geological occurrence; also includes aspects of soil-forming minerals, ore deposits, and other mineral resources. (Lec. 3, Lab. 2) Pre: GEO 103, credit or concurrent enrollment in CHM 101 or 103. (D1)"
+    },
+    {
+        "code": "GEO370",
+        "title": "Structure of the Earth",
+        "credits": "4",
+        "description": "(4 crs.) Stress and strain relationships as they pertain to rocks. Manifestations of these phenomena in geologic structures and criteria for recognizing them. (Lec. 3, Lab. 2) Pre: GEO 103, PHY 111 and 185 or PHY 203 and 273."
+    },
+    {
+        "code": "GEO397",
+        "title": "Geosciences Internship",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "(1-6 crs.) Supervised work or research experience in geosciences. (Practicum) Pre: GEO 103, 320, GEO major, approval of department chair."
+    },
+    {
+        "code": "GEO404",
+        "title": "Environmental Data Acquisition and Analysis",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (OCG), NRS, GEO 404. Introduction to instrument prototyping and measurements in environmental science. Hands-on with data collection: programming microcontrollers, interfacing hardware and software, wireless sensor networks. Data analysis in Python. (Lec. 2, Lab. 1) Pre: MTH 131 or MTH 141."
+    },
+    {
+        "code": "GEO405G",
+        "title": "Indonesia: Biodiversity, Geology, Water Resources",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed (GEO), NRS 405G. Students apply their knowledge and gain global competency in an off-campus field experience in Indonesia. Travel required; additional costs apply. (Lec. 3) Pre: Permission of instructor."
+    },
+    {
+        "code": "GEO420",
+        "title": "Regional Climate Dynamics and Modeling",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (GEO) NRS420, MAF420. Examination of the role of climate science in addressing societal challenges. A data-driven approach to integrating climate information into the conservation and management of human and natural resources. (Lec 3., Lab 1) Pre: GEO 305G or GEO/MAF 280 or permission of instructor."
+    },
+    {
+        "code": "GEO422",
+        "title": "Applied Climate Science",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (GEO) NRS 422, MAF 422. Examination of the role of climate science in addressing societal challenges. A data-driven approach to integrating climate information into the conservation and management of human and natural resources. (Lec 3., Lab 1) Pre: GEO 305G or GEO/MAF 280 or permission of instructor."
+    },
+    {
+        "code": "GEO450",
+        "title": "Introduction to Sedimentary Geology",
+        "credits": "4",
+        "description": "(4 crs.) Principles underlying formation and composition of lithofacies and sedimentary environments. Methods, procedures, and techniques used to study sedimentary processes, depositional environments, sediment and rock sequences, and paleogeography. (Lec. 3, Lab. 2) Pre: GEO 210 and GEO 320, or permission of instructor."
+    },
+    {
+        "code": "GEO462",
+        "title": "Biogeochemical Cycles",
+        "credits": "4",
+        "description": "(4 crs.) Introduction to processes controlling water chemistry in low-temperature environments in the context of global biogeochemical cycles, including weathering, ion exchange, acid-base chemistry, redox, mineral equilibria, isotopes, and modeling. (Lec. 4) Pre: GEO103 and CHM101 or CHM103, and one from GEO320 or CHM124 or CHM227. Not for graduate credit."
+    },
+    {
+        "code": "GEO465",
+        "title": "Geophysics",
+        "credits": "4",
+        "description": "(4 crs.) Physical properties and exploration of the Earth�s solid interior through geophysical techniques with application toward plate tectonics and subsurface imaging. Topics include gravity, magnetics, seismology, heat-flow, and plate tectonics. (Lec. 3, Lab. 1) Pre: GEO 103, PHY 112 or 204, and MTH 132 or 142; or consent of instructor."
+    },
+    {
+        "code": "GEO480",
+        "title": "Summer Field Camp",
+        "credits": {
+            "min": "4",
+            "max": "8"
+        },
+        "description": "(4-8 crs.) Geologic field mapping and principles. (Practicum) Pre: GEO 210, 320, 370, and 450 recommended. Course not offered through URI; prior approval of selected camp required by the Department of Geology. Recommended between junior and senior years. Not for graduate credit in geology."
+    },
+    {
+        "code": "GEO482",
+        "title": "Innovative Subsurface Remediation Technologies",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (GEO), NRS, EVS, CVE 482. Innovative remediation technologies for treating contaminated groundwater and sediments: theory, applications, and limitations of selected methods. Discussion of case studies. (Lec. 4) Pre: permission of instructor. In alternate years. Not for graduate credit."
+    },
+    {
+        "code": "GEO483",
+        "title": "Hydrogeology",
+        "credits": "4",
+        "description": "(4 crs.) Study and interpretation of groundwater flow systems and the interaction between groundwater and the geologic framework, including: groundwater flow, aqueous geochemistry, groundwater resource evaluation, and groundwater in geologic processes. (Lec. 3, Lab. 2) Pre: GEO 103, 210, and MTH 131 or 141, or permission of instructor."
+    },
+    {
+        "code": "GEO484",
+        "title": "Environmental Hydrogeology",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (GEO), NRS, EVS, CVE 484. Physico-chemical principles and fundamental relationships that describe the fate and transport of contaminants in the hydrologic system. (Lec. 3, Lab. 2) Pre: GEO 483 or CVE 588 or NRS 510, or permission of instructor. Not for graduate credit. Offered every other year."
+    },
+    {
+        "code": "GEO491",
+        "title": "Special Topics",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Advanced work for undergraduates under the supervision of a faculty member arranged to suit the individual requirements of the student. (Independent Study) Pre: permission of instructor. Not for graduate credit in geology."
+    },
+    {
+        "code": "GEO497",
+        "title": "Field Experience in the Geological Sciences",
+        "credits": "4",
+        "description": "(4 crs.) Capstone field trip. (Lec. 2, field trip) Pre: GEO103, declared GEO major or minor, and permission of instructor. Extended field trip required. May be repeated for credit."
+    },
+    {
+        "code": "GEO499",
+        "title": "Senior Thesis",
+        "credits": "3",
+        "description": "(3 crs.) Independent research. Student selects an area of study and works in close conjunction with a faculty member of his or her choice. (Independent Study) Pre: senior standing and permission of instructor. Not for graduate credit in geology."
+    },
+    {
+        "code": "GEO500",
+        "title": "Graduate Seminar",
+        "credits": "1",
+        "description": "(1 cr.)  Weekly seminar series featuring oral presentations of the results of ongoing, topical research.  (Seminar)  S/U."
+    },
+    {
+        "code": "GEO501",
+        "title": "Vertebrate Paleontology",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Advanced work in vertebrate paleontology under the supervision of a faculty member arranged to suit the individual requirements of the student. (Independent Study) Pre: permission of instructor."
+    },
+    {
+        "code": "GEO502",
+        "title": "Readings In Paleontology",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Advanced readings in paleontology under the supervision of a faculty member arranged to suit the individual requirements of the student.  (Independent Study) Pre: permission of instructor. S/U."
+    },
+    {
+        "code": "GEO510",
+        "title": "Glacial Sedimentation Research",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Advanced research in glacial sedimentation under the supervision of a faculty member arranged to suit the individual requirements of the student.  (Independent Study) Pre: permission of instructor."
+    },
+    {
+        "code": "GEO511",
+        "title": "Quaternary Paleoclimates",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Advanced work in quaternary paleoclimates under the supervision of a faculty member arranged to suit the individual requirements of the student.  (Independent Study) Pre: permission of instructor."
+    },
+    {
+        "code": "GEO519",
+        "title": "Marine Environmental Organic Chemistry",
+        "credits": "3",
+        "description": "(3 crs.) Cross-coded with (OCG), GEO, CVE 519. Physico-chemical properties of organic compounds, their transformations and environmental fluxes with a focus on marine topics. Offered alternate years. (Lec. 3) Pre: graduate standing or permission of instructor."
+    },
+    {
+        "code": "GEO525",
+        "title": "Chemistry of the Earth",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (OCG), GEO 525. Analysis of the solid Earth, ocean and atmosphere as a geological/chemical/biological system. Fundamentals of geochemistry will be developed within the context of broad Earth science questions: Earth formation, differentiation, evolution and human impacts. (Lec. 3) Pre: graduate or advanced undergraduate standing in a science major or permission of instructor."
+    },
+    {
+        "code": "GEO530",
+        "title": "Petrogenetic Igneous Processes",
+        "credits": "4",
+        "description": "(4 crs.) Examination of key physico-chemical processes responsible for the diversity of igneous rocks and igneous activity. Emphasis on geochemistry, petrography, field relationships, and tectonic setting. (Lec. 3, Lab. 2) Pre: GEO 320 or permission of instructor. In alternate years."
+    },
+    {
+        "code": "GEO533",
+        "title": "Readings in Petrology and Geochemistry",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Seminar in petrology and geochemistry with readings drawn from the current professional literature. (Seminar) Pre: permission of instructor. S/U credit."
+    },
+    {
+        "code": "GEO534",
+        "title": "Analytical Geochemistry",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Advanced work in analytical geochemistry under the supervision of a faculty member arranged to suit the individual requirements of the student. (Independent Study) Pre: permission of instructor."
+    },
+    {
+        "code": "GEO535",
+        "title": "Geospatial Watershed Modeling",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed with (GEO) NRS, CVE 535. Tools to simulate the water quantity and quality of a complex watershed; development of models for examining the water quantity and quality issues that are associated with watershed management. (Lec. 2, Lab. 2) Pre: NRS 461 or GEO 483 or CVE 475 or equivalent, or graduate standing, or permission of instructor."
+    },
+    {
+        "code": "GEO551",
+        "title": "Coastal Sedimentation Research",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Advanced research in coastal sedimentation under the supervision of a faculty member arranged to suit the individual requirements of the student.  (Independent Study) Pre: permission of instructor."
+    },
+    {
+        "code": "GEO552",
+        "title": "Readings In Sedimentation",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Seminar in sedimentary geology with readings drawn from the current professional literature. (Seminar) Pre: permission of instructor. S/U credit."
+    },
+    {
+        "code": "GEO562",
+        "title": "Biogeochemical Cycles",
+        "credits": "4",
+        "description": "(4 crs.) Introduction to processes controlling water chemistry in low-temperature environments in the context of global biogeochemical cycles, including weathering, ion exchange, acid-base chemistry, redox, mineral equilibria, isotopes, and modeling.  (Lec. 4) Pre: Graduate standing or permission of instructor."
+    },
+    {
+        "code": "GEO565",
+        "title": "Geophysical Models",
+        "credits": "3",
+        "description": "(3 crs.) Model interpretation of gravity, magnetic, and geoelectric field surveys with geologic constraints. Conversion of quantitative geophysical models into geologic/hydrologic structures. (Lec. 2, Lab. 2) Pre: MTH 132, PHY 112 or equivalent. Offered in spring of odd-numbered years."
+    },
+    {
+        "code": "GEO572",
+        "title": "Advanced Evolutionary Biology",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (BIO), GEO 572. A survey of modern evolutionary biology, including classic evolutionary theory, phylogenetics, evolution and development, adaptation, mass extinction and genomic evolution. (Lec./Sem. 3) Pre: BIO/GEO 272, graduate standing, or permission of instructor."
+    },
+    {
+        "code": "GEO577",
+        "title": "Coastal Geologic Hazards",
+        "credits": "3",
+        "description": "(3 crs.) Geologic hazards in the coastal zone and their impact on people. Includes waves, storm-surge, mass-wasting, and sea-level rise. Geologic effectiveness of engineering structures and management techniques. Emphasis on field study. (Lec. 2, Lab. 3) Pre: graduate or advanced undergraduate standing in environmental, resource, or engineering major."
+    },
+    {
+        "code": "GEO580",
+        "title": "New England Geology",
+        "credits": "3",
+        "description": "(3 crs.) Review of the bedrock geology of New England, and its applications for the Appalachian/Caledonides mountain chain and theories of orogenesis. Mandatory field trips. (Lec. 3) Pre: GEO 320 or 370, or permission of instructor. Offered in fall of odd-numbered years."
+    },
+    {
+        "code": "GEO581",
+        "title": "Topics In Tectonic Geology",
+        "credits": "3",
+        "description": "(3 crs.) Review of selected topics in continental and oceanic tectonics. (Seminar) Pre: permission of instructor. Offered in fall of even-numbered years."
+    },
+    {
+        "code": "GEO582",
+        "title": "Innovative Subsurface Remediation Technologies",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (GEO), EVS 582, NRS 582. Innovative remediation technologies for treating contaminated groundwater and sediments: theory, applications, and limitations of selected methods. Discussion of case studies. Offered alternate years (Lec. 4) Pre: permission of instructor."
+    },
+    {
+        "code": "GEO583",
+        "title": "Groundwater Modeling",
+        "credits": "3",
+        "description": "(3 crs.) Numerical modeling of ground-water flow and solute transport. Numerical methods, model conceptualization, assumptions, boundary conditions, and complex aquifer systems. Modeling exercises including full-scale modeling project using MODFLOW. (Lec. 2, Lab. 3) Pre: GEO 483, or NRS 461 or CVE 588, or permission of instructor. Offered in odd-numbered years."
+    },
+    {
+        "code": "GEO584",
+        "title": "Environmental Hydrogeology",
+        "credits": "4",
+        "description": "(4 crs.) Cross-listed as (GEO), EVS, NRS 584. Develop an understanding of the physico-chemical principles and fundamental relationships that describe the fate and transport of contaminants in the hydrologic system. (Lec. 3, Lab 2) Pre: GEO 483 or CVE 588 or NRS 510 or permission of instructor."
+    },
+    {
+        "code": "GEO586",
+        "title": "Readings in Hydrogeology",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Seminar in hydrogeology with readings drawn from the current professional literature. (Seminar) Pre: permission of instructor. S/U credit."
+    },
+    {
+        "code": "GEO587",
+        "title": "Environmental Hazards, Risks, Response, and Safety",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (GEO), EVS 587. Environmental, health, and safety regulations and requirements for working with hazardous materials and at hazardous waste site-related work sites. Emphasis on application of knowledge and skills needed to anticipate, recognize, evaluate, and determine controls for various hazards and risks that may be encountered at site investigations, at waste sites, and in the industrial workplace. Includes opportunity to earn OSHA 40-hour certification. (Lec. 3) Pre: Permission of instructor.  Respirator clearance required prior to start of classes."
+    },
+    {
+        "code": "GEO589",
+        "title": "Environmental Hazards, Risks, Response, and Safety: Refresher",
+        "credits": "1",
+        "description": "(1 cr.) Cross-listed as (GEO), EVS 589. Review of the environmental, health, and safety requirements for working with hazardous materials and at hazardous waste site-related work activities. Includes opportunity to earn OSHA 8-hour refresher certification. (Lec. 1) Pre: GEO or EVS 587 or permission of instructor (current OSHA 40-hour HAZWOPER certificate required). May be repeated, but not for program credit."
+    },
+    {
+        "code": "GEO590",
+        "title": "Special Problems",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Advanced work under the supervision of a faculty member arranged to suit the individual requirements of the student. (Independent Study) Pre: permission of instructor."
+    },
+    {
+        "code": "GEO591",
+        "title": "Special Problems",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Advanced work under the supervision of a faculty member arranged to suit the individual requirements of the student. (Independent Study) Pre: permission of instructor. S/U credit."
+    },
+    {
+        "code": "GEO601",
+        "title": "Environmental Sciences Seminar",
+        "credits": "1",
+        "description": "(1 cr.) Cross-listed as (EVS), GEO 601. Guest speakers present the results of research in the field of environmental sciences with special focus on hydrologic environments. (Seminar)"
+    },
+    {
+        "code": "GEO920",
+        "title": "Geoscience Workshop for Teachers",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Current issues in Geosciences. Specific topics offered for in-service teachers and administrators. May be repeated with different topic. (Workshop/Online) Pre: teacher certification."
+    }
+]

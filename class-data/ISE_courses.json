@@ -1,0 +1,338 @@
+[
+    {
+        "code": "ISE240",
+        "title": "Manufacturing Processes and Systems",
+        "credits": "3",
+        "description": "(3 crs.) Introduction to a wide variety of manufacturing processes. Basic facility layout and manufacturing system design, including material handling and lean principles. (Lec. 3) Pre: CHM 101."
+    },
+    {
+        "code": "ISE241",
+        "title": "Laboratory for Manufacturing Processes and Systems",
+        "credits": "1",
+        "description": "(1 cr.) Laboratory demonstrations and experiments in machining, casting, metrology, and rapid prototyping.  Plant visits and lab tours. (Lab. 3) Pre: Credit or concurrent enrollment in ISE 240."
+    },
+    {
+        "code": "ISE261G",
+        "title": "Waste Not, Want Not: Sustainable Lean Production",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (ISE), SUS 261G. Students will learn about sustainability and the science and impact of decisions regarding the design, production, and consumption of goods. Product life cycle analysis including remanufacturing and recycling. (Lec. 3) (A1) (B4) (GC)"
+    },
+    {
+        "code": "ISE304",
+        "title": "(404) Engineering Economy and Project Planning",
+        "credits": "3",
+        "description": "(3 crs.) Effects of economics on engineering decisions in design, selection, and product or project proposals, project planning, resource allocation and scheduling using computer based tools. (Lec. 3)"
+    },
+    {
+        "code": "ISE311",
+        "title": "Probability and Statistics for Engineers",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (ISE 311), MCE 411. Introduction to probability and statistics in engineering applications including data analysis, probability theory, probability distributions, sampling distributions, statistical inference, hypotheses testing, confidence intervals, analysis of variance, and receiver operating characteristics. (Lec. 3) Pre: MTH 142 or permission of instructor."
+    },
+    {
+        "code": "ISE312",
+        "title": "(412) Statistical Methods and Quality Systems",
+        "credits": "3",
+        "description": "(3 crs.) Study of statistical methods and quality systems in engineering applications including statistical methods, quality improvement tools, control charts, process capability, linear regression, design of experiments, and acceptance sampling. (Lec. 3) Pre: ISE 311 or STA 409 or MTH 451 or permission of instructor."
+    },
+    {
+        "code": "ISE325",
+        "title": "Computer Tools for Engineers",
+        "credits": "3",
+        "description": "(3 crs.) The study and application of engineering tools for computing and information technology.  This course will provide students with the principles and applications of tools for data science and an introduction to computational methods.  (Lec. 2, Lab. 3) Pre: MTH 141."
+    },
+    {
+        "code": "ISE332",
+        "title": "(432) Operations Research: Deterministic Systems",
+        "credits": "3",
+        "description": "(3 crs.) Introduction to major areas of operations research and their application to systems analysis. Linear programming, transportation and transshipment models, elementary network analysis, integer programming, and related topics. (Lec. 3) Pre: MTH 362 or 215 or permission of instructor."
+    },
+    {
+        "code": "ISE333",
+        "title": "(433) Operations Research: Stochastic Systems",
+        "credits": "3",
+        "description": "(3 crs.) Markov chains, dynamic programming, queuing theory, simulation, forecasting, game theory, simple stochastic models, and their relation to selected problems. (Lec. 3) Pre: ISE 311 (411) and MTH 362 or MTH 244 or permission of instructor."
+    },
+    {
+        "code": "ISE334",
+        "title": "Simulation Modeling and Analysis",
+        "credits": "3",
+        "description": "(3 crs.) Simulation of complex deterministic/stochastic systems. Random number generation. Input and output analyses. Spreadsheet simulations Design of simulation experiments. Applications in manufacturing, supply-chain, networks, military, health care, service systems. (Lec. 2, Lab. 3) Pre: ISE 311 (411) or permission of instructor."
+    },
+    {
+        "code": "ISE391",
+        "title": "Special Problems in Industrial Engineering",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Independent study and seminar work under close faculty supervision. Discussion of advanced topics in preparation for graduate work. (Independent Study) Pre: junior standing and permission of instructor."
+    },
+    {
+        "code": "ISE392",
+        "title": "Special Problems in Industrial Engineering",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "description": "(1-3 crs.) Independent study and seminar work under close faculty supervision. Discussion of advanced topics in preparation for graduate work. (Independent Study) Pre: junior standing and permission of instructor."
+    },
+    {
+        "code": "ISE401",
+        "title": "Industrial and Systems Engineering Capstone Design I",
+        "credits": "3",
+        "description": "(3 crs.) Application of engineering skills using a team-based approach. Design process methodology and communication of solutions to real-world engineering problems. First of a two-course sequence. (Lec. 2, Lab. 3) Pre: ISE 240, 312 (412), and 332 (432) or 333 (433), or permission of instructor. Not for graduate credit."
+    },
+    {
+        "code": "ISE402",
+        "title": "Industrial and Systems Engineering Capstone Design II",
+        "credits": "4",
+        "description": "(3 crs.) Application of engineering skills using a team-based approach. Design process methodology and communication of solutions to real-world engineering problems. Second of a two-course sequence. (Lec. 2, Lab. 3). Pre: ISE 401 or permission of instructor. Not for graduate credit. (D1)"
+    },
+    {
+        "code": "ISE420",
+        "title": "Introduction to Human Factors and Ergonomics",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed with (ISE), PSY 420. A study of human capabilities and their interactions with the systems where they perform their jobs to help engineers and psychologists to optimize design, improve jobs, and enhance system performance. (Lec. 2, Lab. 1) Pre: ISE 311 (411) / MCE 411 or STA 412 or permission of instructor. Not for graduate credit."
+    },
+    {
+        "code": "ISE445",
+        "title": "Facilities Planning and Material Handling",
+        "credits": "3",
+        "description": "(3 crs.) Facility layout, facility location, and material handling topics including system requirements, planning, performance analysis, equipment, and economic considerations. Applications include facilities for manufacturing, distribution, healthcare, and service industries. (Lec. 3) Pre: ISE 240 and 332 (432), or permission of instructor."
+    },
+    {
+        "code": "ISE449",
+        "title": "Product Design for Manufacture",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (ISE), MCE 449. Techniques for analyzing product structures for ease of assembly and manufacture. Manual, robot, and high-speed mechanized assembly systems considered for mechanical and electronic products. Covers choice of material and processes in early design. (Lec. 3) Pre: ISE 240 or permission of instructor.  Not for graduate credit."
+    },
+    {
+        "code": "ISE451",
+        "title": "Production System Design",
+        "credits": "3",
+        "description": "(3 crs.) Stochastic and deterministic models of production and inventory systems. Push and pull production control systems.  Manufacturing system design, scheduling, material handling and facility layout. (Lec. 3) Pre: ISE 332 (432) or 333 (433) or permission of instructor."
+    },
+    {
+        "code": "ISE460",
+        "title": "Product Design for the Environment",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (ISE) MCE 460. Principles and practices of designing more environmentally beneficial products. Environmental effects. Life cycle analysis, recycling and remanufacturing. Design for disassembly and environment. Group projects on product and process design using LCA and DFE analysis tools. (Lec. 3) Pre: ISE 240, CHE 333 or 437."
+    },
+    {
+        "code": "ISE461G",
+        "title": "Solar Energy Systems",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (ISE) SUS 461. The study of renewables via solar energy systems. Methods, economic criteria, and background for assessing the systems of solar energy conversion technologies both in local and international settings. (Lec. 3) Pre: (junior standing, PHY 204, and MTH 142), or permission of instructor. (C2) (A1) (GC)"
+    },
+    {
+        "code": "ISE491",
+        "title": "Special Problems",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "(1-6 crs.) Advanced work under the supervision of a member of the faculty and arranged to suit the individual requirements of the student. (Independent Study) Pre: permission of instructor. May be repeated for a maximum of 12 credits."
+    },
+    {
+        "code": "ISE492",
+        "title": "Special Problems",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "(1-6 crs.) Advanced work under the supervision of a member of the faculty and arranged to suit the individual requirements of the student. (Independent Study) Pre: permission of instructor. May be repeated for a maximum of 12 credits."
+    },
+    {
+        "code": "ISE500",
+        "title": "Project Planning and Management in Systems Engineering",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed (ISE) ELE 500.  Presents the tools and processes to help plan and manage real-world systems engineering projects including network planning, scheduling, analysis, synthesis; critical path method/PERT; computer-aided planning; and other contemporary tools.  (Lec. 3) Pre: ISE 332 (432) or permission of instructor."
+    },
+    {
+        "code": "ISE513",
+        "title": "Quality Systems",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (ISE), STA 513. Topics in statistical quality control systems. Single, multiple, and sequential sampling. Design and analysis of a wide variety of statistical control systems used in conjunction with discrete and continuous data, for several kinds of data emission. (Lec. 3) Pre: ISE 311 (411) or equivalent."
+    },
+    {
+        "code": "ISE520",
+        "title": "Human Factors & Ergonomics",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (ISE), PSY 520. A study of human capabilities, mental and physical, and their interactions within the systems where they perform their jobs to help optimize design, improve jobs, and enhance system performance. (Lec. 2, Lab. 1) Pre: Graduate standing or permission of instructor. This course is not open for the students who have prior credit in the 400-level version (ISE/PSY 420)."
+    },
+    {
+        "code": "ISE521",
+        "title": "Human Systems Engineering",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (ISE), PSY 521. A study of human capabilities via mental processing and decision making models where students will learn to develop, use, and validate models of human cognitive performance for individuals and teams. (Lec. 3) Pre: Graduate standing or permission of instructor."
+    },
+    {
+        "code": "ISE525",
+        "title": "Systems Simulation",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (ISE), CSC 525, ELE 515. Simulation of random processes and systems. Continuous and discrete simulation models. Data structures and algorithms for simulation. Generation of random variates, design of simulation experiments for optimization and validation of models and results.  Selected engineering applications. (Lec. 3) Pre: CSC 212 or ISE 325, ISE 333 (433) or ELE 509, or permission of instructor."
+    },
+    {
+        "code": "ISE533",
+        "title": "Advanced Statistical Methods for Research and Industry",
+        "credits": "3",
+        "description": "(3 crs.) Describing and analyzing data, design of experiments, analysis of variance, regression analysis and applications in industry and applied science research. (Lec. 3) Pre: ISE 311 (411) or permission of instructor."
+    },
+    {
+        "code": "ISE540",
+        "title": "Production Control and Inventory Systems",
+        "credits": "3",
+        "description": "(3 crs.) Theory and practice of industrial production control and inventory systems. A broad spectrum of mathematical models for static, dynamic, perpetual, and periodic inventory systems as they affect and relate to production. (Lec. 3) Pre: ISE 332 (432) or permission of instructor."
+    },
+    {
+        "code": "ISE541",
+        "title": "Advanced Materials Processing",
+        "credits": "3",
+        "description": "(3 crs.) Continuation of 340. Engineering analyses in the processing of materials. Dynamic coupling, tool-work-piece interaction, energy and thermal analysis; mechanics of material removal and displacements; advanced topics in mechanical electrical systems for processing of materials. (Lec. 3) Pre: ISE 240 or permission of instructor."
+    },
+    {
+        "code": "ISE542",
+        "title": "Introduction to Computer-Aided Manufacturing",
+        "credits": "3",
+        "description": "(3 crs.) Use of computers in manufacturing. Solid modeling principles and applications. Numerical and adaptive control. CNC programming. Introduction to rapid manufacturing. (Lec. 3) Pre: ISE 240 or permission of instructor."
+    },
+    {
+        "code": "ISE543",
+        "title": "Fundamentals of Machining",
+        "credits": "3",
+        "description": "(3 crs.) Fundamental treatment of the mechanics and economics of metal machining and grinding. Includes an introduction to numerical control and computer-aided programming of CNC machine tools. (Lec. 3) Pre: ISE 240 or permission of instructor. Not for graduate credit for students with credit in 443."
+    },
+    {
+        "code": "ISE544",
+        "title": "Automatic Assembly Systems",
+        "credits": "3",
+        "description": "(3 crs.) Types and economics of automatic assembly systems. Analysis of automatic feeding and orienting techniques for small parts. Application of robots in assembly. Economics of assembly systems for printed circuit boards. (Lec. 3) Pre: ISE 240 or permission of instructor. Not for graduate credit for students with credit in 444."
+    },
+    {
+        "code": "ISE545",
+        "title": "Manufacturing Systems: Analysis, Design, Simulation",
+        "credits": "3",
+        "description": "(3 crs.) Problems in system analysis and design as related to modern manufacturing. Quantitative models and simulation methods for manufacturing planning, control scheduling, flexible manufacturing and highly automated manufacturing systems. (Lec. 3) Pre: ISE 332 (432) or permission of instructor."
+    },
+    {
+        "code": "ISE546",
+        "title": "Advanced Metal Deformation Processes",
+        "credits": "3",
+        "description": "(3 crs.) Theory of metal flow under different loading conditions. Prediction of metal forming process capabilities. Advanced topics include effects of anisotropy and mechanics of powder forming. (Lec. 3) Pre: ISE 240 or permission of instructor. Not for graduate credit for students with credit in 446."
+    },
+    {
+        "code": "ISE549",
+        "title": "Advanced Product Design for Manufacture",
+        "credits": "3",
+        "description": "(3 crs.) Cross-listed as (ISE), MCE 549. Techniques for analyzing product structures for ease of assembly and manufacture. Considers mechanical and electronic products and choice of materials and processes. A design project and term paper are required. (Lec. 3) Pre: ISE 240 or permission of instructor. Not for graduate credit for students with credit in ISE 449."
+    },
+    {
+        "code": "ISE550",
+        "title": "Design for Producibility",
+        "credits": "3",
+        "description": "(3 crs.)  Project work on product development, collaboration with industry, and submission of design project report. Concentration on effect of design decisions on manufacturing efficiency and cost. (Independent Study) Pre: ISE 449 or 549 or permission of instructor."
+    },
+    {
+        "code": "ISE552",
+        "title": "Lean Systems",
+        "credits": "3",
+        "description": "(3 crs.) Advanced study of enterprise system design including application of lean principles to service industries. Specific topics include lean manufacturing, waste elimination, reduction of cycle and set-up times, reconfigurable systems, quality and performance analysis. (Lec. 3) Pre: ISE 451 or 540 or permission of instructor."
+    },
+    {
+        "code": "ISE555",
+        "title": "Deterministic Systems Optimization",
+        "credits": "3",
+        "description": "(3 crs.) Linear, nonlinear and integer formulations and solutions. Sensitivity analysis and pricing problems; degeneracy and duality; decomposition methods for large-scale systems; use of mathematical programming languages and applications. Pre: ISE 332 (432) or permission of instructor. In alternate years."
+    },
+    {
+        "code": "ISE571",
+        "title": "Industry 4.0 Fundamentals",
+        "credits": "3",
+        "description": "(3 crs.) Overview of the industrial automation field in the context of Industry 4.0. It familiarizes participants with the fundamental principles of industrial controllers, encompassing their constituent components and systems, as well as their contemporary deployment in manufacturing facilities. It underscores the significance of Industry 4.0 and its ramifications on the automation domain. Specific topics of focus include sensor technologies, feedback control, autonomous mobile robots (AMR), industrial communication networks, and rugged embedded systems. (Accelerated Online Program) Pre: Bachelors or advanced standing in STEM major, or permission of instructor.  "
+    },
+    {
+        "code": "ISE572",
+        "title": "Machine Learning for Industry 4.0",
+        "credits": "3",
+        "description": "(3 crs.) Explores the applications of machine learning techniques in Industry 4.0. The course will provide an in-depth analysis of various techniques such as deep learning, neural networks, and data analysis. These techniques will be examined in the context of predictive maintenance, part status estimation, quality control, intelligent robotics, and other relevant areas. (Accelerated Online Program) Pre: Bachelors or advanced standing in STEM major, or permission of instructor.  "
+    },
+    {
+        "code": "ISE573",
+        "title": "Manufacturing Execution Systems",
+        "credits": "3",
+        "description": "(3 crs.) Explores Manufacturing Execution Systems (MES) in the context of Industry 4.0, covering topics such as real-time data acquisition, production scheduling, quality management, and integration with other systems. (Accelerated Online Program) Pre: Bachelors or advanced standing in STEM major, or permission of instructor.  "
+    },
+    {
+        "code": "ISE575",
+        "title": "Industry 4.0 Special Projects",
+        "credits": "3",
+        "description": "(3 crs.) Students will apply their knowledge about Industry 4.0 and machine learning to a real-world case study. The case study will be chosen to provide a comprehensive and practical problem that requires various Industry 4.0 techniques. Students will work in teams to develop and present a solution to the case study, incorporating their knowledge of machine learning techniques, data analysis, and problem-solving skills. Through this course, students will gain hands-on experience and deepen their understanding of the challenges and opportunities of modern manufacturing and intelligent systems in the context of Industry 4.0. (Accelerated Online Program) Pre: Bachelors or advanced standing in STEM major, or permission of instructor.  "
+    },
+    {
+        "code": "ISE591",
+        "title": "Special Problems",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "(1-6 crs.) Advanced work under supervision of a faculty member arranged to suit the individual requirements of the student. (Independent Study) Pre: permission of instructor. May be repeated for a maximum of 12 credits."
+    },
+    {
+        "code": "ISE592",
+        "title": "Special Problems",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "(1-6 crs.) Advanced work under supervision of a faculty member arranged to suit the individual requirements of the student. (Independent Study) Pre: permission of instructor. May be repeated for a maximum of 12 credits."
+    },
+    {
+        "code": "ISE599",
+        "title": "Master's Thesis Research",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "description": "(1-9 crs.) Number of credits is determined each semester in consultation with the major professor or program committee. (Independent Study) S/U credit."
+    },
+    {
+        "code": "ISE634",
+        "title": "Design and Analysis of Experiments",
+        "credits": "3",
+        "description": "(3 crs.) Advanced topics in the design and analysis of experiments: factorial designs, blocking and confounding in factorial designs, fractional factorial designs, response surface methods and designs, nested and split-plot designs, other design and analysis topics. (Lec. 3) Pre: ISE 533 or permission of instructor."
+    },
+    {
+        "code": "ISE660",
+        "title": "Nonlinear Systems Optimization",
+        "credits": "3",
+        "description": "(3 crs.) Methods of optimization: indirect, direct elimination, climbing. Geometric programming. Problems and other topics in applied optimization. (Lec. 3) Pre: ISE 332 (432) or permission of instructor."
+    },
+    {
+        "code": "ISE691",
+        "title": "Advanced Special Problems In Industrial Engineering",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "(1-6 crs.) Advanced work under the supervision of a faculty member arranged to suit the individual requirements of the student. (Independent Study) Pre: permission of instructor. May be repeated for a maximum of 12 credits."
+    },
+    {
+        "code": "ISE692",
+        "title": "Advanced Special Problems in Industrial Engineering",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "description": "(1-6 crs.) Advanced work under the supervision of a faculty member arranged to suit the individual requirements of the student. (Independent Study) Pre: permission of instructor. May be repeated for a maximum of 12 credits."
+    },
+    {
+        "code": "ISE699",
+        "title": "Doctoral Dissertation Research",
+        "credits": {
+            "min": "1",
+            "max": "12"
+        },
+        "description": "(1-12 crs.) Number of credits is determined each semester in consultation with the major professor or program committee. (Independent Study) S/U only."
+    }
+]
