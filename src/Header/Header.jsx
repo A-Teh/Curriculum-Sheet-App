@@ -1,6 +1,6 @@
 import './Header.css';
 
-function Header({ toggleSidebar }){
+function Header({ toggleSidebar, toggleSemesterView, toggleClassList }){
 
     const hamburgerIconLight = 'src/assets/hamburger_icon_light.png'
     const hamburgerIconDark = 'src/assets/hamburger_icon_dark.png'

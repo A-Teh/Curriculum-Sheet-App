@@ -1,0 +1,44 @@
+.class-list {
+    table-layout: auto;
+    height: fit-content;
+    border-collapse: collapse;
+    margin: 20px 20px;
+    font-size: 16px;
+    background-color: var(--color-table);
+    align-items: center;
+    z-index: 1;
+}
+
+.class-list thead tr th{
+    font-weight: bold;
+}
+
+.class-list th, .class-list td {
+    padding: 10px 15px;
+    text-align: left;
+    position: relative;
+}
+
+.blurred {
+  filter: blur(4px);
+  pointer-events: none; /* optional: prevent clicks on blurred background */
+}
+
+
+@media (prefers-color-scheme: dark){
+    .class-list {
+    background-color: var(--color-table-dark);
+    }
+}
+
+@media (max-width: 500px) {
+  .class-list {
+    margin: 20px 20px;
+    font-size: 12px;
+  }
+
+  .class-list th, .class-list td {
+    padding: 5px 8px;
+    font-size: 1em;
+  }
+}

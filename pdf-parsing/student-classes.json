@@ -1,0 +1,278 @@
+[
+    {
+        "code": "CSC106",
+        "grade": "A",
+        "semester": "S22",
+        "credits": 4
+    },
+    {
+        "code": "WRT104",
+        "grade": "A",
+        "semester": "F22",
+        "credits": 3
+    },
+    {
+        "code": "CSC211",
+        "grade": "A",
+        "semester": "S23",
+        "credits": 4
+    },
+    {
+        "code": "COM100",
+        "grade": "A-",
+        "semester": "F23",
+        "credits": 3
+    },
+    {
+        "code": "CSC110",
+        "grade": "A",
+        "semester": "F23",
+        "credits": 4
+    },
+    {
+        "code": "MTH142",
+        "grade": "A",
+        "semester": "F23",
+        "credits": 4
+    },
+    {
+        "code": "MTH180",
+        "grade": "A",
+        "semester": "F23",
+        "credits": 3
+    },
+    {
+        "code": "URI101",
+        "grade": "B+",
+        "semester": "F23",
+        "credits": 1
+    },
+    {
+        "code": "ECN100",
+        "grade": "T",
+        "semester": "F23",
+        "credits": 3
+    },
+    {
+        "code": "ECN1XX",
+        "grade": "T",
+        "semester": "F23",
+        "credits": 1
+    },
+    {
+        "code": "FRN103",
+        "grade": "T",
+        "semester": "F23",
+        "credits": 3
+    },
+    {
+        "code": "FRN1XX",
+        "grade": "T",
+        "semester": "F23",
+        "credits": 1
+    },
+    {
+        "code": "GNED1A4",
+        "grade": "T",
+        "semester": "F23",
+        "credits": 4
+    },
+    {
+        "code": "HIS142",
+        "grade": "T",
+        "semester": "F23",
+        "credits": 3
+    },
+    {
+        "code": "CSC211",
+        "grade": "T",
+        "semester": "F23",
+        "credits": 4
+    },
+    {
+        "code": "CSC106",
+        "grade": "T",
+        "semester": "F23",
+        "credits": 4
+    },
+    {
+        "code": "MTH111",
+        "grade": "T",
+        "semester": "F23",
+        "credits": 3
+    },
+    {
+        "code": "MTH141",
+        "grade": "T",
+        "semester": "F23",
+        "credits": 4
+    },
+    {
+        "code": "STA220",
+        "grade": "T",
+        "semester": "F23",
+        "credits": 3
+    },
+    {
+        "code": "STA308",
+        "grade": "T",
+        "semester": "F23",
+        "credits": 4
+    },
+    {
+        "code": "CSC212",
+        "grade": "B",
+        "semester": "S24",
+        "credits": 4
+    },
+    {
+        "code": "MTH215",
+        "grade": "A",
+        "semester": "S24",
+        "credits": 3
+    },
+    {
+        "code": "PHY111",
+        "grade": "A",
+        "semester": "S24",
+        "credits": 3
+    },
+    {
+        "code": "PHY185",
+        "grade": "A-",
+        "semester": "S24",
+        "credits": 1
+    },
+    {
+        "code": "WRT235",
+        "grade": "A",
+        "semester": "S24",
+        "credits": 4
+    },
+    {
+        "code": "ECN201",
+        "grade": "T",
+        "semester": "S24",
+        "credits": 3
+    },
+    {
+        "code": "MTH243",
+        "grade": "T",
+        "semester": "Sum24",
+        "credits": 3
+    },
+    {
+        "code": "MTH2XX",
+        "grade": "T",
+        "semester": "Sum24",
+        "credits": 1
+    },
+    {
+        "code": "CSC310",
+        "grade": "A",
+        "semester": "F24",
+        "credits": 4
+    },
+    {
+        "code": "MTH244",
+        "grade": "A",
+        "semester": "F24",
+        "credits": 3
+    },
+    {
+        "code": "MTH471",
+        "grade": "A",
+        "semester": "F24",
+        "credits": 3
+    },
+    {
+        "code": "STA400",
+        "grade": "A",
+        "semester": "F24",
+        "credits": 4
+    },
+    {
+        "code": "CSC340",
+        "grade": "A",
+        "semester": "S25",
+        "credits": 4
+    },
+    {
+        "code": "CSC411",
+        "grade": "A",
+        "semester": "S25",
+        "credits": 4
+    },
+    {
+        "code": "MTH451",
+        "grade": "A",
+        "semester": "S25",
+        "credits": 3
+    },
+    {
+        "code": "STA412",
+        "grade": "A",
+        "semester": "S25",
+        "credits": 4
+    },
+    {
+        "code": "HDF205G",
+        "grade": "A",
+        "semester": "Sum25",
+        "credits": 3
+    },
+    {
+        "code": "CSC492",
+        "grade": "In Progress",
+        "semester": "F25",
+        "credits": 4
+    },
+    {
+        "code": "DSP101",
+        "grade": "In Progress",
+        "semester": "F25",
+        "credits": 1
+    },
+    {
+        "code": "MTH437",
+        "grade": "In Progress",
+        "semester": "F25",
+        "credits": 3
+    },
+    {
+        "code": "PHY112",
+        "grade": "In Progress",
+        "semester": "F25",
+        "credits": 3
+    },
+    {
+        "code": "PHY186",
+        "grade": "In Progress",
+        "semester": "F25",
+        "credits": 1
+    },
+    {
+        "code": "CSC440",
+        "grade": "In Progress",
+        "semester": "S26",
+        "credits": 4
+    },
+    {
+        "code": "CSF202",
+        "grade": "In Progress",
+        "semester": "S26",
+        "credits": 4
+    },
+    {
+        "code": "MTH438",
+        "grade": "In Progress",
+        "semester": "S26",
+        "credits": 3
+    },
+    {
+        "code": "MTH442",
+        "grade": "In Progress",
+        "semester": "S26",
+        "credits": 3
+    }
+]

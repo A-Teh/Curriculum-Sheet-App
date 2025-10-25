@@ -39,7 +39,8 @@ function ClassSelection({toggleClassSelection, selectedRequirement}){
     function displayClassData(code){
         const majorCode = code.slice(0,3)
         const currCourses = majorCourses[majorCode];
-
+        
+        // Return something incase of a loading issue so no crash
         if (!currCourses) {
             return <td>Loading course...</td>;
         }

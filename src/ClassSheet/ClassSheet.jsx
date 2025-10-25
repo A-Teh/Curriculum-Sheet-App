@@ -5,7 +5,6 @@ function ClassSheet({ major, toggleClassSelection}){
 
     const [courses, setCourses] = useState([]);
     const [studentData, setStudentData] = useState([]);
-    const [plannedClasses, setPlannedClasses] = useState([])
 
     useEffect(() => {
         fetch(`/Curriculum-Sheet-App/majors/${major}.json`)
@@ -16,10 +15,7 @@ function ClassSheet({ major, toggleClassSelection}){
         .then(res => res.json())
         .then(data => setStudentData(data));
 
-        fetch(`/Curriculum-Sheet-App/student-data/planned-classes.json`)
-        .then(res => res.json())
-        .then(data => setPlannedClasses(data));
-  }, []);
+    }, []);
 
     function getSemesterTaken(code){
         const course = studentData.find(c => c.code === code);
@@ -36,6 +32,7 @@ function ClassSheet({ major, toggleClassSelection}){
         return course ? course.grade : null;
     }
 
+    // Returns the code, semester, credits, and grade of a given requirement for a major
     function displayRequirementData(course){
         
         const code = course.codes[0] // For now always display the first class, in the future this can be modified and stored in local memory
